@@ -55,3 +55,5 @@ QGIS will create a new layer with this data and you now need to merge in to the 
 1. Working with GIS data will create a lot of files. **Creating new directories** will help.
 
 ## Mapbox
+
+>>Notes; GeoJSON plugin

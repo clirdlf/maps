@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <title>CLIR+DLF Mapping Data</title>
+  <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+
+  <!-- marker clusters -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+
+  <!-- hash (for getting a specific view in the URL) -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-hash/v0.2.1/leaflet-hash.js'></script>
+
+  <!-- full screen -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.4/Leaflet.fullscreen.min.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.4/leaflet.fullscreen.css' rel='stylesheet' />
+</head>
+
+<body>
+  <div id="map"></div>
+
+  <script>
+    var pattern = 'http://a.tiles.mapbox.com/v4/wsg4w.6xbtm1m3/14/4823/6160.vector.pbf?access_token=pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
+    var token = 'pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
+    L.mapbox.accessToken = token;
+    var map = L.mapbox.map('map').setView([38.8922,-77.0348], 14);
+
+    // L.mapbox.tileLayer('wsg4w.6xbtm1m3').addTo(map);
+    L.control.layers({
+      'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+      'Mapbox Light': L.mapbox.tileLayer('mapbox.light')
+    }, {
+      'CLIR Sponsors': L.mapbox.featureLayer('./clir_sponsors.json').on('ready', function(e) {
+          // The clusterGroup gets each marker in the group added to it
+          // once loaded, and then is added to the map
+          var clusterGroup = new L.MarkerClusterGroup();
+          e.target.eachLayer(function(layer) {
+              clusterGroup.addLayer(layer);
+          });
+          map.addLayer(clusterGroup);
+      }),
+      'DLF Members': L.mapbox.featureLayer('./dlf_members.json').on('ready', function(e) {
+          // The clusterGroup gets each marker in the group added to it
+          // once loaded, and then is added to the map
+          var clusterGroup = new L.MarkerClusterGroup();
+          e.target.eachLayer(function(layer) {
+              clusterGroup.addLayer(layer);
+          });
+          map.addLayer(clusterGroup);
+      })
+    }
+  ).addTo(map);
+
+  L.control.fullscreen().addTo(map);
+
+  var hash = L.hash(map);
+  </script>
+</body>
+
+</html>
