@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Ursinus College",
+        "Organization": "Ursinus College",
         "Address": "601 E Main St",
         "City": "Collegeville",
         "State/Terr": "PA",
-        "Postal Cod": "19426-1000",
+        "Postal Code": "19426-1000",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -24,11 +24,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "American University",
+        "Organization": "American University",
         "Address": "4400 Massachusetts Avenue",
         "City": "Washington",
         "State/Terr": "D.C.",
-        "Postal Cod": "20016-8046",
+        "Postal Code": "20016-8046",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -44,11 +44,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Arizona State University",
+        "Organization": "Arizona State University",
         "Address": "Hayden Library",
         "City": "Tempe",
         "State/Terr": "AZ",
-        "Postal Cod": "85287-1006",
+        "Postal Code": "85287-1006",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -64,11 +64,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Auburn University",
+        "Organization": "Auburn University",
         "Address": "RBD Library",
         "City": "Auburn",
         "State/Terr": "AL",
-        "Postal Cod": "36849-5606",
+        "Postal Code": "36849-5606",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -84,11 +84,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Baylor University",
+        "Organization": "Baylor University",
         "Address": "One Bear Place, #97143",
         "City": "Waco",
         "State/Terr": "TX",
-        "Postal Cod": "76798-7143",
+        "Postal Code": "76798-7143",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -104,11 +104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Binghamton University",
+        "Organization": "Binghamton University",
         "Address": "P.O. Box 6012",
         "City": "Binghamton",
         "State/Terr": "NY",
-        "Postal Cod": "13902-6012",
+        "Postal Code": "13902-6012",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -124,11 +124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Boston College",
+        "Organization": "Boston College",
         "Address": "140 Commonwealth Avenue",
         "City": "Chestnut Hill",
         "State/Terr": "MA",
-        "Postal Cod": "02167",
+        "Postal Code": "02167",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -144,11 +144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Brigham Young University",
+        "Organization": "Brigham Young University",
         "Address": "3080 Harold B. Lee Library",
         "City": "Provo",
         "State/Terr": "UT",
-        "Postal Cod": "84602-6800",
+        "Postal Code": "84602-6800",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -164,11 +164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Brown University",
+        "Organization": "Brown University",
         "Address": "Brown University Library",
         "City": "Providence",
         "State/Terr": "RI",
-        "Postal Cod": "2912",
+        "Postal Code": "2912",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -184,11 +184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Institute of Technology",
+        "Organization": "California Institute of Technology",
         "Address": "1200 E. California Blvd.",
         "City": "Pasadena",
         "State/Terr": "CA",
-        "Postal Cod": "91125-3200",
+        "Postal Code": "91125-3200",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -204,11 +204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Duke University",
+        "Organization": "Duke University",
         "Address": "112 Perkins Library",
         "City": "Durham",
         "State/Terr": "NC",
-        "Postal Cod": "027708",
+        "Postal Code": "027708",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -224,11 +224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Folger Shakespeare Library",
+        "Organization": "Folger Shakespeare Library",
         "Address": "201 East Capitol Street, SE",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20003",
+        "Postal Code": "20003",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -244,11 +244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Georgetown University",
+        "Organization": "Georgetown University",
         "Address": "37th and O Streets, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20057-1174",
+        "Postal Code": "20057-1174",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -264,11 +264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Georgia Institute of Technology",
+        "Organization": "Georgia Institute of Technology",
         "Address": "704 Cherry Street",
         "City": "Atlanta",
         "State/Terr": "GA",
-        "Postal Cod": "30332-0001",
+        "Postal Code": "30332-0001",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -284,11 +284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Iowa State University",
+        "Organization": "Iowa State University",
         "Address": "302 Parks Library",
         "City": "Ames",
         "State/Terr": "IA",
-        "Postal Cod": "50011-2140",
+        "Postal Code": "50011-2140",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -304,11 +304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Lehigh University",
+        "Organization": "Lehigh University",
         "Address": "8A East Packer Avenue",
         "City": "Bethlehem",
         "State/Terr": "PA",
-        "Postal Cod": "18015-3170",
+        "Postal Code": "18015-3170",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -324,11 +324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Library of Congress",
+        "Organization": "Library of Congress",
         "Address": "101 Independence Ave.,SE",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20540-4000",
+        "Postal Code": "20540-4000",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -344,11 +344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Marquette University",
+        "Organization": "Marquette University",
         "Address": "P.O. Box 3141",
         "City": "Milwaukee",
         "State/Terr": "WI",
-        "Postal Cod": "53201-3141",
+        "Postal Code": "53201-3141",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -364,11 +364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "McMaster University",
+        "Organization": "McMaster University",
         "Address": "1280 Main Street W.",
         "City": "Hamilton",
         "State/Terr": "ON",
-        "Postal Cod": "L8S 4L6",
+        "Postal Code": "L8S 4L6",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -384,11 +384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Miami University",
+        "Organization": "Miami University",
         "Address": "225 King Library",
         "City": "Oxford",
         "State/Terr": "OH",
-        "Postal Cod": "45056",
+        "Postal Code": "45056",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -404,11 +404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Michigan State University",
+        "Organization": "Michigan State University",
         "Address": "366 W. Circle Drive",
         "City": "East Lansing",
         "State/Terr": "MI",
-        "Postal Cod": "48824-1042",
+        "Postal Code": "48824-1042",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -424,11 +424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Middle Tennessee State University",
+        "Organization": "Middle Tennessee State University",
         "Address": "James E. Walker Library",
         "City": "Murfreesboro",
         "State/Terr": "TN",
-        "Postal Cod": "37132",
+        "Postal Code": "37132",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -444,11 +444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Mississippi State University",
+        "Organization": "Mississippi State University",
         "Address": "PO Box 5408",
         "City": "Mississippi State",
         "State/Terr": "MS",
-        "Postal Cod": "39762-5408",
+        "Postal Code": "39762-5408",
         "Country": "USA",
         "addrtype": "administrative_area_level_1",
         "addrlocat": "APPROXIMATE"
@@ -464,11 +464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Northeastern University",
+        "Organization": "Northeastern University",
         "Address": "320 Snell Library",
         "City": "Boston",
         "State/Terr": "MA",
-        "Postal Cod": "02115-5005",
+        "Postal Code": "02115-5005",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -484,11 +484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Northwestern University",
+        "Organization": "Northwestern University",
         "Address": "1970 Campus Drive",
         "City": "Evanston",
         "State/Terr": "IL",
-        "Postal Cod": "60208-2300",
+        "Postal Code": "60208-2300",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -504,11 +504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Oregon State University",
+        "Organization": "Oregon State University",
         "Address": "121 The Valley Library",
         "City": "Corvallis",
         "State/Terr": "OR",
-        "Postal Cod": "97331-4501",
+        "Postal Code": "97331-4501",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -524,11 +524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Pepperdine University",
+        "Organization": "Pepperdine University",
         "Address": "24255 Pacific Coast Highway",
         "City": "Malibu",
         "State/Terr": "CA",
-        "Postal Cod": "90263",
+        "Postal Code": "90263",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -544,11 +544,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Rutgers, The State University of New Jersey",
+        "Organization": "Rutgers, The State University of New Jersey",
         "Address": "169 College Avenue,CAC",
         "City": "New Brunswick",
         "State/Terr": "NJ",
-        "Postal Cod": "08901-1163",
+        "Postal Code": "08901-1163",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -564,11 +564,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Simon Fraser University",
+        "Organization": "Simon Fraser University",
         "Address": "W. A. C. Bennett Library",
         "City": "Burnaby",
         "State/Terr": "BC",
-        "Postal Cod": "V5A 1S6",
+        "Postal Code": "V5A 1S6",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -584,11 +584,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Southern Methodist University",
+        "Organization": "Southern Methodist University",
         "Address": "P.O. Box 750135",
         "City": "Dallas",
         "State/Terr": "TX",
-        "Postal Cod": "75275-0135",
+        "Postal Code": "75275-0135",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -604,11 +604,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Syracuse University",
+        "Organization": "Syracuse University",
         "Address": "222 Waverly Avenue",
         "City": "Syracuse",
         "State/Terr": "NY",
-        "Postal Cod": "13244-2010",
+        "Postal Code": "13244-2010",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -624,11 +624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Temple University",
+        "Organization": "Temple University",
         "Address": "1210 Polett Walk",
         "City": "Philadelphia",
         "State/Terr": "PA",
-        "Postal Cod": "19122",
+        "Postal Code": "19122",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -644,11 +644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Texas Tech University",
+        "Organization": "Texas Tech University",
         "Address": "18th and Boston",
         "City": "Lubbock",
         "State/Terr": "TX",
-        "Postal Cod": "79409-0002",
+        "Postal Code": "79409-0002",
         "Country": "USA",
         "addrtype": "intersection",
         "addrlocat": "APPROXIMATE"
@@ -664,11 +664,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The Catholic University of America",
+        "Organization": "The Catholic University of America",
         "Address": "620 Michigan Avenue, NE",
         "City": "Washintgon",
         "State/Terr": "D.C.",
-        "Postal Cod": "20064",
+        "Postal Code": "20064",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -684,11 +684,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The Center for Association Growth",
+        "Organization": "The Center for Association Growth",
         "Address": "1926 Waukegan Road",
         "City": "Glenview",
         "State/Terr": "IL",
-        "Postal Cod": "60025",
+        "Postal Code": "60025",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -704,11 +704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The Ohio State University",
+        "Organization": "The Ohio State University",
         "Address": "1858 Neil Avenue Mall",
         "City": "Columbus",
         "State/Terr": "OH",
-        "Postal Cod": "43210",
+        "Postal Code": "43210",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -724,11 +724,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Tufts University",
+        "Organization": "Tufts University",
         "Address": "16 Dearborn Rd.",
         "City": "Somerville",
         "State/Terr": "MA",
-        "Postal Cod": "02144",
+        "Postal Code": "02144",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -744,11 +744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Tulane University",
+        "Organization": "Tulane University",
         "Address": "7001 Freret Street",
         "City": "New Orleans",
         "State/Terr": "LA",
-        "Postal Cod": "70118-5682",
+        "Postal Code": "70118-5682",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -764,11 +764,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Universite Laval",
+        "Organization": "Universite Laval",
         "Address": "Bibliotheque",
         "City": "Quebec",
         "State/Terr": "QC",
-        "Postal Cod": "G1V 0A6",
+        "Postal Code": "G1V 0A6",
         "Country": "Canada",
         "addrtype": "park",
         "addrlocat": "APPROXIMATE"
@@ -784,11 +784,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Alabama",
+        "Organization": "University of Alabama",
         "Address": "Box 870266",
         "City": "Tuscaloosa",
         "State/Terr": "AL",
-        "Postal Cod": "35487-0266",
+        "Postal Code": "35487-0266",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -804,11 +804,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Alberta",
+        "Organization": "University of Alberta",
         "Address": "University of Alberta Libraries",
         "City": "Edmonton",
         "State/Terr": "AB",
-        "Postal Cod": "T6G 2J8",
+        "Postal Code": "T6G 2J8",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -824,11 +824,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Arkansas",
+        "Organization": "University of Arkansas",
         "Address": "365 N McIlroy Avenue",
         "City": "Fayatteville",
         "State/Terr": "AR",
-        "Postal Cod": "72701-4002",
+        "Postal Code": "72701-4002",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -844,11 +844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Irvine",
+        "Organization": "University of California, Irvine",
         "Address": "P.O. Box 19557",
         "City": "Irvine",
         "State/Terr": "CA",
-        "Postal Cod": "92623-9557",
+        "Postal Code": "92623-9557",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -864,11 +864,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Santa Barbara",
+        "Organization": "University of California, Santa Barbara",
         "Address": "UCSB Davidson Library 9010",
         "City": "Santa Barbara",
         "State/Terr": "CA",
-        "Postal Cod": "93106-9010",
+        "Postal Code": "93106-9010",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -884,11 +884,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Cincinnati",
+        "Organization": "University of Cincinnati",
         "Address": "640 Langsam Library",
         "City": "Cincinnati",
         "State/Terr": "OH",
-        "Postal Cod": "45221-0033",
+        "Postal Code": "45221-0033",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -904,11 +904,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Colorado at Boulder",
+        "Organization": "University of Colorado at Boulder",
         "Address": "Norlin Library N210C",
         "City": "Boulder",
         "State/Terr": "CO",
-        "Postal Cod": "80309-0184",
+        "Postal Code": "80309-0184",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -924,11 +924,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Connecticut",
+        "Organization": "University of Connecticut",
         "Address": "Unit 2005A",
         "City": "Storrs",
         "State/Terr": "CT",
-        "Postal Cod": "06269-2005",
+        "Postal Code": "06269-2005",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -944,11 +944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Denver",
+        "Organization": "University of Denver",
         "Address": "2150 East Evans Avenue",
         "City": "Denver",
         "State/Terr": "CO",
-        "Postal Cod": "80208-0287",
+        "Postal Code": "80208-0287",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -964,11 +964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Florida",
+        "Organization": "University of Florida",
         "Address": "George A. Smathers Libraries",
         "City": "Gainesville",
         "State/Terr": "FL",
-        "Postal Cod": "32611-7000",
+        "Postal Code": "32611-7000",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -984,11 +984,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Georgia",
+        "Organization": "University of Georgia",
         "Address": "South Jackson Street",
         "City": "Athens",
         "State/Terr": "GA",
-        "Postal Cod": "30602",
+        "Postal Code": "30602",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -1004,11 +1004,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Guelph",
+        "Organization": "University of Guelph",
         "Address": "50 Stone Road East",
         "City": "Guelph",
         "State/Terr": "ON",
-        "Postal Cod": "N1G 2W1",
+        "Postal Code": "N1G 2W1",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1024,11 +1024,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Illinois at Urbana-Champaign",
+        "Organization": "University of Illinois at Urbana-Champaign",
         "Address": "1408 West Gregory Drive",
         "City": "Urbana",
         "State/Terr": "IL",
-        "Postal Cod": "61801",
+        "Postal Code": "61801",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1044,11 +1044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Illinois, Chicago",
+        "Organization": "University of Illinois, Chicago",
         "Address": "801 S. Morgan MC 234",
         "City": "Chicago",
         "State/Terr": "IL",
-        "Postal Cod": "60607",
+        "Postal Code": "60607",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1064,11 +1064,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Kansas",
+        "Organization": "University of Kansas",
         "Address": "502 Watson Library",
         "City": "Lawrence",
         "State/Terr": "KS",
-        "Postal Cod": "66045-7544",
+        "Postal Code": "66045-7544",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1084,11 +1084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Massachusetts, Amherst",
+        "Organization": "University of Massachusetts, Amherst",
         "Address": "154 Hicks Way",
         "City": "Amherst",
         "State/Terr": "MA",
-        "Postal Cod": "01003-9275",
+        "Postal Code": "01003-9275",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1104,11 +1104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Missouri",
+        "Organization": "University of Missouri",
         "Address": "1020 Lowery Street",
         "City": "Columbia",
         "State/Terr": "MO",
-        "Postal Cod": "65201-5149",
+        "Postal Code": "65201-5149",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1124,11 +1124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Nebraska-Lincoln",
+        "Organization": "University of Nebraska-Lincoln",
         "Address": "P.O. Box  884100",
         "City": "Lincoln",
         "State/Terr": "NE",
-        "Postal Cod": "68588-4100",
+        "Postal Code": "68588-4100",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1144,11 +1144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Nevada, Reno",
+        "Organization": "University of Nevada, Reno",
         "Address": "1664 N. Virginia Street",
         "City": "Reno",
         "State/Terr": "NV",
-        "Postal Cod": "89557-0208",
+        "Postal Code": "89557-0208",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1164,11 +1164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Carolina at Greensboro",
+        "Organization": "University of North Carolina at Greensboro",
         "Address": "P.O. Box 26170",
         "City": "Greensboro",
         "State/Terr": "NC",
-        "Postal Cod": "26170",
+        "Postal Code": "26170",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1184,11 +1184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Oklahoma",
+        "Organization": "University of Oklahoma",
         "Address": "401 W. Brooks",
         "City": "Norman",
         "State/Terr": "OK",
-        "Postal Cod": "73019",
+        "Postal Code": "73019",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1204,11 +1204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Oregon",
+        "Organization": "University of Oregon",
         "Address": "1299 University of Oregon",
         "City": "Eugene",
         "State/Terr": "OR",
-        "Postal Cod": "97403",
+        "Postal Code": "97403",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1224,11 +1224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Ottawa",
+        "Organization": "University of Ottawa",
         "Address": "Library, 65 University Private",
         "City": "Ottawa",
         "State/Terr": "ON",
-        "Postal Cod": "K1N 6N5",
+        "Postal Code": "K1N 6N5",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1244,11 +1244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Pittsburgh",
+        "Organization": "University of Pittsburgh",
         "Address": "271 Hillman Library",
         "City": "Pittsburgh",
         "State/Terr": "PA",
-        "Postal Cod": "15260-7302",
+        "Postal Code": "15260-7302",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1264,11 +1264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Richmond",
+        "Organization": "University of Richmond",
         "Address": "G-12 Jepson Hall",
         "City": "Richmond",
         "State/Terr": "VA",
-        "Postal Cod": "23173",
+        "Postal Code": "23173",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1284,11 +1284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Rochester",
+        "Organization": "University of Rochester",
         "Address": "200 Wallis Hall",
         "City": "Rochester",
         "State/Terr": "NY",
-        "Postal Cod": "14627",
+        "Postal Code": "14627",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1304,11 +1304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of San Francisco",
+        "Organization": "University of San Francisco",
         "Address": "2130 Fulton Street",
         "City": "San Francisco",
         "State/Terr": "CA",
-        "Postal Cod": "94117",
+        "Postal Code": "94117",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1324,11 +1324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of South Carolina",
+        "Organization": "University of South Carolina",
         "Address": "Thomas Cooper Library",
         "City": "Columbia",
         "State/Terr": "SC",
-        "Postal Cod": "29208",
+        "Postal Code": "29208",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1344,11 +1344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of South Florida",
+        "Organization": "University of South Florida",
         "Address": "4202 East Fowler Avenue",
         "City": "Tampa",
         "State/Terr": "FL",
-        "Postal Cod": "33620-5400",
+        "Postal Code": "33620-5400",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1364,11 +1364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Texas at Arlington",
+        "Organization": "University of Texas at Arlington",
         "Address": "Box 19497",
         "City": "Arlington",
         "State/Terr": "TX",
-        "Postal Cod": "76019-0497",
+        "Postal Code": "76019-0497",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -1384,11 +1384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Toronto",
+        "Organization": "University of Toronto",
         "Address": "130 St. George Street",
         "City": "Toronto",
         "State/Terr": "ON",
-        "Postal Cod": "M5S 1A5",
+        "Postal Code": "M5S 1A5",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1404,11 +1404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Victoria",
+        "Organization": "University of Victoria",
         "Address": "PO Box 1800 STN CSC",
         "City": "Victoria",
         "State/Terr": "B.C.",
-        "Postal Cod": "V8W 3H5",
+        "Postal Code": "V8W 3H5",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1424,11 +1424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Wisconsin-Madison",
+        "Organization": "University of Wisconsin-Madison",
         "Address": "728 State Street",
         "City": "Madison",
         "State/Terr": "WI",
-        "Postal Cod": "53706",
+        "Postal Code": "53706",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1444,11 +1444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Wyoming",
+        "Organization": "University of Wyoming",
         "Address": "1000 E. University Avenue",
         "City": "Laramie",
         "State/Terr": "WY",
-        "Postal Cod": "82071-3334",
+        "Postal Code": "82071-3334",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1464,11 +1464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Vanderbilt University",
+        "Organization": "Vanderbilt University",
         "Address": "4l9 2lst Avenue South",
         "City": "Nashville",
         "State/Terr": "TN",
-        "Postal Cod": "37203-2427",
+        "Postal Code": "37203-2427",
         "Country": "USA",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE"
@@ -1484,11 +1484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Villanova University",
+        "Organization": "Villanova University",
         "Address": "800 Lancaster Avenue",
         "City": "Villanova",
         "State/Terr": "PA",
-        "Postal Cod": "19085",
+        "Postal Code": "19085",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1504,11 +1504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Wangman University",
+        "Organization": "Wangman University",
         "Address": "1926 Waukegan",
         "City": "Glenview",
         "State/Terr": "IL",
-        "Postal Cod": "60025",
+        "Postal Code": "60025",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1524,11 +1524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Washington University",
+        "Organization": "Washington University",
         "Address": "One Brookings Drive",
         "City": "St. Louis",
         "State/Terr": "MO",
-        "Postal Cod": "63130",
+        "Postal Code": "63130",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1544,11 +1544,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "West Virginia University",
+        "Organization": "West Virginia University",
         "Address": "P.O. Box 6069",
         "City": "Morgantown",
         "State/Terr": "WV",
-        "Postal Cod": "26506",
+        "Postal Code": "26506",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1564,11 +1564,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Digital Library",
+        "Organization": "California Digital Library",
         "Address": "415 20th Strret",
         "City": "Oakland",
         "State/Terr": "CA",
-        "Postal Cod": "94612-2901",
+        "Postal Code": "94612-2901",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1584,11 +1584,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Columbia University Libraries",
+        "Organization": "Columbia University Libraries",
         "Address": "535 West 114th Street",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10027",
+        "Postal Code": "10027",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1604,11 +1604,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Cornell University",
+        "Organization": "Cornell University",
         "Address": "201 Olin Library",
         "City": "Ithaca",
         "State/Terr": "NY",
-        "Postal Cod": "14853",
+        "Postal Code": "14853",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1624,11 +1624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Dartmouth College",
+        "Organization": "Dartmouth College",
         "Address": "Hinman Box 6025",
         "City": "Hanover",
         "State/Terr": "NH",
-        "Postal Cod": "03755-3525",
+        "Postal Code": "03755-3525",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1644,11 +1644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Emory University",
+        "Organization": "Emory University",
         "Address": "540 Asbury Circle",
         "City": "Atlanta",
         "State/Terr": "GA",
-        "Postal Cod": "30322-2870",
+        "Postal Code": "30322-2870",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1664,11 +1664,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "Address": "1341 Massachusetts Avenue",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "02138",
+        "Postal Code": "02138",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1684,11 +1684,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Indiana University",
+        "Organization": "Indiana University",
         "Address": "1320 East 10th Street",
         "City": "Bloomington",
         "State/Terr": "IN",
-        "Postal Cod": "47405",
+        "Postal Code": "47405",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1704,11 +1704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Johns Hopkins University",
+        "Organization": "Johns Hopkins University",
         "Address": "The Sheridan Libraries",
         "City": "Baltimore",
         "State/Terr": "MD",
-        "Postal Cod": "21218-2683",
+        "Postal Code": "21218-2683",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1724,11 +1724,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Massachusetts Institute of Technology",
+        "Organization": "Massachusetts Institute of Technology",
         "Address": "77 Massachusetts Avenue",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "02139-4307",
+        "Postal Code": "02139-4307",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1744,11 +1744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Montana State University",
+        "Organization": "Montana State University",
         "Address": "PO Box 173320",
         "City": "Bozeman",
         "State/Terr": "MT",
-        "Postal Cod": "59717-3220",
+        "Postal Code": "59717-3220",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1764,11 +1764,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "National Library of Medicine",
+        "Organization": "National Library of Medicine",
         "Address": "8600 Rockville Pike",
         "City": "Bethesda",
         "State/Terr": "MD",
-        "Postal Cod": "20894",
+        "Postal Code": "20894",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1784,11 +1784,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "New York Public Library",
+        "Organization": "New York Public Library",
         "Address": "11 West 40th Street",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10018-2788",
+        "Postal Code": "10018-2788",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1804,11 +1804,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "New York University",
+        "Organization": "New York University",
         "Address": "70 Washington Square South",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10012",
+        "Postal Code": "10012",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1824,11 +1824,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "North Carolina State University",
+        "Organization": "North Carolina State University",
         "Address": "Box 7111",
         "City": "Raleigh",
         "State/Terr": "NC",
-        "Postal Cod": "27695-7111",
+        "Postal Code": "27695-7111",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1844,11 +1844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Pennsylvania State University",
+        "Organization": "Pennsylvania State University",
         "Address": "510 Paterno Library",
         "City": "University Park",
         "State/Terr": "PA",
-        "Postal Cod": "16802",
+        "Postal Code": "16802",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1864,11 +1864,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Princeton University",
+        "Organization": "Princeton University",
         "Address": "One Washington Road",
         "City": "Princeton",
         "State/Terr": "NJ",
-        "Postal Cod": "08544-2002",
+        "Postal Code": "08544-2002",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -1884,11 +1884,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Purdue University",
+        "Organization": "Purdue University",
         "Address": "504 West State Street",
         "City": "West Lafayette",
         "State/Terr": "IN",
-        "Postal Cod": "47907-2058",
+        "Postal Code": "47907-2058",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -1904,11 +1904,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Rice University",
+        "Organization": "Rice University",
         "Address": "Fondren Library MS-44",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77251-1892",
+        "Postal Code": "77251-1892",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1924,11 +1924,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Smithsonian Institution",
+        "Organization": "Smithsonian Institution",
         "Address": "PO Box 37012",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20013-7012",
+        "Postal Code": "20013-7012",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1944,11 +1944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Stanford University",
+        "Organization": "Stanford University",
         "Address": "Cecil H. Green Library rm. 101",
         "City": "Stanford",
         "State/Terr": "CA",
-        "Postal Cod": "94305-6004",
+        "Postal Code": "94305-6004",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -1964,11 +1964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "State University of New York at Albany",
+        "Organization": "State University of New York at Albany",
         "Address": "1400 Washington Avenue",
         "City": "Albany",
         "State/Terr": "NY",
-        "Postal Cod": "12222-0001",
+        "Postal Code": "12222-0001",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -1984,11 +1984,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Texas A&M University",
+        "Organization": "Texas A&M University",
         "Address": "5000 TAMU",
         "City": "College Station",
         "State/Terr": "TX",
-        "Postal Cod": "77843-5000",
+        "Postal Code": "77843-5000",
         "Country": "USA",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE"
@@ -2004,11 +2004,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The George Washington University",
+        "Organization": "The George Washington University",
         "Address": "2130 H Street, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20052",
+        "Postal Code": "20052",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2024,11 +2024,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Arizona",
+        "Organization": "University of Arizona",
         "Address": "1510 East University",
         "City": "Tucson",
         "State/Terr": "AZ",
-        "Postal Cod": "85721-0055",
+        "Postal Code": "85721-0055",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2044,11 +2044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of British Columbia",
+        "Organization": "University of British Columbia",
         "Address": "1961 East Mall",
         "City": "Vancouver",
         "State/Terr": "BC",
-        "Postal Cod": "V6T 1Z1",
+        "Postal Code": "V6T 1Z1",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2064,11 +2064,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Berkeley",
+        "Organization": "University of California, Berkeley",
         "Address": "255 Doe Library",
         "City": "Berkeley",
         "State/Terr": "CA",
-        "Postal Cod": "94720-6000",
+        "Postal Code": "94720-6000",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -2084,11 +2084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Los Angeles",
+        "Organization": "University of California, Los Angeles",
         "Address": "Box 951575",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90095-1575",
+        "Postal Code": "90095-1575",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2104,11 +2104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, San Diego",
+        "Organization": "University of California, San Diego",
         "Address": "9500 Gilman Drive",
         "City": "La Jolla",
         "State/Terr": "CA",
-        "Postal Cod": "92093-0175",
+        "Postal Code": "92093-0175",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2124,11 +2124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Chicago",
+        "Organization": "University of Chicago",
         "Address": "1100 East 57th Street - Room 180",
         "City": "Chicago",
         "State/Terr": "IL",
-        "Postal Cod": "60637-1502",
+        "Postal Code": "60637-1502",
         "Country": "USA",
         "addrtype": "subpremise",
         "addrlocat": "ROOFTOP"
@@ -2144,11 +2144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Delaware",
+        "Organization": "University of Delaware",
         "Address": "181 South College Avenue",
         "City": "Newark",
         "State/Terr": "DE",
-        "Postal Cod": "19717-5267",
+        "Postal Code": "19717-5267",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2164,11 +2164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Houston",
+        "Organization": "University of Houston",
         "Address": "114 University Libraries",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77204-2000",
+        "Postal Code": "77204-2000",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2184,11 +2184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Iowa",
+        "Organization": "University of Iowa",
         "Address": "100 Main Library",
         "City": "Iowa City",
         "State/Terr": "IA",
-        "Postal Cod": "52242-1420",
+        "Postal Code": "52242-1420",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2204,11 +2204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Kentucky",
+        "Organization": "University of Kentucky",
         "Address": "500 S.  Limestone St.",
         "City": "Lexington",
         "State/Terr": "KY",
-        "Postal Cod": "40506-0456",
+        "Postal Code": "40506-0456",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -2224,11 +2224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Maryland at College Park",
+        "Organization": "University of Maryland at College Park",
         "Address": "6131 McKeldin Library",
         "City": "College Park",
         "State/Terr": "MD",
-        "Postal Cod": "20742",
+        "Postal Code": "20742",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2244,11 +2244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Miami",
+        "Organization": "University of Miami",
         "Address": "1300 Memorial Drive",
         "City": "Coral Gables",
         "State/Terr": "FL",
-        "Postal Cod": "33146",
+        "Postal Code": "33146",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2264,11 +2264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "Address": "320 Hatcher North",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109-1190",
+        "Postal Code": "48109-1190",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -2284,11 +2284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Minnesota",
+        "Organization": "University of Minnesota",
         "Address": "499 Wilson Library",
         "City": "Minneapolis",
         "State/Terr": "MN",
-        "Postal Cod": "55455",
+        "Postal Code": "55455",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2304,11 +2304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Carolina at Chapel Hill",
+        "Organization": "University of North Carolina at Chapel Hill",
         "Address": "Davis Library",
         "City": "Chapel Hill",
         "State/Terr": "NC",
-        "Postal Cod": "27514-8890",
+        "Postal Code": "27514-8890",
         "Country": "USA",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE"
@@ -2324,11 +2324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Texas",
+        "Organization": "University of North Texas",
         "Address": "1155 Union Circle #305190",
         "City": "Denton",
         "State/Terr": "TX",
-        "Postal Cod": "76203-5017",
+        "Postal Code": "76203-5017",
         "Country": "USA",
         "addrtype": "subpremise",
         "addrlocat": "ROOFTOP"
@@ -2344,11 +2344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Notre Dame",
+        "Organization": "University of Notre Dame",
         "Address": "221 Hesburgh Library",
         "City": "Notre Dame",
         "State/Terr": "IN",
-        "Postal Cod": "46556",
+        "Postal Code": "46556",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2364,11 +2364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Pennsylvania",
+        "Organization": "University of Pennsylvania",
         "Address": "3420 Walnut Street",
         "City": "Philadelphia",
         "State/Terr": "PA",
-        "Postal Cod": "19104-6206",
+        "Postal Code": "19104-6206",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2384,11 +2384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Southern California",
+        "Organization": "University of Southern California",
         "Address": "3550  Trousdale Pkwy",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90089-0182",
+        "Postal Code": "90089-0182",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2404,11 +2404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Tennessee",
+        "Organization": "University of Tennessee",
         "Address": "1015 Volunteer Boulevard",
         "City": "Knoxville",
         "State/Terr": "TN",
-        "Postal Cod": "37996-1000",
+        "Postal Code": "37996-1000",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2424,11 +2424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Texas at Austin",
+        "Organization": "University of Texas at Austin",
         "Address": "1 University Station",
         "City": "Austin",
         "State/Terr": "TX",
-        "Postal Cod": "78712",
+        "Postal Code": "78712",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2444,11 +2444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Utah",
+        "Organization": "University of Utah",
         "Address": "295 South 1500 East",
         "City": "Salt Lake City",
         "State/Terr": "UT",
-        "Postal Cod": "84112-0860",
+        "Postal Code": "84112-0860",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2464,11 +2464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Virginia",
+        "Organization": "University of Virginia",
         "Address": "Alderman Library",
         "City": "Charlottesville",
         "State/Terr": "VA",
-        "Postal Cod": "22904-4114",
+        "Postal Code": "22904-4114",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2484,11 +2484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Washington",
+        "Organization": "University of Washington",
         "Address": "Box 352900",
         "City": "Seattle",
         "State/Terr": "WA",
-        "Postal Cod": "98195-2900",
+        "Postal Code": "98195-2900",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2504,11 +2504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Virginia Polytechnic Institute and State University",
+        "Organization": "Virginia Polytechnic Institute and State University",
         "Address": "Drillfield Drive",
         "City": "Blacksburg",
         "State/Terr": "VA",
-        "Postal Cod": "24062-9001",
+        "Postal Code": "24062-9001",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -2524,11 +2524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Yale University",
+        "Organization": "Yale University",
         "Address": "120 High Street",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "06520-8240",
+        "Postal Code": "06520-8240",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2544,11 +2544,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Albertus Magnus College",
+        "Organization": "Albertus Magnus College",
         "Address": "700 Prospect Street",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "06511-1189",
+        "Postal Code": "06511-1189",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2564,11 +2564,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Allegheny College",
+        "Organization": "Allegheny College",
         "Address": "520 North Main Street",
         "City": "Meadville",
         "State/Terr": "PA",
-        "Postal Cod": "16335",
+        "Postal Code": "16335",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2584,11 +2584,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "American University of Sharjah",
+        "Organization": "American University of Sharjah",
         "Address": "P.O. Box 26666",
         "City": "Sharjah",
         "State/Terr": null,
-        "Postal Cod": null,
+        "Postal Code": null,
         "Country": "United Arab Emirates",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2604,11 +2604,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Amherst College",
+        "Organization": "Amherst College",
         "Address": "P.O. Box 2256",
         "City": "Amherst",
         "State/Terr": "MA",
-        "Postal Cod": "01002",
+        "Postal Code": "01002",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2624,11 +2624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Atlanta University Center",
+        "Organization": "Atlanta University Center",
         "Address": "111 James P. Brawley Drive, SW",
         "City": "Atlanta",
         "State/Terr": "GA",
-        "Postal Cod": "30314",
+        "Postal Code": "30314",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2644,11 +2644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Bates College",
+        "Organization": "Bates College",
         "Address": "48 Campus Avenue",
         "City": "Lewiston",
         "State/Terr": "ME",
-        "Postal Cod": "04240",
+        "Postal Code": "04240",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2664,11 +2664,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Berea College",
+        "Organization": "Berea College",
         "Address": "Hutchins Library/CPO Library",
         "City": "Berea",
         "State/Terr": "KY",
-        "Postal Cod": "40404",
+        "Postal Code": "40404",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2684,11 +2684,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Bowdoin College",
+        "Organization": "Bowdoin College",
         "Address": "3000 College Station",
         "City": "Brunswick",
         "State/Terr": "ME",
-        "Postal Cod": "04011",
+        "Postal Code": "04011",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -2704,11 +2704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Bucknell University",
+        "Organization": "Bucknell University",
         "Address": "219 Bertrand Library",
         "City": "Lewisburg",
         "State/Terr": "PA",
-        "Postal Cod": "17837",
+        "Postal Code": "17837",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2724,11 +2724,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Lutheran University",
+        "Organization": "California Lutheran University",
         "Address": "MC5100",
         "City": "Thousand Oaks",
         "State/Terr": "CA",
-        "Postal Cod": "91360",
+        "Postal Code": "91360",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2744,11 +2744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Polytechnic State University",
+        "Organization": "California Polytechnic State University",
         "Address": "One Grand Avenue",
         "City": "San Luis Obispo",
         "State/Terr": "CA",
-        "Postal Cod": "93407",
+        "Postal Code": "93407",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2764,11 +2764,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Carleton College",
+        "Organization": "Carleton College",
         "Address": "One North College Street",
         "City": "Northfield",
         "State/Terr": "MN",
-        "Postal Cod": "55057-4044",
+        "Postal Code": "55057-4044",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2784,11 +2784,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Carthage College",
+        "Organization": "Carthage College",
         "Address": "2001 Alford Park Drive",
         "City": "Kenosha",
         "State/Terr": "WI",
-        "Postal Cod": "53140-1994",
+        "Postal Code": "53140-1994",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -2804,11 +2804,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Colby College",
+        "Organization": "Colby College",
         "Address": "5104 Mayflower Hill",
         "City": "Waterville",
         "State/Terr": "ME",
-        "Postal Cod": "04901-8851",
+        "Postal Code": "04901-8851",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -2824,11 +2824,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Colgate University",
+        "Organization": "Colgate University",
         "Address": "13 Oak Drive",
         "City": "Hamilton",
         "State/Terr": "NY",
-        "Postal Cod": "13346-1386",
+        "Postal Code": "13346-1386",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2844,11 +2844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "College of Charleston",
+        "Organization": "College of Charleston",
         "Address": "66 George Street",
         "City": "Charleston",
         "State/Terr": "SC",
-        "Postal Cod": "29424-0001",
+        "Postal Code": "29424-0001",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2864,11 +2864,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "College of the Holy Cross",
+        "Organization": "College of the Holy Cross",
         "Address": "1 College Street",
         "City": "Worcester",
         "State/Terr": "MA",
-        "Postal Cod": "01610",
+        "Postal Code": "01610",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2884,11 +2884,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Connecticut College",
+        "Organization": "Connecticut College",
         "Address": "270 Mohegan Avenue",
         "City": "New London",
         "State/Terr": "CT",
-        "Postal Cod": "06320-4196",
+        "Postal Code": "06320-4196",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -2904,11 +2904,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Denison University",
+        "Organization": "Denison University",
         "Address": "Mudd Learning Center",
         "City": "Granville",
         "State/Terr": "OH",
-        "Postal Cod": "43023",
+        "Postal Code": "43023",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2924,11 +2924,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "DePauw University",
+        "Organization": "DePauw University",
         "Address": "11 East Larabee Street",
         "City": "Greencastle",
         "State/Terr": "IN",
-        "Postal Cod": "46135-1772",
+        "Postal Code": "46135-1772",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -2944,11 +2944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Dickinson College",
+        "Organization": "Dickinson College",
         "Address": "PO Box 1773",
         "City": "Carlisle",
         "State/Terr": "PA",
-        "Postal Cod": "17013",
+        "Postal Code": "17013",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2964,11 +2964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Earlham College",
+        "Organization": "Earlham College",
         "Address": "Lilly Libary",
         "City": "Richmond",
         "State/Terr": "IN",
-        "Postal Cod": "47374-4095",
+        "Postal Code": "47374-4095",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -2984,11 +2984,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Franklin & Marshall College",
+        "Organization": "Franklin & Marshall College",
         "Address": "PO Box 3003",
         "City": "Lancaster",
         "State/Terr": "PA",
-        "Postal Cod": "17604-3003",
+        "Postal Code": "17604-3003",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3004,11 +3004,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Furman University",
+        "Organization": "Furman University",
         "Address": "3300 Poinsett Highway",
         "City": "Greenville",
         "State/Terr": "SC",
-        "Postal Cod": "29613",
+        "Postal Code": "29613",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3024,11 +3024,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Goucher College",
+        "Organization": "Goucher College",
         "Address": "1021 Dulaney Valley Road",
         "City": "Baltimore",
         "State/Terr": "MD",
-        "Postal Cod": "21204",
+        "Postal Code": "21204",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3044,11 +3044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Grinnell College",
+        "Organization": "Grinnell College",
         "Address": "1111 Sixth Avenue",
         "City": "Grinnell",
         "State/Terr": "IA",
-        "Postal Cod": "50112-1690",
+        "Postal Code": "50112-1690",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -3064,11 +3064,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Hamilton College",
+        "Organization": "Hamilton College",
         "Address": "198 College Hill Road",
         "City": "Clinton",
         "State/Terr": "NY",
-        "Postal Cod": "13323",
+        "Postal Code": "13323",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3084,11 +3084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Haverford College",
+        "Organization": "Haverford College",
         "Address": "370 Lancaster Avenue",
         "City": "Haverford",
         "State/Terr": "PA",
-        "Postal Cod": "19041-1336",
+        "Postal Code": "19041-1336",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3104,11 +3104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Kenyon College",
+        "Organization": "Kenyon College",
         "Address": "103 College Drive",
         "City": "Gambier",
         "State/Terr": "OH",
-        "Postal Cod": "43022",
+        "Postal Code": "43022",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3124,11 +3124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Lake Forest College",
+        "Organization": "Lake Forest College",
         "Address": "555 North Sheridan Road",
         "City": "Lake Forest",
         "State/Terr": "IL",
-        "Postal Cod": "60045-2399",
+        "Postal Code": "60045-2399",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3144,11 +3144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Linfield College",
+        "Organization": "Linfield College",
         "Address": "900 SE Baker Street",
         "City": "McMinnville",
         "State/Terr": "OR",
-        "Postal Cod": "97128-6894",
+        "Postal Code": "97128-6894",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3164,11 +3164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Luther College",
+        "Organization": "Luther College",
         "Address": "700 College Drive",
         "City": "Decorah",
         "State/Terr": "IA",
-        "Postal Cod": "52101",
+        "Postal Code": "52101",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3184,11 +3184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Manhattan College",
+        "Organization": "Manhattan College",
         "Address": "4513 Manhattan College Parkway",
         "City": "Riverdale",
         "State/Terr": "NY",
-        "Postal Cod": "10471",
+        "Postal Code": "10471",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3204,11 +3204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Middlebury College",
+        "Organization": "Middlebury College",
         "Address": "110 Storrs Avenue",
         "City": "Middlebury",
         "State/Terr": "VT",
-        "Postal Cod": "05753",
+        "Postal Code": "05753",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3224,11 +3224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Oakton Community College",
+        "Organization": "Oakton Community College",
         "Address": "1600 East Golf Road",
         "City": "Des Plaines",
         "State/Terr": "IL",
-        "Postal Cod": "60016",
+        "Postal Code": "60016",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3244,11 +3244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Occidental College",
+        "Organization": "Occidental College",
         "Address": "1600 Campus Rd.",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90041",
+        "Postal Code": "90041",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3264,11 +3264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Pacific Lutheran University",
+        "Organization": "Pacific Lutheran University",
         "Address": "1010 122nd Street S.",
         "City": "Tacoma",
         "State/Terr": "WA",
-        "Postal Cod": "98447",
+        "Postal Code": "98447",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3284,11 +3284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Purdue University Calumet",
+        "Organization": "Purdue University Calumet",
         "Address": "2200 169th Street",
         "City": "Hammond",
         "State/Terr": "IN",
-        "Postal Cod": "46323-2094",
+        "Postal Code": "46323-2094",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3304,11 +3304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Reed College",
+        "Organization": "Reed College",
         "Address": "3203 SE Woodstock Boulevard",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97202-8199",
+        "Postal Code": "97202-8199",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3324,11 +3324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Saint Lawrence University",
+        "Organization": "Saint Lawrence University",
         "Address": "23 Romoda Drive",
         "City": "Canton",
         "State/Terr": "NY",
-        "Postal Cod": "13617",
+        "Postal Code": "13617",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3344,11 +3344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Sewanee, The University of the South",
+        "Organization": "Sewanee, The University of the South",
         "Address": "735 University Avenue",
         "City": "Sewanee",
         "State/Terr": "TN",
-        "Postal Cod": "37383-1000",
+        "Postal Code": "37383-1000",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3364,11 +3364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Skidmore College",
+        "Organization": "Skidmore College",
         "Address": "815 N. Broadway",
         "City": "Saratoga Springs",
         "State/Terr": "NY",
-        "Postal Cod": "12866",
+        "Postal Code": "12866",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3384,11 +3384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Smith College",
+        "Organization": "Smith College",
         "Address": "Neilson Library",
         "City": "Northampton",
         "State/Terr": "MA",
-        "Postal Cod": "01063-0001",
+        "Postal Code": "01063-0001",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3404,11 +3404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Southwestern University",
+        "Organization": "Southwestern University",
         "Address": "1001 East University Avenue",
         "City": "Georgetown",
         "State/Terr": "TX",
-        "Postal Cod": "78626",
+        "Postal Code": "78626",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3424,11 +3424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "St. Olaf College",
+        "Organization": "St. Olaf College",
         "Address": "1510 St. Olaf Avenue",
         "City": "Northfield",
         "State/Terr": "MN",
-        "Postal Cod": "55057",
+        "Postal Code": "55057",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3444,11 +3444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "State University of New York at Brockport",
+        "Organization": "State University of New York at Brockport",
         "Address": "350 New Campus Drive",
         "City": "Brockport",
         "State/Terr": "NY",
-        "Postal Cod": "14420-2995",
+        "Postal Code": "14420-2995",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3464,11 +3464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Swarthmore College",
+        "Organization": "Swarthmore College",
         "Address": "500 College Avenue",
         "City": "Swarthmore",
         "State/Terr": "PA",
-        "Postal Cod": "19081",
+        "Postal Code": "19081",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3484,11 +3484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The Claremont Colleges",
+        "Organization": "The Claremont Colleges",
         "Address": "800 North Dartmouth",
         "City": "Claremont",
         "State/Terr": "CA",
-        "Postal Cod": "91711-3991",
+        "Postal Code": "91711-3991",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3504,11 +3504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Trinity University",
+        "Organization": "Trinity University",
         "Address": "One Trinity Place",
         "City": "San Antonio",
         "State/Terr": "TX",
-        "Postal Cod": "78212-7200",
+        "Postal Code": "78212-7200",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3524,11 +3524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Union College",
+        "Organization": "Union College",
         "Address": "807 Union Street",
         "City": "Schenectady",
         "State/Terr": "NY",
-        "Postal Cod": "12308",
+        "Postal Code": "12308",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3544,11 +3544,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Carolina at Charlotte",
+        "Organization": "University of North Carolina at Charlotte",
         "Address": "9201 University City Blvd.",
         "City": "Charlotte",
         "State/Terr": "NC",
-        "Postal Cod": "28223",
+        "Postal Code": "28223",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3564,11 +3564,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Puget Sound",
+        "Organization": "University of Puget Sound",
         "Address": "Collins Memorial Library",
         "City": "Tacoma",
         "State/Terr": "WA",
-        "Postal Cod": "98416-1021",
+        "Postal Code": "98416-1021",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3584,11 +3584,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of St. Thomas",
+        "Organization": "University of St. Thomas",
         "Address": "2115 Summit Avenue",
         "City": "St. Paul",
         "State/Terr": "MN",
-        "Postal Cod": "55105-1096",
+        "Postal Code": "55105-1096",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3604,11 +3604,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Vassar College",
+        "Organization": "Vassar College",
         "Address": "Box 20",
         "City": "Poughkeepsie",
         "State/Terr": "NY",
-        "Postal Cod": "12604-0020",
+        "Postal Code": "12604-0020",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -3624,11 +3624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Wabash College",
+        "Organization": "Wabash College",
         "Address": "P.O. Box 352",
         "City": "Crawfordsville",
         "State/Terr": "IN",
-        "Postal Cod": "47933",
+        "Postal Code": "47933",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3644,11 +3644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Washington and Lee University",
+        "Organization": "Washington and Lee University",
         "Address": "204 West Washington Street",
         "City": "Lexington",
         "State/Terr": "VA",
-        "Postal Cod": "24450-0303",
+        "Postal Code": "24450-0303",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3664,11 +3664,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Wellesley College",
+        "Organization": "Wellesley College",
         "Address": "106 Central Street",
         "City": "Wellesley",
         "State/Terr": "MA",
-        "Postal Cod": "02481",
+        "Postal Code": "02481",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3684,11 +3684,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Wesleyan University",
+        "Organization": "Wesleyan University",
         "Address": "252 Church Street",
         "City": "Middletown",
         "State/Terr": "CT",
-        "Postal Cod": "6459",
+        "Postal Code": "6459",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3704,11 +3704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Whitman College",
+        "Organization": "Whitman College",
         "Address": "345 Boyer Avenue",
         "City": "Walla Walla",
         "State/Terr": "WA",
-        "Postal Cod": "99362",
+        "Postal Code": "99362",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3724,11 +3724,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Williams College",
+        "Organization": "Williams College",
         "Address": "55 Sawyer Library Drive",
         "City": "Williamstown",
         "State/Terr": "MA",
-        "Postal Cod": "01267",
+        "Postal Code": "01267",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -3744,11 +3744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Bryn Mawr College",
+        "Organization": "Bryn Mawr College",
         "Address": "101 North Merion Avenue",
         "City": "Bryn Mawr",
         "State/Terr": "PA",
-        "Postal Cod": "19010-2899",
+        "Postal Code": "19010-2899",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3764,11 +3764,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Lafayette College",
+        "Organization": "Lafayette College",
         "Address": "710 Sullivan Street",
         "City": "Easton",
         "State/Terr": "PA",
-        "Postal Cod": "18042-1797",
+        "Postal Code": "18042-1797",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -3784,11 +3784,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Rhodes College",
+        "Organization": "Rhodes College",
         "Address": "2000 North Parkway",
         "City": "Memphis",
         "State/Terr": "TN",
-        "Postal Cod": "38112",
+        "Postal Code": "38112",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3804,11 +3804,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Alexander Street Press",
+        "Organization": "Alexander Street Press",
         "Address": "3212 Duke Street",
         "City": "Alexandria",
         "State/Terr": "VA",
-        "Postal Cod": "22314",
+        "Postal Code": "22314",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3824,11 +3824,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Brill",
+        "Organization": "Brill",
         "Address": "Plantynstraat 2",
         "City": "2321 JC Leiden",
         "State/Terr": null,
-        "Postal Cod": null,
+        "Postal Code": null,
         "Country": "Netherlands",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3844,11 +3844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Clark Art Institute",
+        "Organization": "Clark Art Institute",
         "Address": "225 South Street",
         "City": "Williamstown",
         "State/Terr": "MA",
-        "Postal Cod": "01267",
+        "Postal Code": "01267",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3864,11 +3864,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Preservation Technologies",
+        "Organization": "Preservation Technologies",
         "Address": "111 Thomson Park Drive",
         "City": "Cranberry Township",
         "State/Terr": "PA",
-        "Postal Cod": "16066",
+        "Postal Code": "16066",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -3884,11 +3884,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Coalition for Networked Information",
+        "Organization": "Coalition for Networked Information",
         "Address": "21 Dupont Circle, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -3904,11 +3904,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Digital Library",
+        "Organization": "California Digital Library",
         "Address": "415 20th Strret",
         "City": "Oakland",
         "State/Terr": "CA",
-        "Postal Cod": "94612-2901",
+        "Postal Code": "94612-2901",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -3924,11 +3924,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Cornell University",
+        "Organization": "Cornell University",
         "Address": "201 Olin Library",
         "City": "Ithaca",
         "State/Terr": "NY",
-        "Postal Cod": "14853",
+        "Postal Code": "14853",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3944,11 +3944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Dartmouth College",
+        "Organization": "Dartmouth College",
         "Address": "Hinman Box 6025",
         "City": "Hanover",
         "State/Terr": "NH",
-        "Postal Cod": "03755-3525",
+        "Postal Code": "03755-3525",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -3964,11 +3964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Emory University",
+        "Organization": "Emory University",
         "Address": "540 Asbury Circle",
         "City": "Atlanta",
         "State/Terr": "GA",
-        "Postal Cod": "30322-2870",
+        "Postal Code": "30322-2870",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -3984,11 +3984,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Georgetown University",
+        "Organization": "Georgetown University",
         "Address": "37th and O Streets, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20057-1174",
+        "Postal Code": "20057-1174",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -4004,11 +4004,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Johns Hopkins University",
+        "Organization": "Johns Hopkins University",
         "Address": "The Sheridan Libraries",
         "City": "Baltimore",
         "State/Terr": "MD",
-        "Postal Cod": "21218-2683",
+        "Postal Code": "21218-2683",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4024,11 +4024,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Library of Congress",
+        "Organization": "Library of Congress",
         "Address": "101 Independence Ave.,SE",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20540-4000",
+        "Postal Code": "20540-4000",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -4044,11 +4044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Montana State University",
+        "Organization": "Montana State University",
         "Address": "PO Box 173320",
         "City": "Bozeman",
         "State/Terr": "MT",
-        "Postal Cod": "59717-3220",
+        "Postal Code": "59717-3220",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4064,11 +4064,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Northeastern University",
+        "Organization": "Northeastern University",
         "Address": "320 Snell Library",
         "City": "Boston",
         "State/Terr": "MA",
-        "Postal Cod": "02115-5005",
+        "Postal Code": "02115-5005",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4084,11 +4084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Oregon State University",
+        "Organization": "Oregon State University",
         "Address": "121 The Valley Library",
         "City": "Corvallis",
         "State/Terr": "OR",
-        "Postal Cod": "97331-4501",
+        "Postal Code": "97331-4501",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -4104,11 +4104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Pennsylvania State University",
+        "Organization": "Pennsylvania State University",
         "Address": "510 Paterno Library",
         "City": "University Park",
         "State/Terr": "PA",
-        "Postal Cod": "16802",
+        "Postal Code": "16802",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -4124,11 +4124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Princeton University",
+        "Organization": "Princeton University",
         "Address": "One Washington Road",
         "City": "Princeton",
         "State/Terr": "NJ",
-        "Postal Cod": "08544-2002",
+        "Postal Code": "08544-2002",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -4144,11 +4144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Purdue University",
+        "Organization": "Purdue University",
         "Address": "504 West State Street",
         "City": "West Lafayette",
         "State/Terr": "IN",
-        "Postal Cod": "47907-2058",
+        "Postal Code": "47907-2058",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -4164,11 +4164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Rice University",
+        "Organization": "Rice University",
         "Address": "Fondren Library MS-44",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77251-1892",
+        "Postal Code": "77251-1892",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4184,11 +4184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Smithsonian Institution",
+        "Organization": "Smithsonian Institution",
         "Address": "PO Box 37012",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20013-7012",
+        "Postal Code": "20013-7012",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4204,11 +4204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Stanford University",
+        "Organization": "Stanford University",
         "Address": "Cecil H. Green Library rm. 101",
         "City": "Stanford",
         "State/Terr": "CA",
-        "Postal Cod": "94305-6004",
+        "Postal Code": "94305-6004",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4224,11 +4224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The George Washington University",
+        "Organization": "The George Washington University",
         "Address": "2130 H Street, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20052",
+        "Postal Code": "20052",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -4244,11 +4244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "The Ohio State University",
+        "Organization": "The Ohio State University",
         "Address": "1858 Neil Avenue Mall",
         "City": "Columbus",
         "State/Terr": "OH",
-        "Postal Cod": "43210",
+        "Postal Code": "43210",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4264,11 +4264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Arizona",
+        "Organization": "University of Arizona",
         "Address": "1510 East University",
         "City": "Tucson",
         "State/Terr": "AZ",
-        "Postal Cod": "85721-0055",
+        "Postal Code": "85721-0055",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -4284,11 +4284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Berkeley",
+        "Organization": "University of California, Berkeley",
         "Address": "255 Doe Library",
         "City": "Berkeley",
         "State/Terr": "CA",
-        "Postal Cod": "94720-6000",
+        "Postal Code": "94720-6000",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -4304,11 +4304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Irvine",
+        "Organization": "University of California, Irvine",
         "Address": "P.O. Box 19557",
         "City": "Irvine",
         "State/Terr": "CA",
-        "Postal Cod": "92623-9557",
+        "Postal Code": "92623-9557",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4324,11 +4324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Chicago",
+        "Organization": "University of Chicago",
         "Address": "1100 East 57th Street - Room 180",
         "City": "Chicago",
         "State/Terr": "IL",
-        "Postal Cod": "60637-1502",
+        "Postal Code": "60637-1502",
         "Country": "USA",
         "addrtype": "subpremise",
         "addrlocat": "ROOFTOP"
@@ -4344,11 +4344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Florida",
+        "Organization": "University of Florida",
         "Address": "George A. Smathers Libraries",
         "City": "Gainesville",
         "State/Terr": "FL",
-        "Postal Cod": "32611-7000",
+        "Postal Code": "32611-7000",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4364,11 +4364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Houston",
+        "Organization": "University of Houston",
         "Address": "114 University Libraries",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77204-2000",
+        "Postal Code": "77204-2000",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -4384,11 +4384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Iowa",
+        "Organization": "University of Iowa",
         "Address": "100 Main Library",
         "City": "Iowa City",
         "State/Terr": "IA",
-        "Postal Cod": "52242-1420",
+        "Postal Code": "52242-1420",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4404,11 +4404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Kansas",
+        "Organization": "University of Kansas",
         "Address": "502 Watson Library",
         "City": "Lawrence",
         "State/Terr": "KS",
-        "Postal Cod": "66045-7544",
+        "Postal Code": "66045-7544",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4424,11 +4424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Maryland at College Park",
+        "Organization": "University of Maryland at College Park",
         "Address": "6131 McKeldin Library",
         "City": "College Park",
         "State/Terr": "MD",
-        "Postal Cod": "20742",
+        "Postal Code": "20742",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4444,11 +4444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Miami",
+        "Organization": "University of Miami",
         "Address": "1300 Memorial Drive",
         "City": "Coral Gables",
         "State/Terr": "FL",
-        "Postal Cod": "33146",
+        "Postal Code": "33146",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP"
@@ -4464,11 +4464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "Address": "320 Hatcher North",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109-1190",
+        "Postal Code": "48109-1190",
         "Country": "USA",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -4484,11 +4484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Minnesota",
+        "Organization": "University of Minnesota",
         "Address": "499 Wilson Library",
         "City": "Minneapolis",
         "State/Terr": "MN",
-        "Postal Cod": "55455",
+        "Postal Code": "55455",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4504,11 +4504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Nebraska-Lincoln",
+        "Organization": "University of Nebraska-Lincoln",
         "Address": "P.O. Box  884100",
         "City": "Lincoln",
         "State/Terr": "NE",
-        "Postal Cod": "68588-4100",
+        "Postal Code": "68588-4100",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4524,11 +4524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Carolina at Chapel Hill",
+        "Organization": "University of North Carolina at Chapel Hill",
         "Address": "Davis Library",
         "City": "Chapel Hill",
         "State/Terr": "NC",
-        "Postal Cod": "27514-8890",
+        "Postal Code": "27514-8890",
         "Country": "USA",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE"
@@ -4544,11 +4544,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of North Texas",
+        "Organization": "University of North Texas",
         "Address": "1155 Union Circle #305190",
         "City": "Denton",
         "State/Terr": "TX",
-        "Postal Cod": "76203-5017",
+        "Postal Code": "76203-5017",
         "Country": "USA",
         "addrtype": "subpremise",
         "addrlocat": "ROOFTOP"
@@ -4564,11 +4564,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Notre Dame",
+        "Organization": "University of Notre Dame",
         "Address": "221 Hesburgh Library",
         "City": "Notre Dame",
         "State/Terr": "IN",
-        "Postal Cod": "46556",
+        "Postal Code": "46556",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -4584,11 +4584,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Texas at Austin",
+        "Organization": "University of Texas at Austin",
         "Address": "1 University Station",
         "City": "Austin",
         "State/Terr": "TX",
-        "Postal Cod": "78712",
+        "Postal Code": "78712",
         "Country": "USA",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP"
@@ -4604,11 +4604,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Virginia",
+        "Organization": "University of Virginia",
         "Address": "Alderman Library",
         "City": "Charlottesville",
         "State/Terr": "VA",
-        "Postal Cod": "22904-4114",
+        "Postal Code": "22904-4114",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4624,11 +4624,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Washington",
+        "Organization": "University of Washington",
         "Address": "Box 352900",
         "City": "Seattle",
         "State/Terr": "WA",
-        "Postal Cod": "98195-2900",
+        "Postal Code": "98195-2900",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4644,11 +4644,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Lafayette College",
+        "Organization": "Lafayette College",
         "Address": "710 Sullivan Street",
         "City": "Easton",
         "State/Terr": "PA",
-        "Postal Cod": "18042-1797",
+        "Postal Code": "18042-1797",
         "Country": "USA",
         "addrtype": "street_address",
         "addrlocat": "RANGE_INTERPOLATED"
@@ -4664,11 +4664,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Biblioteca Alexandrina",
+        "Organization": "Biblioteca Alexandrina",
         "Address": "P.O. Box 138",
         "City": "Chatby, Alexandria",
         "State/Terr": "21526",
-        "Postal Cod": null,
+        "Postal Code": null,
         "Country": "Egypt",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER"
@@ -4684,11 +4684,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Clemson University",
+        "Organization": "Clemson University",
         "Address": "Campus Box 34-3001",
         "City": "Clemson",
         "State/Terr": "SC",
-        "Postal Cod": "29634-3001",
+        "Postal Code": "29634-3001",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4704,11 +4704,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Los Alamos National Lab",
+        "Organization": "Los Alamos National Lab",
         "Address": "MS P362",
         "City": "Los Alamos",
         "State/Terr": "NM",
-        "Postal Cod": "87545-1362",
+        "Postal Code": "87545-1362",
         "Country": "USA",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE"
@@ -4724,11 +4724,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Arizona State University",
+        "Organization": "Arizona State University",
         "Address": "Hayden Library",
         "City": "Tempe",
         "State/Terr": "AZ",
-        "Postal Cod": "85287-1006",
+        "Postal Code": "85287-1006",
         "Country": "USA",
         "addrtype": "building",
         "addrlocat": "way"
@@ -4744,11 +4744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Brown University",
+        "Organization": "Brown University",
         "Address": "Brown University Library",
         "City": "Providence",
         "State/Terr": "RI",
-        "Postal Cod": "02912",
+        "Postal Code": "02912",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -4764,11 +4764,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "California Institute of Technology",
+        "Organization": "California Institute of Technology",
         "Address": "1200 E. California Blvd.",
         "City": "Pasadena",
         "State/Terr": "CA",
-        "Postal Cod": "91125-3200",
+        "Postal Code": "91125-3200",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -4784,11 +4784,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Columbia University Libraries",
+        "Organization": "Columbia University Libraries",
         "Address": "535 West 114th Street",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10027",
+        "Postal Code": "10027",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -4804,11 +4804,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "Address": "1341 Massachusetts Avenue",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "02138",
+        "Postal Code": "02138",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -4824,11 +4824,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Indiana University",
+        "Organization": "Indiana University",
         "Address": "1320 East 10th Street",
         "City": "Bloomington",
         "State/Terr": "IN",
-        "Postal Cod": "47405",
+        "Postal Code": "47405",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -4844,11 +4844,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Massachusetts Institute of Technology",
+        "Organization": "Massachusetts Institute of Technology",
         "Address": "77 Massachusetts Avenue",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "02139-4307",
+        "Postal Code": "02139-4307",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "node"
@@ -4864,11 +4864,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "National Library of Medicine",
+        "Organization": "National Library of Medicine",
         "Address": "8600 Rockville Pike",
         "City": "Bethesda",
         "State/Terr": "MD",
-        "Postal Cod": "20894",
+        "Postal Code": "20894",
         "Country": "USA",
         "addrtype": "building",
         "addrlocat": "way"
@@ -4884,11 +4884,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "New York Public Library",
+        "Organization": "New York Public Library",
         "Address": "11 West 40th Street",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10018-2788",
+        "Postal Code": "10018-2788",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "node"
@@ -4904,11 +4904,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "New York University",
+        "Organization": "New York University",
         "Address": "70 Washington Square South",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10012",
+        "Postal Code": "10012",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -4924,11 +4924,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "North Carolina State University",
+        "Organization": "North Carolina State University",
         "Address": "Box 7111",
         "City": "Raleigh",
         "State/Terr": "NC",
-        "Postal Cod": "27695-7111",
+        "Postal Code": "27695-7111",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -4944,11 +4944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Northwestern University",
+        "Organization": "Northwestern University",
         "Address": "1970 Campus Drive",
         "City": "Evanston",
         "State/Terr": "IL",
-        "Postal Cod": "60208-2300",
+        "Postal Code": "60208-2300",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -4964,11 +4964,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "State University of New York at Albany",
+        "Organization": "State University of New York at Albany",
         "Address": "1400 Washington Avenue",
         "City": "Albany",
         "State/Terr": "NY",
-        "Postal Cod": "12222-0001",
+        "Postal Code": "12222-0001",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -4984,11 +4984,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Temple University",
+        "Organization": "Temple University",
         "Address": "1210 Polett Walk",
         "City": "Philadelphia",
         "State/Terr": "PA",
-        "Postal Cod": "19122",
+        "Postal Code": "19122",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -5004,11 +5004,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Texas A&M University",
+        "Organization": "Texas A&M University",
         "Address": "5000 TAMU",
         "City": "College Station",
         "State/Terr": "TX",
-        "Postal Cod": "77843-5000",
+        "Postal Code": "77843-5000",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5024,11 +5024,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of British Columbia",
+        "Organization": "University of British Columbia",
         "Address": "1961 East Mall",
         "City": "Vancouver",
         "State/Terr": "BC",
-        "Postal Cod": "V6T 1Z1",
+        "Postal Code": "V6T 1Z1",
         "Country": "Canada",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5044,11 +5044,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, Los Angeles",
+        "Organization": "University of California, Los Angeles",
         "Address": "Box 951575",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90095-1575",
+        "Postal Code": "90095-1575",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "node"
@@ -5064,11 +5064,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of California, San Diego",
+        "Organization": "University of California, San Diego",
         "Address": "9500 Gilman Drive",
         "City": "La Jolla",
         "State/Terr": "CA",
-        "Postal Cod": "92093-0175",
+        "Postal Code": "92093-0175",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -5084,11 +5084,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Delaware",
+        "Organization": "University of Delaware",
         "Address": "181 South College Avenue",
         "City": "Newark",
         "State/Terr": "DE",
-        "Postal Cod": "19717-5267",
+        "Postal Code": "19717-5267",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5104,11 +5104,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Georgia",
+        "Organization": "University of Georgia",
         "Address": "South Jackson Street",
         "City": "Athens",
         "State/Terr": "GA",
-        "Postal Cod": "30602",
+        "Postal Code": "30602",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5124,11 +5124,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Illinois at Urbana-Champaign",
+        "Organization": "University of Illinois at Urbana-Champaign",
         "Address": "1408 West Gregory Drive",
         "City": "Urbana",
         "State/Terr": "IL",
-        "Postal Cod": "61801",
+        "Postal Code": "61801",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5144,11 +5144,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Kentucky",
+        "Organization": "University of Kentucky",
         "Address": "500 S.  Limestone St.",
         "City": "Lexington",
         "State/Terr": "KY",
-        "Postal Cod": "40506-0456",
+        "Postal Code": "40506-0456",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5164,11 +5164,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Pennsylvania",
+        "Organization": "University of Pennsylvania",
         "Address": "3420 Walnut Street",
         "City": "Philadelphia",
         "State/Terr": "PA",
-        "Postal Cod": "19104-6206",
+        "Postal Code": "19104-6206",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -5184,11 +5184,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Southern California",
+        "Organization": "University of Southern California",
         "Address": "3550  Trousdale Pkwy",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90089-0182",
+        "Postal Code": "90089-0182",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5204,11 +5204,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Tennessee",
+        "Organization": "University of Tennessee",
         "Address": "1015 Volunteer Boulevard",
         "City": "Knoxville",
         "State/Terr": "TN",
-        "Postal Cod": "37996-1000",
+        "Postal Code": "37996-1000",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5224,11 +5224,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Utah",
+        "Organization": "University of Utah",
         "Address": "295 South 1500 East",
         "City": "Salt Lake City",
         "State/Terr": "UT",
-        "Postal Cod": "84112-0860",
+        "Postal Code": "84112-0860",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5244,11 +5244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Wisconsin-Madison",
+        "Organization": "University of Wisconsin-Madison",
         "Address": "728 State Street",
         "City": "Madison",
         "State/Terr": "WI",
-        "Postal Cod": "53706",
+        "Postal Code": "53706",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "way"
@@ -5264,11 +5264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Wyoming",
+        "Organization": "University of Wyoming",
         "Address": "1000 E. University Avenue",
         "City": "Laramie",
         "State/Terr": "WY",
-        "Postal Cod": "82071-3334",
+        "Postal Code": "82071-3334",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5284,11 +5284,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Virginia Polytechnic Institute and State University",
+        "Organization": "Virginia Polytechnic Institute and State University",
         "Address": "Drillfield Drive",
         "City": "Blacksburg",
         "State/Terr": "VA",
-        "Postal Cod": "24062-9001",
+        "Postal Code": "24062-9001",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5304,11 +5304,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Yale University",
+        "Organization": "Yale University",
         "Address": "120 High Street",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "06520-8240",
+        "Postal Code": "06520-8240",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5324,11 +5324,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Bryn Mawr College",
+        "Organization": "Bryn Mawr College",
         "Address": "101 North Merion Avenue",
         "City": "Bryn Mawr",
         "State/Terr": "PA",
-        "Postal Cod": "19010-2899",
+        "Postal Code": "19010-2899",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5344,11 +5344,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Rhodes College",
+        "Organization": "Rhodes College",
         "Address": "2000 North Parkway",
         "City": "Memphis",
         "State/Terr": "TN",
-        "Postal Cod": "38112",
+        "Postal Code": "38112",
         "Country": "USA",
         "addrtype": "tourism",
         "addrlocat": "way"
@@ -5364,11 +5364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Coalition for Networked Information",
+        "Organization": "Coalition for Networked Information",
         "Address": "21 Dupont Circle, NW",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "relation"
@@ -5384,11 +5384,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Southwestern University",
+        "Organization": "Southwestern University",
         "Address": "1001 East University Avenue",
         "City": "Georgetown",
         "State/Terr": "TX",
-        "Postal Cod": "78626",
+        "Postal Code": "78626",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5404,11 +5404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Florida State University",
+        "Organization": "Florida State University",
         "Address": "116 Honors Way",
         "City": "Tallahassee",
         "State/Terr": "FL",
-        "Postal Cod": "32306",
+        "Postal Code": "32306",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5424,11 +5424,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Georgia Institute of Technology",
+        "Organization": "Georgia Institute of Technology",
         "Address": "704 Cherry Street",
         "City": "Atlanta",
         "State/Terr": "GA",
-        "Postal Cod": "30332-0001",
+        "Postal Code": "30332-0001",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5444,11 +5444,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Inter-University Consortium for Political and Social Research",
+        "Organization": "Inter-University Consortium for Political and Social Research",
         "Address": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48106",
+        "Postal Code": "48106",
         "Country": "USA",
         "addrtype": "amenity",
         "addrlocat": "relation"
@@ -5464,11 +5464,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "OCLC Research Library Partnership",
+        "Organization": "OCLC Research Library Partnership",
         "Address": "6565 Kilgour Place",
         "City": "Dublin",
         "State/Terr": "OH",
-        "Postal Cod": "43107-3395",
+        "Postal Code": "43107-3395",
         "Country": "USA",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5484,11 +5484,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "Princeton Theological Seminary",
+        "Organization": "Princeton Theological Seminary",
         "Address": "25 Library Place",
         "City": "Princeton",
         "State/Terr": "NJ",
-        "Postal Cod": "08542",
+        "Postal Code": "08542",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5504,11 +5504,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "University of Illinois at Urbana-Champaign",
+        "Organization": "University of Illinois at Urbana-Champaign",
         "Address": "1408 West Gregory Drive",
         "City": "Urbana",
         "State/Terr": "IL",
-        "Postal Cod": "61801",
+        "Postal Code": "61801",
         "Country": "USA",
         "addrtype": "place",
         "addrlocat": "house"
@@ -5524,11 +5524,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Organizati": "York University",
+        "Organization": "York University",
         "Address": "4700 Keele Street",
         "City": "Toronto",
         "State/Terr": "ON",
-        "Postal Cod": "M3J 1P3",
+        "Postal Code": "M3J 1P3",
         "Country": "Canada",
         "addrtype": "highway",
         "addrlocat": "way"
@@ -5547,10 +5547,10 @@
         "First Name": "Jaquelina",
         "Last Name": "Alvarez",
         "Full Name": "Jaquelina Alvarez",
-        "Organizati": "University of Puerto Rico",
+        "Organization": "University of Puerto Rico",
         "City": "Mayaguez",
         "State/Terr": "PR",
-        "Postal Cod": "681",
+        "Postal Code": "681",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -5570,10 +5570,10 @@
         "First Name": "Shawn",
         "Last Name": "Averkamp",
         "Full Name": "Shawn Averkamp",
-        "Organizati": "University of Iowa",
+        "Organization": "University of Iowa",
         "City": "Iowa City",
         "State/Terr": "IA",
-        "Postal Cod": "52242",
+        "Postal Code": "52242",
         "Country": "United States",
         "addrtype": "hospital",
         "addrlocat": "APPROXIMATE",
@@ -5593,10 +5593,10 @@
         "First Name": "Ted",
         "Last Name": "Baldwin",
         "Full Name": "Ted Baldwin",
-        "Organizati": "University of Cincinnati",
+        "Organization": "University of Cincinnati",
         "City": "Cincinnati",
         "State/Terr": "OH",
-        "Postal Cod": "45221",
+        "Postal Code": "45221",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -5616,10 +5616,10 @@
         "First Name": "David",
         "Last Name": "Barber",
         "Full Name": "David Barber",
-        "Organizati": "Oregon State University",
+        "Organization": "Oregon State University",
         "City": "Corvallis",
         "State/Terr": "OR",
-        "Postal Cod": "97331",
+        "Postal Code": "97331",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -5639,10 +5639,10 @@
         "First Name": "Donald",
         "Last Name": "Barclay",
         "Full Name": "Donald Barclay",
-        "Organizati": "University of California, Merced",
+        "Organization": "University of California, Merced",
         "City": "Merced",
         "State/Terr": "CA",
-        "Postal Cod": "95343",
+        "Postal Code": "95343",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -5662,10 +5662,10 @@
         "First Name": "Fabrice",
         "Last Name": "Berrue",
         "Full Name": "Fabrice Berrue",
-        "Organizati": "University of Prince Edward Island",
+        "Organization": "University of Prince Edward Island",
         "City": "Charlottetown",
         "State/Terr": "PE",
-        "Postal Cod": "C1A 4P3",
+        "Postal Code": "C1A 4P3",
         "Country": "Canada",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -5685,10 +5685,10 @@
         "First Name": "Rachel",
         "Last Name": "Besara",
         "Full Name": "Rachel Besara",
-        "Organizati": "Florida State University",
+        "Organization": "Florida State University",
         "City": "Tallahassee",
         "State/Terr": "FL",
-        "Postal Cod": "32306",
+        "Postal Code": "32306",
         "Country": "United States",
         "addrtype": "campground",
         "addrlocat": "APPROXIMATE",
@@ -5708,10 +5708,10 @@
         "First Name": "Debbie",
         "Last Name": "Bezanson",
         "Full Name": "Debbie Bezanson",
-        "Organizati": "The George Washington University",
+        "Organization": "The George Washington University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20052",
+        "Postal Code": "20052",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -5731,10 +5731,10 @@
         "First Name": "Rebecca",
         "Last Name": "Bichel",
         "Full Name": "Rebecca Bichel",
-        "Organizati": "University of Texas at Arlington",
+        "Organization": "University of Texas at Arlington",
         "City": "Arlington",
         "State/Terr": "TX",
-        "Postal Cod": "76019",
+        "Postal Code": "76019",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -5754,10 +5754,10 @@
         "First Name": "Jane",
         "Last Name": "Blumenthal",
         "Full Name": "Jane Blumenthal",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109",
+        "Postal Code": "48109",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -5777,10 +5777,10 @@
         "First Name": "L. Maximilian",
         "Last Name": "Buja",
         "Full Name": "L. Maximilian Buja",
-        "Organizati": "Texas Medical Center Library",
+        "Organization": "Texas Medical Center Library",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77030",
+        "Postal Code": "77030",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -5800,10 +5800,10 @@
         "First Name": "Susan",
         "Last Name": "Cardinal",
         "Full Name": "Susan Cardinal",
-        "Organizati": "University of Rochester",
+        "Organization": "University of Rochester",
         "City": "Rochester",
         "State/Terr": "NY",
-        "Postal Cod": "14627",
+        "Postal Code": "14627",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -5823,10 +5823,10 @@
         "First Name": "Jake",
         "Last Name": "Carlson",
         "Full Name": "Jake Carlson",
-        "Organizati": "Purdue University",
+        "Organization": "Purdue University",
         "City": "West Lafayette",
         "State/Terr": "IN",
-        "Postal Cod": "47907",
+        "Postal Code": "47907",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -5846,10 +5846,10 @@
         "First Name": "Kate",
         "Last Name": "Carter",
         "Full Name": "Kate Carter",
-        "Organizati": "Swarthmore College",
+        "Organization": "Swarthmore College",
         "City": "Swarthmore",
         "State/Terr": "PA",
-        "Postal Cod": "19081",
+        "Postal Code": "19081",
         "Country": "United States",
         "addrtype": "park",
         "addrlocat": "APPROXIMATE",
@@ -5869,10 +5869,10 @@
         "First Name": "Deborah",
         "Last Name": "Charbonneau",
         "Full Name": "Deborah Charbonneau",
-        "Organizati": "Wayne State University",
+        "Organization": "Wayne State University",
         "City": "Detroit",
         "State/Terr": "MI",
-        "Postal Cod": "48202",
+        "Postal Code": "48202",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -5892,10 +5892,10 @@
         "First Name": "Sayeed",
         "Last Name": "Choudhury",
         "Full Name": "Sayeed Choudhury",
-        "Organizati": "Johns Hopkins University",
+        "Organization": "Johns Hopkins University",
         "City": "Baltimore",
         "State/Terr": "MD",
-        "Postal Cod": "21218",
+        "Postal Code": "21218",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -5915,10 +5915,10 @@
         "First Name": "April",
         "Last Name": "Colosimo",
         "Full Name": "April Colosimo",
-        "Organizati": "McGill University Libraries",
+        "Organization": "McGill University Libraries",
         "City": "Montreal",
         "State/Terr": "QC",
-        "Postal Cod": "H3A 1Y1",
+        "Postal Code": "H3A 1Y1",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -5938,10 +5938,10 @@
         "First Name": "Fe",
         "Last Name": "Consolacion",
         "Full Name": "Fe Consolacion",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109",
+        "Postal Code": "48109",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -5961,10 +5961,10 @@
         "First Name": "Trisha",
         "Last Name": "Cruse",
         "Full Name": "Trisha Cruse",
-        "Organizati": "California Digital Library",
+        "Organization": "California Digital Library",
         "City": "Oakland",
         "State/Terr": "CA",
-        "Postal Cod": "94612",
+        "Postal Code": "94612",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -5984,10 +5984,10 @@
         "First Name": "Victor",
         "Last Name": "Diaz",
         "Full Name": "Victor Diaz",
-        "Organizati": "University of Puerto Rico",
+        "Organization": "University of Puerto Rico",
         "City": "Rio Piedras",
         "State/Terr": "PR",
-        "Postal Cod": "931",
+        "Postal Code": "931",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6007,10 +6007,10 @@
         "First Name": "Felicity",
         "Last Name": "Dykas",
         "Full Name": "Felicity Dykas",
-        "Organizati": "University of Missouri",
+        "Organization": "University of Missouri",
         "City": "Columbia",
         "State/Terr": "MO",
-        "Postal Cod": "65201",
+        "Postal Code": "65201",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6030,10 +6030,10 @@
         "First Name": "Chris",
         "Last Name": "Elsik",
         "Full Name": "Chris Elsik",
-        "Organizati": "University of Missouri",
+        "Organization": "University of Missouri",
         "City": "Columbia",
         "State/Terr": "MO",
-        "Postal Cod": "65201",
+        "Postal Code": "65201",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6053,10 +6053,10 @@
         "First Name": "Vessela",
         "Last Name": "Ensberg",
         "Full Name": "Vessela Ensberg",
-        "Organizati": "University of California, Los Angeles",
+        "Organization": "University of California, Los Angeles",
         "City": "Los Angeles",
         "State/Terr": "CA",
-        "Postal Cod": "90095",
+        "Postal Code": "90095",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6076,10 +6076,10 @@
         "First Name": "Brian",
         "Last Name": "Ensor",
         "Full Name": "Brian Ensor",
-        "Organizati": "The George Washington University",
+        "Organization": "The George Washington University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20052",
+        "Postal Code": "20052",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -6099,10 +6099,10 @@
         "First Name": "Laine",
         "Last Name": "Farley",
         "Full Name": "Laine Farley",
-        "Organizati": "California Digital Library",
+        "Organization": "California Digital Library",
         "City": "Oakland",
         "State/Terr": "CA",
-        "Postal Cod": "94612",
+        "Postal Code": "94612",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6122,10 +6122,10 @@
         "First Name": "Pat",
         "Last Name": "Flanagan",
         "Full Name": "Pat Flanagan",
-        "Organizati": "Brandeis University",
+        "Organization": "Brandeis University",
         "City": "Waltham",
         "State/Terr": "MA",
-        "Postal Cod": "2454",
+        "Postal Code": "2454",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -6145,10 +6145,10 @@
         "First Name": "Susan",
         "Last Name": "Fliss",
         "Full Name": "Susan Fliss",
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "2138",
+        "Postal Code": "2138",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -6168,10 +6168,10 @@
         "First Name": "Simon",
         "Last Name": "Foote",
         "Full Name": "Simon Foote",
-        "Organizati": "National Research Council Canada",
+        "Organization": "National Research Council Canada",
         "City": "Ottawa",
         "State/Terr": "ON",
-        "Postal Cod": "K1A 0R6",
+        "Postal Code": "K1A 0R6",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6191,10 +6191,10 @@
         "First Name": "Eric",
         "Last Name": "Fredericksen",
         "Full Name": "Eric Fredericksen",
-        "Organizati": "University of Rochester",
+        "Organization": "University of Rochester",
         "City": "Rochester",
         "State/Terr": "NY",
-        "Postal Cod": "14627",
+        "Postal Code": "14627",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6214,10 +6214,10 @@
         "First Name": "Rachel",
         "Last Name": "Frick",
         "Full Name": "Rachel Frick",
-        "Organizati": "Council on Library and Information Resources",
+        "Organization": "Council on Library and Information Resources",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6237,10 +6237,10 @@
         "First Name": "Mike",
         "Last Name": "Furlough",
         "Full Name": "Mike Furlough",
-        "Organizati": "Pennsylvania State University",
+        "Organization": "Pennsylvania State University",
         "City": "University Park",
         "State/Terr": "PA",
-        "Postal Cod": "16802",
+        "Postal Code": "16802",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -6260,10 +6260,10 @@
         "First Name": "Judy",
         "Last Name": "Ganson",
         "Full Name": "Judy Ganson",
-        "Organizati": "University of Arkansas",
+        "Organization": "University of Arkansas",
         "City": "Fayatteville",
         "State/Terr": "AR",
-        "Postal Cod": "72701",
+        "Postal Code": "72701",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6283,10 +6283,10 @@
         "First Name": "Clay",
         "Last Name": "Hagler",
         "Full Name": "Clay Hagler",
-        "Organizati": "Pacific Northwest National Laboratory",
+        "Organization": "Pacific Northwest National Laboratory",
         "City": "Richland",
         "State/Terr": "WA",
-        "Postal Cod": "99352",
+        "Postal Code": "99352",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -6306,10 +6306,10 @@
         "First Name": "Walter",
         "Last Name": "Hall",
         "Full Name": "Walter Hall",
-        "Organizati": "Petroleum Institute",
+        "Organization": "Petroleum Institute",
         "City": "Abu Dhabi",
         "State/Terr": null,
-        "Postal Cod": null,
+        "Postal Code": null,
         "Country": "United Arab Emirates",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6329,10 +6329,10 @@
         "First Name": "Deborah",
         "Last Name": "Halsted",
         "Full Name": "Deborah Halsted",
-        "Organizati": "Texas Medical Center Library",
+        "Organization": "Texas Medical Center Library",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77030",
+        "Postal Code": "77030",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6352,10 +6352,10 @@
         "First Name": "Jeff",
         "Last Name": "Hamerlinck",
         "Full Name": "Jeff Hamerlinck",
-        "Organizati": "University of Wyoming",
+        "Organization": "University of Wyoming",
         "City": "Laramie",
         "State/Terr": "WY",
-        "Postal Cod": "82071",
+        "Postal Code": "82071",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6375,10 +6375,10 @@
         "First Name": "Barrie",
         "Last Name": "Hayes",
         "Full Name": "Barrie Hayes",
-        "Organizati": "University of North Carolina at Chapel Hill",
+        "Organization": "University of North Carolina at Chapel Hill",
         "City": "Chapel Hill",
         "State/Terr": "NC",
-        "Postal Cod": "27599",
+        "Postal Code": "27599",
         "Country": "United States",
         "addrtype": "intersection",
         "addrlocat": "APPROXIMATE",
@@ -6398,10 +6398,10 @@
         "First Name": "Margaret",
         "Last Name": "Henderson",
         "Full Name": "Margaret Henderson",
-        "Organizati": "Virginia Commonwealth University",
+        "Organization": "Virginia Commonwealth University",
         "City": "Richmond",
         "State/Terr": "VA",
-        "Postal Cod": "23284",
+        "Postal Code": "23284",
         "Country": "United States",
         "addrtype": "street_number",
         "addrlocat": "APPROXIMATE",
@@ -6421,10 +6421,10 @@
         "First Name": "Bruce",
         "Last Name": "Herbert",
         "Full Name": "Bruce Herbert",
-        "Organizati": "Texas A&M University",
+        "Organization": "Texas A&M University",
         "City": "College Station",
         "State/Terr": "TX",
-        "Postal Cod": "77843",
+        "Postal Code": "77843",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -6444,10 +6444,10 @@
         "First Name": "Valorie",
         "Last Name": "Hollister",
         "Full Name": "Valorie Hollister",
-        "Organizati": "DuraSpace",
+        "Organization": "DuraSpace",
         "City": "Winchester",
         "State/Terr": "MA",
-        "Postal Cod": "1890",
+        "Postal Code": "1890",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6467,10 +6467,10 @@
         "First Name": "Patricia",
         "Last Name": "Hswe",
         "Full Name": "Patricia Hswe",
-        "Organizati": "Pennsylvania State University",
+        "Organization": "Pennsylvania State University",
         "City": "University Park",
         "State/Terr": "PA",
-        "Postal Cod": "16802",
+        "Postal Code": "16802",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -6490,10 +6490,10 @@
         "First Name": "Chuck",
         "Last Name": "Humphrey",
         "Full Name": "Chuck Humphrey",
-        "Organizati": "University of Alberta",
+        "Organization": "University of Alberta",
         "City": "Edmonton",
         "State/Terr": "AB",
-        "Postal Cod": "T6G 2J8",
+        "Postal Code": "T6G 2J8",
         "Country": "Canada",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -6513,10 +6513,10 @@
         "First Name": "Clarke",
         "Last Name": "Iakovakis",
         "Full Name": "Clarke Iakovakis",
-        "Organizati": "University of Texas at Arlington",
+        "Organization": "University of Texas at Arlington",
         "City": "Arlington",
         "State/Terr": "TX",
-        "Postal Cod": "76019",
+        "Postal Code": "76019",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6536,10 +6536,10 @@
         "First Name": "Michael",
         "Last Name": "Ireland",
         "Full Name": "Michael Ireland",
-        "Organizati": "National Research Council Canada",
+        "Organization": "National Research Council Canada",
         "City": "Ottawa",
         "State/Terr": "ON",
-        "Postal Cod": "K1A 0R6",
+        "Postal Code": "K1A 0R6",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6559,10 +6559,10 @@
         "First Name": "David",
         "Last Name": "Isaak",
         "Full Name": "David Isaak",
-        "Organizati": "Kaiser Permanente Center for Health Research",
+        "Organization": "Kaiser Permanente Center for Health Research",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97227",
+        "Postal Code": "97227",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6582,10 +6582,10 @@
         "First Name": "DeEtta",
         "Last Name": "Jones",
         "Full Name": "DeEtta Jones",
-        "Organizati": null,
+        "Organization": null,
         "City": "Chicago",
         "State/Terr": "IL",
-        "Postal Cod": "60601",
+        "Postal Code": "60601",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6605,10 +6605,10 @@
         "First Name": "Zahra",
         "Last Name": "Kamarei",
         "Full Name": "Zahra Kamarei",
-        "Organizati": "University of Rochester",
+        "Organization": "University of Rochester",
         "City": "Rochester",
         "State/Terr": "NY",
-        "Postal Cod": "14627",
+        "Postal Code": "14627",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6628,10 +6628,10 @@
         "First Name": "Teresa",
         "Last Name": "Knott",
         "Full Name": "Teresa Knott",
-        "Organizati": "Virginia Commonwealth University",
+        "Organization": "Virginia Commonwealth University",
         "City": "Richmond",
         "State/Terr": "VA",
-        "Postal Cod": "23298",
+        "Postal Code": "23298",
         "Country": "United States",
         "addrtype": "street_number",
         "addrlocat": "APPROXIMATE",
@@ -6651,10 +6651,10 @@
         "First Name": "Inna",
         "Last Name": "Kouper",
         "Full Name": "Inna Kouper",
-        "Organizati": "Indiana University",
+        "Organization": "Indiana University",
         "City": "Bloomington",
         "State/Terr": "IN",
-        "Postal Cod": "47405",
+        "Postal Code": "47405",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6674,10 +6674,10 @@
         "First Name": "Kate",
         "Last Name": "Krause",
         "Full Name": "Kate Krause",
-        "Organizati": "Texas Medical Center Library",
+        "Organization": "Texas Medical Center Library",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77030",
+        "Postal Code": "77030",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6697,10 +6697,10 @@
         "First Name": "Pierre",
         "Last Name": "La Chance",
         "Full Name": "Pierre La Chance",
-        "Organizati": "Kaiser Permanente Center for Health Research",
+        "Organization": "Kaiser Permanente Center for Health Research",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97227",
+        "Postal Code": "97227",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6720,10 +6720,10 @@
         "First Name": "Smyth",
         "Last Name": "Lai",
         "Full Name": "Smyth Lai",
-        "Organizati": "Kaiser Permanente Center for Health Research",
+        "Organization": "Kaiser Permanente Center for Health Research",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97227",
+        "Postal Code": "97227",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6743,10 +6743,10 @@
         "First Name": "Hope",
         "Last Name": "Lappen",
         "Full Name": "Hope Lappen",
-        "Organizati": "The George Washington University",
+        "Organization": "The George Washington University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20052",
+        "Postal Code": "20052",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -6766,10 +6766,10 @@
         "First Name": "Mark",
         "Last Name": "Leggott",
         "Full Name": "Mark Leggott",
-        "Organizati": "University of Prince Edward Island",
+        "Organization": "University of Prince Edward Island",
         "City": "Charlottetown",
         "State/Terr": "PE",
-        "Postal Cod": "C1A4P3",
+        "Postal Code": "C1A4P3",
         "Country": "Canada",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6789,10 +6789,10 @@
         "First Name": "Kathleen",
         "Last Name": "Lehman",
         "Full Name": "Kathleen Lehman",
-        "Organizati": "University of Arkansas",
+        "Organization": "University of Arkansas",
         "City": "Fayatteville",
         "State/Terr": "AR",
-        "Postal Cod": "72701",
+        "Postal Code": "72701",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -6812,10 +6812,10 @@
         "First Name": "Lilly",
         "Last Name": "Li",
         "Full Name": "Lilly Li",
-        "Organizati": "Texas A&M University",
+        "Organization": "Texas A&M University",
         "City": "College Station",
         "State/Terr": "TX",
-        "Postal Cod": "77843",
+        "Postal Code": "77843",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -6835,10 +6835,10 @@
         "First Name": "Emily",
         "Last Name": "Lin",
         "Full Name": "Emily Lin",
-        "Organizati": "University of California, Merced",
+        "Organization": "University of California, Merced",
         "City": "Merced",
         "State/Terr": "CA",
-        "Postal Cod": "95343",
+        "Postal Code": "95343",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6858,10 +6858,10 @@
         "First Name": "Reese",
         "Last Name": "Manceaux",
         "Full Name": "Reese Manceaux",
-        "Organizati": "University of North Carolina at Charlotte",
+        "Organization": "University of North Carolina at Charlotte",
         "City": "Charlotte",
         "State/Terr": "NC",
-        "Postal Cod": "28223",
+        "Postal Code": "28223",
         "Country": "United States",
         "addrtype": "real_estate_agency",
         "addrlocat": "APPROXIMATE",
@@ -6881,10 +6881,10 @@
         "First Name": "Wendy",
         "Last Name": "Mann",
         "Full Name": "Wendy Mann",
-        "Organizati": "George Mason University",
+        "Organization": "George Mason University",
         "City": "Fairfax",
         "State/Terr": "VA",
-        "Postal Cod": "22030",
+        "Postal Code": "22030",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -6904,10 +6904,10 @@
         "First Name": "Stephen",
         "Last Name": "Marine",
         "Full Name": "Stephen Marine",
-        "Organizati": "University of Cincinnati",
+        "Organization": "University of Cincinnati",
         "City": "Cincinnati",
         "State/Terr": "OH",
-        "Postal Cod": "45267",
+        "Postal Code": "45267",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -6927,10 +6927,10 @@
         "First Name": "Nancy",
         "Last Name": "Maron",
         "Full Name": "Nancy Maron",
-        "Organizati": "ITHAKA",
+        "Organization": "ITHAKA",
         "City": "New York",
         "State/Terr": "NY",
-        "Postal Cod": "10065",
+        "Postal Code": "10065",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6950,10 +6950,10 @@
         "First Name": "Sandra",
         "Last Name": "Martin",
         "Full Name": "Sandra Martin",
-        "Organizati": "Wayne State University",
+        "Organization": "Wayne State University",
         "City": "Detroit",
         "State/Terr": "MI",
-        "Postal Cod": "48201",
+        "Postal Code": "48201",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -6973,10 +6973,10 @@
         "First Name": "Scott",
         "Last Name": "Martin",
         "Full Name": "Scott Martin",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109",
+        "Postal Code": "48109",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -6996,10 +6996,10 @@
         "First Name": "Victoria",
         "Last Name": "Martin",
         "Full Name": "Victoria Martin",
-        "Organizati": "George Mason University",
+        "Organization": "George Mason University",
         "City": "Fairfax",
         "State/Terr": "VA",
-        "Postal Cod": "22030",
+        "Postal Code": "22030",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -7019,10 +7019,10 @@
         "First Name": "Ethan",
         "Last Name": "Masella",
         "Full Name": "Ethan Masella",
-        "Organizati": "Brandeis University",
+        "Organization": "Brandeis University",
         "City": "Waltham",
         "State/Terr": "MA",
-        "Postal Cod": "2454",
+        "Postal Code": "2454",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -7042,10 +7042,10 @@
         "First Name": "Michele",
         "Last Name": "Matz Hayslett",
         "Full Name": "Michele Matz Hayslett",
-        "Organizati": "University of North Carolina at Chapel Hill",
+        "Organization": "University of North Carolina at Chapel Hill",
         "City": "Chapel Hill",
         "State/Terr": "NC",
-        "Postal Cod": "27515",
+        "Postal Code": "27515",
         "Country": "United States",
         "addrtype": "intersection",
         "addrlocat": "APPROXIMATE",
@@ -7065,10 +7065,10 @@
         "First Name": "Owen",
         "Last Name": "McCarty",
         "Full Name": "Owen McCarty",
-        "Organizati": "Oregon Health & Science University",
+        "Organization": "Oregon Health & Science University",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97239",
+        "Postal Code": "97239",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7088,10 +7088,10 @@
         "First Name": "Heather",
         "Last Name": "McCullough",
         "Full Name": "Heather McCullough",
-        "Organizati": "University of North Carolina at Charlotte",
+        "Organization": "University of North Carolina at Charlotte",
         "City": "Charlotte",
         "State/Terr": "NC",
-        "Postal Cod": "28223",
+        "Postal Code": "28223",
         "Country": "United States",
         "addrtype": "real_estate_agency",
         "addrlocat": "APPROXIMATE",
@@ -7111,10 +7111,10 @@
         "First Name": "Mark",
         "Last Name": "McFarland",
         "Full Name": "Mark McFarland",
-        "Organizati": "Texas Medical Center Library",
+        "Organization": "Texas Medical Center Library",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77030",
+        "Postal Code": "77030",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7134,10 +7134,10 @@
         "First Name": "Kevin",
         "Last Name": "Messner",
         "Full Name": "Kevin Messner",
-        "Organizati": "Miami University",
+        "Organization": "Miami University",
         "City": "Oxford",
         "State/Terr": "OH",
-        "Postal Cod": "45056",
+        "Postal Code": "45056",
         "Country": "United States",
         "addrtype": "sublocality_level_1",
         "addrlocat": "APPROXIMATE",
@@ -7157,10 +7157,10 @@
         "First Name": "Vanessa",
         "Last Name": "Middleton",
         "Full Name": "Vanessa Middleton",
-        "Organizati": "Petroleum Institute",
+        "Organization": "Petroleum Institute",
         "City": "Abu Dhabi",
         "State/Terr": null,
-        "Postal Cod": null,
+        "Postal Code": null,
         "Country": "United Arab Emirates",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7180,10 +7180,10 @@
         "First Name": "John",
         "Last Name": "Millard",
         "Full Name": "John Millard",
-        "Organizati": "Miami University",
+        "Organization": "Miami University",
         "City": "Oxford",
         "State/Terr": "OH",
-        "Postal Cod": "45056",
+        "Postal Code": "45056",
         "Country": "United States",
         "addrtype": "sublocality_level_1",
         "addrlocat": "APPROXIMATE",
@@ -7203,10 +7203,10 @@
         "First Name": "Karen",
         "Last Name": "Morgenroth",
         "Full Name": "Karen Morgenroth",
-        "Organizati": "National Research Council Canada",
+        "Organization": "National Research Council Canada",
         "City": "Ottawa",
         "State/Terr": "ON",
-        "Postal Cod": "K1A 0R6",
+        "Postal Code": "K1A 0R6",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7226,10 +7226,10 @@
         "First Name": "Donald",
         "Last Name": "Moses",
         "Full Name": "Donald Moses",
-        "Organizati": "University of Prince Edward Island",
+        "Organization": "University of Prince Edward Island",
         "City": "Charlottetown",
         "State/Terr": "PE",
-        "Postal Cod": "C1A 4P3",
+        "Postal Code": "C1A 4P3",
         "Country": "Canada",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -7249,10 +7249,10 @@
         "First Name": "James",
         "Last Name": "Mullins",
         "Full Name": "James Mullins",
-        "Organizati": "Purdue University",
+        "Organization": "Purdue University",
         "City": "West Lafayette",
         "State/Terr": "IN",
-        "Postal Cod": "47907",
+        "Postal Code": "47907",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7272,10 +7272,10 @@
         "First Name": "Daureen",
         "Last Name": "Nesdill",
         "Full Name": "Daureen Nesdill",
-        "Organizati": "University of Utah",
+        "Organization": "University of Utah",
         "City": "Salt Lake City",
         "State/Terr": "UT",
-        "Postal Cod": "84112",
+        "Postal Code": "84112",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7295,10 +7295,10 @@
         "First Name": "Bruce",
         "Last Name": "Neville",
         "Full Name": "Bruce Neville",
-        "Organizati": "Texas A&M University",
+        "Organization": "Texas A&M University",
         "City": "College Station",
         "State/Terr": "TX",
-        "Postal Cod": "77843",
+        "Postal Code": "77843",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -7318,10 +7318,10 @@
         "First Name": "Natsuko",
         "Last Name": "Nicholls",
         "Full Name": "Natsuko Nicholls",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109",
+        "Postal Code": "48109",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7341,10 +7341,10 @@
         "First Name": "James",
         "Last Name": "Olds",
         "Full Name": "James Olds",
-        "Organizati": "George Mason University",
+        "Organization": "George Mason University",
         "City": "Fairfax",
         "State/Terr": "VA",
-        "Postal Cod": "22030",
+        "Postal Code": "22030",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -7364,10 +7364,10 @@
         "First Name": "Salwa",
         "Last Name": "Patel",
         "Full Name": "Salwa Patel",
-        "Organizati": "Georgetown University",
+        "Organization": "Georgetown University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20057",
+        "Postal Code": "20057",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7387,10 +7387,10 @@
         "First Name": "Carla",
         "Last Name": "Pealer",
         "Full Name": "Carla Pealer",
-        "Organizati": "Oregon Health & Science University",
+        "Organization": "Oregon Health & Science University",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97239",
+        "Postal Code": "97239",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7410,10 +7410,10 @@
         "First Name": "Jean",
         "Last Name": "Phillips",
         "Full Name": "Jean Phillips",
-        "Organizati": "Florida State University",
+        "Organization": "Florida State University",
         "City": "Tallahassee",
         "State/Terr": "FL",
-        "Postal Cod": "32306",
+        "Postal Code": "32306",
         "Country": "United States",
         "addrtype": "campground",
         "addrlocat": "APPROXIMATE",
@@ -7433,10 +7433,10 @@
         "First Name": "Lori",
         "Last Name": "Phillips",
         "Full Name": "Lori Phillips",
-        "Organizati": "University of Wyoming",
+        "Organization": "University of Wyoming",
         "City": "Laramie",
         "State/Terr": "WY",
-        "Postal Cod": "82071",
+        "Postal Code": "82071",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -7456,10 +7456,10 @@
         "First Name": "Jeannette",
         "Last Name": "Pierce",
         "Full Name": "Jeannette Pierce",
-        "Organizati": "University of Missouri",
+        "Organization": "University of Missouri",
         "City": "Columbia",
         "State/Terr": "MO",
-        "Postal Cod": "65201",
+        "Postal Code": "65201",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7479,10 +7479,10 @@
         "First Name": "Daphne",
         "Last Name": "Plaut",
         "Full Name": "Daphne Plaut",
-        "Organizati": "Kaiser Permanente Center for Health Research",
+        "Organization": "Kaiser Permanente Center for Health Research",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97227",
+        "Postal Code": "97227",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7502,10 +7502,10 @@
         "First Name": "David",
         "Last Name": "Podboy",
         "Full Name": "David Podboy",
-        "Organizati": "Pacific Northwest National Laboratory",
+        "Organization": "Pacific Northwest National Laboratory",
         "City": "Richland",
         "State/Terr": "WA",
-        "Postal Cod": "99354",
+        "Postal Code": "99354",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -7525,10 +7525,10 @@
         "First Name": "Regina",
         "Last Name": "Raboin",
         "Full Name": "Regina Raboin",
-        "Organizati": "Tufts University",
+        "Organization": "Tufts University",
         "City": "Medford",
         "State/Terr": "MA",
-        "Postal Cod": "2155",
+        "Postal Code": "2155",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7548,10 +7548,10 @@
         "First Name": "Melanie",
         "Last Name": "Radik",
         "Full Name": "Melanie Radik",
-        "Organizati": "Brandeis University",
+        "Organization": "Brandeis University",
         "City": "Waltham",
         "State/Terr": "MA",
-        "Postal Cod": "2453",
+        "Postal Code": "2453",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -7571,10 +7571,10 @@
         "First Name": "Jenn",
         "Last Name": "Riley",
         "Full Name": "Jenn Riley",
-        "Organizati": "McGill University Libraries",
+        "Organization": "McGill University Libraries",
         "City": "Montreal",
         "State/Terr": "QC",
-        "Postal Cod": "H3C 6W1",
+        "Postal Code": "H3C 6W1",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7594,10 +7594,10 @@
         "First Name": "Constance",
         "Last Name": "Rinaldo",
         "Full Name": "Constance Rinaldo",
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "2138",
+        "Postal Code": "2138",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -7617,10 +7617,10 @@
         "First Name": "Kendall",
         "Last Name": "Roark",
         "Full Name": "Kendall Roark",
-        "Organizati": null,
+        "Organization": null,
         "City": "Edmonton",
         "State/Terr": "AB",
-        "Postal Cod": "T6G 2J8",
+        "Postal Code": "T6G 2J8",
         "Country": "Canada",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7640,10 +7640,10 @@
         "First Name": "Ben",
         "Last Name": "Rogers",
         "Full Name": "Ben Rogers",
-        "Organizati": "University of Iowa",
+        "Organization": "University of Iowa",
         "City": "Iowa City",
         "State/Terr": "IA",
-        "Postal Cod": "52242",
+        "Postal Code": "52242",
         "Country": "United States",
         "addrtype": "hospital",
         "addrlocat": "APPROXIMATE",
@@ -7663,10 +7663,10 @@
         "First Name": "Mara",
         "Last Name": "Rojeski",
         "Full Name": "Mara Rojeski",
-        "Organizati": "Georgetown University",
+        "Organization": "Georgetown University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20057",
+        "Postal Code": "20057",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7686,10 +7686,10 @@
         "First Name": "Joanne",
         "Last Name": "Romano",
         "Full Name": "Joanne Romano",
-        "Organizati": "Texas Medical Center Library",
+        "Organization": "Texas Medical Center Library",
         "City": "Houston",
         "State/Terr": "TX",
-        "Postal Cod": "77030",
+        "Postal Code": "77030",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7709,10 +7709,10 @@
         "First Name": "Traci",
         "Last Name": "Ruthkoski",
         "Full Name": "Traci Ruthkoski",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48109",
+        "Postal Code": "48109",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7732,10 +7732,10 @@
         "First Name": "Annanaomi",
         "Last Name": "Sams",
         "Full Name": "Annanaomi Sams",
-        "Organizati": "Pacific Northwest National Laboratory",
+        "Organization": "Pacific Northwest National Laboratory",
         "City": "Richland",
         "State/Terr": "WA",
-        "Postal Cod": "99352",
+        "Postal Code": "99352",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -7755,10 +7755,10 @@
         "First Name": "Leslie",
         "Last Name": "Schick",
         "Full Name": "Leslie Schick",
-        "Organizati": "University of Cincinnati",
+        "Organization": "University of Cincinnati",
         "City": "Cincinnati",
         "State/Terr": "OH",
-        "Postal Cod": "45221",
+        "Postal Code": "45221",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -7778,10 +7778,10 @@
         "First Name": "Lynne",
         "Last Name": "Schmelz",
         "Full Name": "Lynne Schmelz",
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "2138",
+        "Postal Code": "2138",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -7801,10 +7801,10 @@
         "First Name": "Larry",
         "Last Name": "Schmidt",
         "Full Name": "Larry Schmidt",
-        "Organizati": "University of Wyoming",
+        "Organization": "University of Wyoming",
         "City": "Laramie",
         "State/Terr": "WY",
-        "Postal Cod": "82071",
+        "Postal Code": "82071",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -7824,10 +7824,10 @@
         "First Name": "Kristi",
         "Last Name": "Searle",
         "Full Name": "Kristi Searle",
-        "Organizati": "DuraSpace",
+        "Organization": "DuraSpace",
         "City": "Winchester",
         "State/Terr": "MA",
-        "Postal Cod": "1890",
+        "Postal Code": "1890",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7847,10 +7847,10 @@
         "First Name": "Chris",
         "Last Name": "Shaffer",
         "Full Name": "Chris Shaffer",
-        "Organizati": "Oregon Health & Science University",
+        "Organization": "Oregon Health & Science University",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97239",
+        "Postal Code": "97239",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -7870,10 +7870,10 @@
         "First Name": "Evan",
         "Last Name": "Simpson",
         "Full Name": "Evan Simpson",
-        "Organizati": "Tufts University",
+        "Organization": "Tufts University",
         "City": "Somerville",
         "State/Terr": "MA",
-        "Postal Cod": "2144",
+        "Postal Code": "2144",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7893,10 +7893,10 @@
         "First Name": "Harvinder",
         "Last Name": "Singh",
         "Full Name": "Harvinder Singh",
-        "Organizati": "University of Massachusetts, Amherst",
+        "Organization": "University of Massachusetts, Amherst",
         "City": "Amherst",
         "State/Terr": "MA",
-        "Postal Cod": "1003",
+        "Postal Code": "1003",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -7916,10 +7916,10 @@
         "First Name": "Kathlin",
         "Last Name": "Smith",
         "Full Name": "Kathlin Smith",
-        "Organizati": "Council on Library and Information Resources",
+        "Organization": "Council on Library and Information Resources",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -7939,10 +7939,10 @@
         "First Name": "MacKenzie",
         "Last Name": "Smith",
         "Full Name": "MacKenzie Smith",
-        "Organizati": "University of California, Davis",
+        "Organization": "University of California, Davis",
         "City": "Davis",
         "State/Terr": "CA",
-        "Postal Cod": "95616",
+        "Postal Code": "95616",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "APPROXIMATE",
@@ -7962,10 +7962,10 @@
         "First Name": "Paul",
         "Last Name": "Soderdahl",
         "Full Name": "Paul Soderdahl",
-        "Organizati": "University of Iowa",
+        "Organization": "University of Iowa",
         "City": "Iowa City",
         "State/Terr": "IA",
-        "Postal Cod": "52242",
+        "Postal Code": "52242",
         "Country": "United States",
         "addrtype": "hospital",
         "addrlocat": "APPROXIMATE",
@@ -7985,10 +7985,10 @@
         "First Name": "Mark",
         "Last Name": "Spasser",
         "Full Name": "Mark Spasser",
-        "Organizati": "Wayne State University",
+        "Organization": "Wayne State University",
         "City": "Detroit",
         "State/Terr": "MI",
-        "Postal Cod": "48202",
+        "Postal Code": "48202",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -8008,10 +8008,10 @@
         "First Name": "Meg",
         "Last Name": "Spencer",
         "Full Name": "Meg Spencer",
-        "Organizati": "Swarthmore College",
+        "Organization": "Swarthmore College",
         "City": "Swarthmore",
         "State/Terr": "PA",
-        "Postal Cod": "19081",
+        "Postal Code": "19081",
         "Country": "United States",
         "addrtype": "park",
         "addrlocat": "APPROXIMATE",
@@ -8031,10 +8031,10 @@
         "First Name": "Gosia",
         "Last Name": "Stergios",
         "Full Name": "Gosia Stergios",
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "City": "Cambridge",
         "State/Terr": "MA",
-        "Postal Cod": "2138",
+        "Postal Code": "2138",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -8054,10 +8054,10 @@
         "First Name": "Carly",
         "Last Name": "Strasser",
         "Full Name": "Carly Strasser",
-        "Organizati": "California Digital Library",
+        "Organization": "California Digital Library",
         "City": "Oakland",
         "State/Terr": "CA",
-        "Postal Cod": "94612",
+        "Postal Code": "94612",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -8077,10 +8077,10 @@
         "First Name": "Shan",
         "Last Name": "Sutton",
         "Full Name": "Shan Sutton",
-        "Organizati": "Oregon State University",
+        "Organization": "Oregon State University",
         "City": "Corvallis",
         "State/Terr": "OR",
-        "Postal Cod": "97331",
+        "Postal Code": "97331",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -8100,10 +8100,10 @@
         "First Name": "Jean-Claude",
         "Last Name": "Thill",
         "Full Name": "Jean-Claude Thill",
-        "Organizati": "University of North Carolina at Charlotte",
+        "Organization": "University of North Carolina at Charlotte",
         "City": "Charlotte",
         "State/Terr": "NC",
-        "Postal Cod": "28223",
+        "Postal Code": "28223",
         "Country": "United States",
         "addrtype": "real_estate_agency",
         "addrlocat": "APPROXIMATE",
@@ -8123,10 +8123,10 @@
         "First Name": "Ling",
         "Last Name": "Ting",
         "Full Name": "Ling Ting",
-        "Organizati": null,
+        "Organization": null,
         "City": "Fayetteville",
         "State/Terr": "AR",
-        "Postal Cod": "72701",
+        "Postal Code": "72701",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -8146,10 +8146,10 @@
         "First Name": "Robert",
         "Last Name": "Tombes",
         "Full Name": "Robert Tombes",
-        "Organizati": "Virginia Commonwealth University",
+        "Organization": "Virginia Commonwealth University",
         "City": "Richmond",
         "State/Terr": "VA",
-        "Postal Cod": "23284",
+        "Postal Code": "23284",
         "Country": "United States",
         "addrtype": "street_number",
         "addrlocat": "APPROXIMATE",
@@ -8169,10 +8169,10 @@
         "First Name": "Samuel",
         "Last Name": "Traina",
         "Full Name": "Samuel Traina",
-        "Organizati": "University of California, Merced",
+        "Organization": "University of California, Merced",
         "City": "Merced",
         "State/Terr": "CA",
-        "Postal Cod": "95343",
+        "Postal Code": "95343",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -8192,10 +8192,10 @@
         "First Name": "Shu-Chen",
         "Last Name": "Tsung",
         "Full Name": "Shu-Chen Tsung",
-        "Organizati": "Georgetown University",
+        "Organization": "Georgetown University",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20057",
+        "Postal Code": "20057",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -8215,10 +8215,10 @@
         "First Name": "Katie",
         "Last Name": "Vale",
         "Full Name": "Katie Vale",
-        "Organizati": "Harvard University",
+        "Organization": "Harvard University",
         "City": "Arlington",
         "State/Terr": "MA",
-        "Postal Cod": "2474",
+        "Postal Code": "2474",
         "Country": "United States",
         "addrtype": "neighborhood",
         "addrlocat": "APPROXIMATE",
@@ -8238,10 +8238,10 @@
         "First Name": "Anidza",
         "Last Name": "Valentin",
         "Full Name": "Anidza Valentin",
-        "Organizati": "University of Puerto Rico",
+        "Organization": "University of Puerto Rico",
         "City": "Rio Piedras",
         "State/Terr": "PR",
-        "Postal Cod": "931",
+        "Postal Code": "931",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8261,10 +8261,10 @@
         "First Name": "Rita",
         "Last Name": "Van Duinen",
         "Full Name": "Rita Van Duinen",
-        "Organizati": "Council on Library and Information Resources",
+        "Organization": "Council on Library and Information Resources",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -8284,10 +8284,10 @@
         "First Name": "James",
         "Last Name": "Van Loon",
         "Full Name": "James Van Loon",
-        "Organizati": "Wayne State University",
+        "Organization": "Wayne State University",
         "City": "Detroit",
         "State/Terr": "MI",
-        "Postal Cod": "48202",
+        "Postal Code": "48202",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -8307,10 +8307,10 @@
         "First Name": "Micah",
         "Last Name": "Vandegrift",
         "Full Name": "Micah Vandegrift",
-        "Organizati": "Florida State University",
+        "Organization": "Florida State University",
         "City": "Tallahassee",
         "State/Terr": "FL",
-        "Postal Cod": "32306",
+        "Postal Code": "32306",
         "Country": "United States",
         "addrtype": "campground",
         "addrlocat": "APPROXIMATE",
@@ -8330,10 +8330,10 @@
         "First Name": "Nelson",
         "Last Name": "Vincent",
         "Full Name": "Nelson Vincent",
-        "Organizati": "University of Cincinnati",
+        "Organization": "University of Cincinnati",
         "City": "Cincinnati",
         "State/Terr": "OH",
-        "Postal Cod": "45221",
+        "Postal Code": "45221",
         "Country": "United States",
         "addrtype": "bus_station",
         "addrlocat": "APPROXIMATE",
@@ -8353,10 +8353,10 @@
         "First Name": "Barbara",
         "Last Name": "Weir",
         "Full Name": "Barbara Weir",
-        "Organizati": "Swarthmore College",
+        "Organization": "Swarthmore College",
         "City": "Swarthmore",
         "State/Terr": "PA",
-        "Postal Cod": "19081",
+        "Postal Code": "19081",
         "Country": "United States",
         "addrtype": "park",
         "addrlocat": "APPROXIMATE",
@@ -8376,10 +8376,10 @@
         "First Name": "Elaine",
         "Last Name": "Westbrooks",
         "Full Name": "Elaine Westbrooks",
-        "Organizati": "University of Michigan",
+        "Organization": "University of Michigan",
         "City": "Ann Arbor",
         "State/Terr": "MI",
-        "Postal Cod": "48103",
+        "Postal Code": "48103",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -8399,10 +8399,10 @@
         "First Name": "Amanda",
         "Last Name": "Whitmire",
         "Full Name": "Amanda Whitmire",
-        "Organizati": "Oregon State University",
+        "Organization": "Oregon State University",
         "City": "Corvallis",
         "State/Terr": "OR",
-        "Postal Cod": "97331",
+        "Postal Code": "97331",
         "Country": "United States",
         "addrtype": "point_of_interest",
         "addrlocat": "APPROXIMATE",
@@ -8422,10 +8422,10 @@
         "First Name": "J. Douglas",
         "Last Name": "Willen",
         "Full Name": "J. Douglas Willen",
-        "Organizati": "Swarthmore College",
+        "Organization": "Swarthmore College",
         "City": "Swarthmore",
         "State/Terr": "PA",
-        "Postal Cod": "19081",
+        "Postal Code": "19081",
         "Country": "United States",
         "addrtype": "park",
         "addrlocat": "APPROXIMATE",
@@ -8445,10 +8445,10 @@
         "First Name": "Jena",
         "Last Name": "Winberry",
         "Full Name": "Jena Winberry",
-        "Organizati": "Council on Library and Information Resources",
+        "Organization": "Council on Library and Information Resources",
         "City": "Washington",
         "State/Terr": "DC",
-        "Postal Cod": "20036",
+        "Postal Code": "20036",
         "Country": "United States",
         "addrtype": "locality",
         "addrlocat": "APPROXIMATE",
@@ -8468,10 +8468,10 @@
         "First Name": "Jackie",
         "Last Name": "Wirz",
         "Full Name": "Jackie Wirz",
-        "Organizati": "Oregon Health & Science University",
+        "Organization": "Oregon Health & Science University",
         "City": "Portland",
         "State/Terr": "OR",
-        "Postal Cod": "97239",
+        "Postal Code": "97239",
         "Country": "United States",
         "addrtype": "airport",
         "addrlocat": "APPROXIMATE",
@@ -8491,10 +8491,10 @@
         "First Name": "David",
         "Last Name": "Woods",
         "Full Name": "David Woods",
-        "Organizati": "Miami University",
+        "Organization": "Miami University",
         "City": "Oxford",
         "State/Terr": "OH",
-        "Postal Cod": "45056",
+        "Postal Code": "45056",
         "Country": "United States",
         "addrtype": "sublocality_level_1",
         "addrlocat": "APPROXIMATE",
@@ -8514,10 +8514,10 @@
         "First Name": "Sandra",
         "Last Name": "Yee",
         "Full Name": "Sandra Yee",
-        "Organizati": "Wayne State University",
+        "Organization": "Wayne State University",
         "City": "Detroit",
         "State/Terr": "MI",
-        "Postal Cod": "48202",
+        "Postal Code": "48202",
         "Country": "United States",
         "addrtype": "route",
         "addrlocat": "GEOMETRIC_CENTER",
@@ -8537,10 +8537,10 @@
         "First Name": "Lionel",
         "Last Name": "Zupan",
         "Full Name": "Lionel Zupan",
-        "Organizati": "Tufts University",
+        "Organization": "Tufts University",
         "City": "Somerville",
         "State/Terr": "MA",
-        "Postal Cod": "2144",
+        "Postal Code": "2144",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8560,10 +8560,10 @@
         "First Name": "Michelle",
         "Last Name": "Edwards",
         "Full Name": "Michelle Edwards",
-        "Organizati": "University of Guelph",
+        "Organization": "University of Guelph",
         "City": "Guelph",
         "State/Terr": "ON",
-        "Postal Cod": "N1G 2W1",
+        "Postal Code": "N1G 2W1",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8583,10 +8583,10 @@
         "First Name": "Brian",
         "Last Name": "Gray",
         "Full Name": "Brian Gray",
-        "Organizati": "Case Western Reserve University",
+        "Organization": "Case Western Reserve University",
         "City": "Cleveland",
         "State/Terr": "OH",
-        "Postal Cod": "44106",
+        "Postal Code": "44106",
         "Country": "United States",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8606,10 +8606,10 @@
         "First Name": "Robert",
         "Last Name": "Hanner",
         "Full Name": "Robert Hanner",
-        "Organizati": "University of Guelph",
+        "Organization": "University of Guelph",
         "City": "Guelph",
         "State/Terr": "ON",
-        "Postal Cod": "N1G 2W1",
+        "Postal Code": "N1G 2W1",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8629,10 +8629,10 @@
         "First Name": "Michelle",
         "Last Name": "Hudson",
         "Full Name": "Michelle Hudson",
-        "Organizati": "Yale University",
+        "Organization": "Yale University",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "6520",
+        "Postal Code": "6520",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8652,10 +8652,10 @@
         "First Name": "Wayne",
         "Last Name": "Johnston",
         "Full Name": "Wayne Johnston",
-        "Organizati": "University of Guelph",
+        "Organization": "University of Guelph",
         "City": "Guelph",
         "State/Terr": "ON",
-        "Postal Cod": "N1G 2W1",
+        "Postal Code": "N1G 2W1",
         "Country": "Canada",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8675,10 +8675,10 @@
         "First Name": "Edward",
         "Last Name": "Kairiss",
         "Full Name": "Edward Kairiss",
-        "Organizati": "Yale University",
+        "Organization": "Yale University",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "6520",
+        "Postal Code": "6520",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8698,10 +8698,10 @@
         "First Name": "Michael",
         "Last Name": "Kenney",
         "Full Name": "Michael Kenney",
-        "Organizati": "Case Western Reserve University",
+        "Organization": "Case Western Reserve University",
         "City": "Cleveland",
         "State/Terr": "OH",
-        "Postal Cod": "44106",
+        "Postal Code": "44106",
         "Country": "United States",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8721,10 +8721,10 @@
         "First Name": "Vera",
         "Last Name": "Keown",
         "Full Name": "Vera Keown",
-        "Organizati": "University of Manitoba",
+        "Organization": "University of Manitoba",
         "City": "Winnipeg",
         "State/Terr": "MB",
-        "Postal Cod": "R3T 2N2",
+        "Postal Code": "R3T 2N2",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8744,10 +8744,10 @@
         "First Name": "Jeffrey",
         "Last Name": "Marcus",
         "Full Name": "Jeffrey Marcus",
-        "Organizati": "University of Manitoba",
+        "Organization": "University of Manitoba",
         "City": "Winnipeg",
         "State/Terr": "MB",
-        "Postal Cod": "R3T 2N2",
+        "Postal Code": "R3T 2N2",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8767,10 +8767,10 @@
         "First Name": "Elaine",
         "Last Name": "Martin",
         "Full Name": "Elaine Martin",
-        "Organizati": "University of Massachusetts Medical School",
+        "Organization": "University of Massachusetts Medical School",
         "City": "Worcester",
         "State/Terr": "MA",
-        "Postal Cod": "1655",
+        "Postal Code": "1655",
         "Country": "United States",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8790,10 +8790,10 @@
         "First Name": "Jill",
         "Last Name": "Parchuck",
         "Full Name": "Jill Parchuck",
-        "Organizati": "Yale University",
+        "Organization": "Yale University",
         "City": "New Haven",
         "State/Terr": "CT",
-        "Postal Cod": "6520",
+        "Postal Code": "6520",
         "Country": "United States",
         "addrtype": "premise",
         "addrlocat": "ROOFTOP",
@@ -8813,10 +8813,10 @@
         "First Name": "Rebecca",
         "Last Name": "Reznik-Zellen",
         "Full Name": "Rebecca Reznik-Zellen",
-        "Organizati": "University of Massachusetts Medical School",
+        "Organization": "University of Massachusetts Medical School",
         "City": "Worcester",
         "State/Terr": "MA",
-        "Postal Cod": "1655",
+        "Postal Code": "1655",
         "Country": "United States",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8836,10 +8836,10 @@
         "First Name": "Gary",
         "Last Name": "Strike",
         "Full Name": "Gary Strike",
-        "Organizati": "University of Manitoba",
+        "Organization": "University of Manitoba",
         "City": "Winnipeg",
         "State/Terr": "MB",
-        "Postal Cod": "R3T 2N2",
+        "Postal Code": "R3T 2N2",
         "Country": "Canada",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -8859,10 +8859,10 @@
         "First Name": "Yuening",
         "Last Name": "Zhang",
         "Full Name": "Yuening Zhang",
-        "Organizati": "Case Western Reserve University",
+        "Organization": "Case Western Reserve University",
         "City": "Cleveland",
         "State/Terr": "OH",
-        "Postal Cod": "44106",
+        "Postal Code": "44106",
         "Country": "United States",
         "addrtype": "street_address",
         "addrlocat": "ROOFTOP",
@@ -17857,7 +17857,7 @@
       "properties": {
         "Program": "Frye Institute",
         "Full Name": "Dave am Wedaman",
-        "Title": "Director for Outreach in the merged Library and Technology Services organization",
+        "Title": "Director for Outreach in the merged Library and Technology Services Organizationon",
         "Institutio": "Brandeis University",
         "address": null,
         "City": "Waltham",

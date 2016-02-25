@@ -50,6 +50,39 @@ QGIS will create a new layer with this data and you now need to merge in to the 
 - Select the layers to merge
 - Set the `Output Shapefile` to where you are saving your final datasets (e.g. `~/projects/maps/layers/`)
 
+### Generating GeoJSON
+
+You will need [GDAL](http://www.gdal.org/) installed.
+
+```
+$ ogr2ogr -f GeoJSON -t_srs crs:84 [name].json [name].shp
+```
+
+If you're lazy (like me):
+
+```
+$ find . -name '*.shp' -exec sh -c 'ogr2ogr -f GeoJSON -t_srs crs:84 $0.json $0' {} \;
+```
+
+You may need to remove the GeoJSON files first:
+
+```
+$ find . -name '*.json' -delete
+```
+
+### Merging GeoJSON
+
+Use the npm `geojson-merge` library.
+
+```
+$ npm install -g geojson-merge
+$ geojson-merge file.json otherfile.json > combined.json
+```
+
+> see [https://github.com/mapbox/geojson-merge](https://github.com/mapbox/geojson-merge)
+
+
+
 ## Notes
 
 1. Working with GIS data will create a lot of files. **Creating new directories** will help.

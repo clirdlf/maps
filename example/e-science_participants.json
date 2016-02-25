@@ -1,1 +1,2759 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"First Name":"Jaquelina","Last Name":"Alvarez","Full Name":"Jaquelina Alvarez","Organizati":"University of Puerto Rico","City":"Mayaguez","State/Terr":"PR","Postal Cod":"681","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-66.049851,18.4126402]}},{"type":"Feature","properties":{"First Name":"Shawn","Last Name":"Averkamp","Full Name":"Shawn Averkamp","Organizati":"University of Iowa","City":"Iowa City","State/Terr":"IA","Postal Cod":"52242","Country":"United States","addrtype":"hospital","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-91.5475035,41.6598888]}},{"type":"Feature","properties":{"First Name":"Ted","Last Name":"Baldwin","Full Name":"Ted Baldwin","Organizati":"University of Cincinnati","City":"Cincinnati","State/Terr":"OH","Postal Cod":"45221","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.512204,39.133181]}},{"type":"Feature","properties":{"First Name":"David","Last Name":"Barber","Full Name":"David Barber","Organizati":"Oregon State University","City":"Corvallis","State/Terr":"OR","Postal Cod":"97331","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-123.2782864,44.5684511]}},{"type":"Feature","properties":{"First Name":"Donald","Last Name":"Barclay","Full Name":"Donald Barclay","Organizati":"University of California, Merced","City":"Merced","State/Terr":"CA","Postal Cod":"95343","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-120.4763602,37.3367459]}},{"type":"Feature","properties":{"First Name":"Fabrice","Last Name":"Berrue","Full Name":"Fabrice Berrue","Organizati":"University of Prince Edward Island","City":"Charlottetown","State/Terr":"PE","Postal Cod":"C1A 4P3","Country":"Canada","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-63.1381535,46.2511075]}},{"type":"Feature","properties":{"First Name":"Rachel","Last Name":"Besara","Full Name":"Rachel Besara","Organizati":"Florida State University","City":"Tallahassee","State/Terr":"FL","Postal Cod":"32306","Country":"United States","addrtype":"campground","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.3369554,30.4011161]}},{"type":"Feature","properties":{"First Name":"Debbie","Last Name":"Bezanson","Full Name":"Debbie Bezanson","Organizati":"The George Washington University","City":"Washington","State/Terr":"DC","Postal Cod":"20052","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0470916,38.8991756]}},{"type":"Feature","properties":{"First Name":"Rebecca","Last Name":"Bichel","Full Name":"Rebecca Bichel","Organizati":"University of Texas at Arlington","City":"Arlington","State/Terr":"TX","Postal Cod":"76019","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-97.1051161,32.7332865]}},{"type":"Feature","properties":{"First Name":"Jane","Last Name":"Blumenthal","Full Name":"Jane Blumenthal","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48109","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"L. Maximilian","Last Name":"Buja","Full Name":"L. Maximilian Buja","Organizati":"Texas Medical Center Library","City":"Houston","State/Terr":"TX","Postal Cod":"77030","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-95.3865525,29.7255111]}},{"type":"Feature","properties":{"First Name":"Susan","Last Name":"Cardinal","Full Name":"Susan Cardinal","Organizati":"University of Rochester","City":"Rochester","State/Terr":"NY","Postal Cod":"14627","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-77.625478,43.1308971]}},{"type":"Feature","properties":{"First Name":"Jake","Last Name":"Carlson","Full Name":"Jake Carlson","Organizati":"Purdue University","City":"West Lafayette","State/Terr":"IN","Postal Cod":"47907","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-86.9337787,40.4137374]}},{"type":"Feature","properties":{"First Name":"Kate","Last Name":"Carter","Full Name":"Kate Carter","Organizati":"Swarthmore College","City":"Swarthmore","State/Terr":"PA","Postal Cod":"19081","Country":"United States","addrtype":"park","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.3523866,39.9061422]}},{"type":"Feature","properties":{"First Name":"Deborah","Last Name":"Charbonneau","Full Name":"Deborah Charbonneau","Organizati":"Wayne State University","City":"Detroit","State/Terr":"MI","Postal Cod":"48202","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-83.0511744,42.332507]}},{"type":"Feature","properties":{"First Name":"Sayeed","Last Name":"Choudhury","Full Name":"Sayeed Choudhury","Organizati":"Johns Hopkins University","City":"Baltimore","State/Terr":"MD","Postal Cod":"21218","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-76.6003432,39.32726]}},{"type":"Feature","properties":{"First Name":"April","Last Name":"Colosimo","Full Name":"April Colosimo","Organizati":"McGill University Libraries","City":"Montreal","State/Terr":"QC","Postal Cod":"H3A 1Y1","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-73.567256,45.5016889]}},{"type":"Feature","properties":{"First Name":"Fe","Last Name":"Consolacion","Full Name":"Fe Consolacion","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48109","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"Trisha","Last Name":"Cruse","Full Name":"Trisha Cruse","Organizati":"California Digital Library","City":"Oakland","State/Terr":"CA","Postal Cod":"94612","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.2711137,37.8043637]}},{"type":"Feature","properties":{"First Name":"Victor","Last Name":"Diaz","Full Name":"Victor Diaz","Organizati":"University of Puerto Rico","City":"Rio Piedras","State/Terr":"PR","Postal Cod":"931","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-66.0512313,18.3961955]}},{"type":"Feature","properties":{"First Name":"Felicity","Last Name":"Dykas","Full Name":"Felicity Dykas","Organizati":"University of Missouri","City":"Columbia","State/Terr":"MO","Postal Cod":"65201","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-92.2785174,38.9033716]}},{"type":"Feature","properties":{"First Name":"Chris","Last Name":"Elsik","Full Name":"Chris Elsik","Organizati":"University of Missouri","City":"Columbia","State/Terr":"MO","Postal Cod":"65201","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-92.2785174,38.9033716]}},{"type":"Feature","properties":{"First Name":"Vessela","Last Name":"Ensberg","Full Name":"Vessela Ensberg","Organizati":"University of California, Los Angeles","City":"Los Angeles","State/Terr":"CA","Postal Cod":"90095","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-118.2551016,34.0400757]}},{"type":"Feature","properties":{"First Name":"Brian","Last Name":"Ensor","Full Name":"Brian Ensor","Organizati":"The George Washington University","City":"Washington","State/Terr":"DC","Postal Cod":"20052","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0470916,38.8991756]}},{"type":"Feature","properties":{"First Name":"Laine","Last Name":"Farley","Full Name":"Laine Farley","Organizati":"California Digital Library","City":"Oakland","State/Terr":"CA","Postal Cod":"94612","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.2711137,37.8043637]}},{"type":"Feature","properties":{"First Name":"Pat","Last Name":"Flanagan","Full Name":"Pat Flanagan","Organizati":"Brandeis University","City":"Waltham","State/Terr":"MA","Postal Cod":"2454","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.258565,42.364384]}},{"type":"Feature","properties":{"First Name":"Susan","Last Name":"Fliss","Full Name":"Susan Fliss","Organizati":"Harvard University","City":"Cambridge","State/Terr":"MA","Postal Cod":"2138","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1166286,42.3800977]}},{"type":"Feature","properties":{"First Name":"Simon","Last Name":"Foote","Full Name":"Simon Foote","Organizati":"National Research Council Canada","City":"Ottawa","State/Terr":"ON","Postal Cod":"K1A 0R6","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.6971931,45.4215296]}},{"type":"Feature","properties":{"First Name":"Eric","Last Name":"Fredericksen","Full Name":"Eric Fredericksen","Organizati":"University of Rochester","City":"Rochester","State/Terr":"NY","Postal Cod":"14627","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-77.625478,43.1308971]}},{"type":"Feature","properties":{"First Name":"Rachel","Last Name":"Frick","Full Name":"Rachel Frick","Organizati":"Council on Library and Information Resources","City":"Washington","State/Terr":"DC","Postal Cod":"20036","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0368707,38.9071923]}},{"type":"Feature","properties":{"First Name":"Mike","Last Name":"Furlough","Full Name":"Mike Furlough","Organizati":"Pennsylvania State University","City":"University Park","State/Terr":"PA","Postal Cod":"16802","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.8653126,40.8147955]}},{"type":"Feature","properties":{"First Name":"Judy","Last Name":"Ganson","Full Name":"Judy Ganson","Organizati":"University of Arkansas","City":"Fayatteville","State/Terr":"AR","Postal Cod":"72701","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-94.1836566,36.0569405]}},{"type":"Feature","properties":{"First Name":"Clay","Last Name":"Hagler","Full Name":"Clay Hagler","Organizati":"Pacific Northwest National Laboratory","City":"Richland","State/Terr":"WA","Postal Cod":"99352","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-119.2790789,46.3452091]}},{"type":"Feature","properties":{"First Name":"Walter","Last Name":"Hall","Full Name":"Walter Hall","Organizati":"Petroleum Institute","City":"Abu Dhabi","State/Terr":null,"Postal Cod":null,"Country":"United Arab Emirates","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[54.6972774,24.2991738]}},{"type":"Feature","properties":{"First Name":"Deborah","Last Name":"Halsted","Full Name":"Deborah Halsted","Organizati":"Texas Medical Center Library","City":"Houston","State/Terr":"TX","Postal Cod":"77030","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-95.3865525,29.7255111]}},{"type":"Feature","properties":{"First Name":"Jeff","Last Name":"Hamerlinck","Full Name":"Jeff Hamerlinck","Organizati":"University of Wyoming","City":"Laramie","State/Terr":"WY","Postal Cod":"82071","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-105.5907569,41.312754]}},{"type":"Feature","properties":{"First Name":"Barrie","Last Name":"Hayes","Full Name":"Barrie Hayes","Organizati":"University of North Carolina at Chapel Hill","City":"Chapel Hill","State/Terr":"NC","Postal Cod":"27599","Country":"United States","addrtype":"intersection","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-78.9670225,35.9504006]}},{"type":"Feature","properties":{"First Name":"Margaret","Last Name":"Henderson","Full Name":"Margaret Henderson","Organizati":"Virginia Commonwealth University","City":"Richmond","State/Terr":"VA","Postal Cod":"23284","Country":"United States","addrtype":"street_number","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.4508188,37.5451839]}},{"type":"Feature","properties":{"First Name":"Bruce","Last Name":"Herbert","Full Name":"Bruce Herbert","Organizati":"Texas A&M University","City":"College Station","State/Terr":"TX","Postal Cod":"77843","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-96.3410495,30.6266213]}},{"type":"Feature","properties":{"First Name":"Valorie","Last Name":"Hollister","Full Name":"Valorie Hollister","Organizati":"DuraSpace","City":"Winchester","State/Terr":"MA","Postal Cod":"1890","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1369959,42.452303]}},{"type":"Feature","properties":{"First Name":"Patricia","Last Name":"Hswe","Full Name":"Patricia Hswe","Organizati":"Pennsylvania State University","City":"University Park","State/Terr":"PA","Postal Cod":"16802","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.8653126,40.8147955]}},{"type":"Feature","properties":{"First Name":"Chuck","Last Name":"Humphrey","Full Name":"Chuck Humphrey","Organizati":"University of Alberta","City":"Edmonton","State/Terr":"AB","Postal Cod":"T6G 2J8","Country":"Canada","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-113.522399,53.520715]}},{"type":"Feature","properties":{"First Name":"Clarke","Last Name":"Iakovakis","Full Name":"Clarke Iakovakis","Organizati":"University of Texas at Arlington","City":"Arlington","State/Terr":"TX","Postal Cod":"76019","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-97.1051161,32.7332865]}},{"type":"Feature","properties":{"First Name":"Michael","Last Name":"Ireland","Full Name":"Michael Ireland","Organizati":"National Research Council Canada","City":"Ottawa","State/Terr":"ON","Postal Cod":"K1A 0R6","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.6971931,45.4215296]}},{"type":"Feature","properties":{"First Name":"David","Last Name":"Isaak","Full Name":"David Isaak","Organizati":"Kaiser Permanente Center for Health Research","City":"Portland","State/Terr":"OR","Postal Cod":"97227","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6764816,45.5230622]}},{"type":"Feature","properties":{"First Name":"DeEtta","Last Name":"Jones","Full Name":"DeEtta Jones","Organizati":null,"City":"Chicago","State/Terr":"IL","Postal Cod":"60601","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-87.6297982,41.8781136]}},{"type":"Feature","properties":{"First Name":"Zahra","Last Name":"Kamarei","Full Name":"Zahra Kamarei","Organizati":"University of Rochester","City":"Rochester","State/Terr":"NY","Postal Cod":"14627","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-77.625478,43.1308971]}},{"type":"Feature","properties":{"First Name":"Teresa","Last Name":"Knott","Full Name":"Teresa Knott","Organizati":"Virginia Commonwealth University","City":"Richmond","State/Terr":"VA","Postal Cod":"23298","Country":"United States","addrtype":"street_number","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.4508188,37.5451839]}},{"type":"Feature","properties":{"First Name":"Inna","Last Name":"Kouper","Full Name":"Inna Kouper","Organizati":"Indiana University","City":"Bloomington","State/Terr":"IN","Postal Cod":"47405","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-86.5269373,39.1670467]}},{"type":"Feature","properties":{"First Name":"Kate","Last Name":"Krause","Full Name":"Kate Krause","Organizati":"Texas Medical Center Library","City":"Houston","State/Terr":"TX","Postal Cod":"77030","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-95.3865525,29.7255111]}},{"type":"Feature","properties":{"First Name":"Pierre","Last Name":"La Chance","Full Name":"Pierre La Chance","Organizati":"Kaiser Permanente Center for Health Research","City":"Portland","State/Terr":"OR","Postal Cod":"97227","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6764816,45.5230622]}},{"type":"Feature","properties":{"First Name":"Smyth","Last Name":"Lai","Full Name":"Smyth Lai","Organizati":"Kaiser Permanente Center for Health Research","City":"Portland","State/Terr":"OR","Postal Cod":"97227","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6764816,45.5230622]}},{"type":"Feature","properties":{"First Name":"Hope","Last Name":"Lappen","Full Name":"Hope Lappen","Organizati":"The George Washington University","City":"Washington","State/Terr":"DC","Postal Cod":"20052","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0470916,38.8991756]}},{"type":"Feature","properties":{"First Name":"Mark","Last Name":"Leggott","Full Name":"Mark Leggott","Organizati":"University of Prince Edward Island","City":"Charlottetown","State/Terr":"PE","Postal Cod":"C1A4P3","Country":"Canada","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-63.1381535,46.2511075]}},{"type":"Feature","properties":{"First Name":"Kathleen","Last Name":"Lehman","Full Name":"Kathleen Lehman","Organizati":"University of Arkansas","City":"Fayatteville","State/Terr":"AR","Postal Cod":"72701","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-94.1836566,36.0569405]}},{"type":"Feature","properties":{"First Name":"Lilly","Last Name":"Li","Full Name":"Lilly Li","Organizati":"Texas A&M University","City":"College Station","State/Terr":"TX","Postal Cod":"77843","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-96.3410495,30.6266213]}},{"type":"Feature","properties":{"First Name":"Emily","Last Name":"Lin","Full Name":"Emily Lin","Organizati":"University of California, Merced","City":"Merced","State/Terr":"CA","Postal Cod":"95343","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-120.4763602,37.3367459]}},{"type":"Feature","properties":{"First Name":"Reese","Last Name":"Manceaux","Full Name":"Reese Manceaux","Organizati":"University of North Carolina at Charlotte","City":"Charlotte","State/Terr":"NC","Postal Cod":"28223","Country":"United States","addrtype":"real_estate_agency","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-80.721402,35.313803]}},{"type":"Feature","properties":{"First Name":"Wendy","Last Name":"Mann","Full Name":"Wendy Mann","Organizati":"George Mason University","City":"Fairfax","State/Terr":"VA","Postal Cod":"22030","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.307587,38.83419]}},{"type":"Feature","properties":{"First Name":"Stephen","Last Name":"Marine","Full Name":"Stephen Marine","Organizati":"University of Cincinnati","City":"Cincinnati","State/Terr":"OH","Postal Cod":"45267","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.512204,39.133181]}},{"type":"Feature","properties":{"First Name":"Nancy","Last Name":"Maron","Full Name":"Nancy Maron","Organizati":"ITHAKA","City":"New York","State/Terr":"NY","Postal Cod":"10065","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-73.8797566,40.7448027]}},{"type":"Feature","properties":{"First Name":"Sandra","Last Name":"Martin","Full Name":"Sandra Martin","Organizati":"Wayne State University","City":"Detroit","State/Terr":"MI","Postal Cod":"48201","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-83.0511744,42.332507]}},{"type":"Feature","properties":{"First Name":"Scott","Last Name":"Martin","Full Name":"Scott Martin","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48109","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"Victoria","Last Name":"Martin","Full Name":"Victoria Martin","Organizati":"George Mason University","City":"Fairfax","State/Terr":"VA","Postal Cod":"22030","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.307587,38.83419]}},{"type":"Feature","properties":{"First Name":"Ethan","Last Name":"Masella","Full Name":"Ethan Masella","Organizati":"Brandeis University","City":"Waltham","State/Terr":"MA","Postal Cod":"2454","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.258565,42.364384]}},{"type":"Feature","properties":{"First Name":"Michele","Last Name":"Matz Hayslett","Full Name":"Michele Matz Hayslett","Organizati":"University of North Carolina at Chapel Hill","City":"Chapel Hill","State/Terr":"NC","Postal Cod":"27515","Country":"United States","addrtype":"intersection","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-78.9670225,35.9504006]}},{"type":"Feature","properties":{"First Name":"Owen","Last Name":"McCarty","Full Name":"Owen McCarty","Organizati":"Oregon Health & Science University","City":"Portland","State/Terr":"OR","Postal Cod":"97239","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6854607,45.4990977]}},{"type":"Feature","properties":{"First Name":"Heather","Last Name":"McCullough","Full Name":"Heather McCullough","Organizati":"University of North Carolina at Charlotte","City":"Charlotte","State/Terr":"NC","Postal Cod":"28223","Country":"United States","addrtype":"real_estate_agency","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-80.721402,35.313803]}},{"type":"Feature","properties":{"First Name":"Mark","Last Name":"McFarland","Full Name":"Mark McFarland","Organizati":"Texas Medical Center Library","City":"Houston","State/Terr":"TX","Postal Cod":"77030","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-95.3865525,29.7255111]}},{"type":"Feature","properties":{"First Name":"Kevin","Last Name":"Messner","Full Name":"Kevin Messner","Organizati":"Miami University","City":"Oxford","State/Terr":"OH","Postal Cod":"45056","Country":"United States","addrtype":"sublocality_level_1","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.7316109,39.5105848]}},{"type":"Feature","properties":{"First Name":"Vanessa","Last Name":"Middleton","Full Name":"Vanessa Middleton","Organizati":"Petroleum Institute","City":"Abu Dhabi","State/Terr":null,"Postal Cod":null,"Country":"United Arab Emirates","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[54.6972774,24.2991738]}},{"type":"Feature","properties":{"First Name":"John","Last Name":"Millard","Full Name":"John Millard","Organizati":"Miami University","City":"Oxford","State/Terr":"OH","Postal Cod":"45056","Country":"United States","addrtype":"sublocality_level_1","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.7316109,39.5105848]}},{"type":"Feature","properties":{"First Name":"Karen","Last Name":"Morgenroth","Full Name":"Karen Morgenroth","Organizati":"National Research Council Canada","City":"Ottawa","State/Terr":"ON","Postal Cod":"K1A 0R6","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.6971931,45.4215296]}},{"type":"Feature","properties":{"First Name":"Donald","Last Name":"Moses","Full Name":"Donald Moses","Organizati":"University of Prince Edward Island","City":"Charlottetown","State/Terr":"PE","Postal Cod":"C1A 4P3","Country":"Canada","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-63.1381535,46.2511075]}},{"type":"Feature","properties":{"First Name":"James","Last Name":"Mullins","Full Name":"James Mullins","Organizati":"Purdue University","City":"West Lafayette","State/Terr":"IN","Postal Cod":"47907","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-86.9337787,40.4137374]}},{"type":"Feature","properties":{"First Name":"Daureen","Last Name":"Nesdill","Full Name":"Daureen Nesdill","Organizati":"University of Utah","City":"Salt Lake City","State/Terr":"UT","Postal Cod":"84112","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-111.8354722,40.7705]}},{"type":"Feature","properties":{"First Name":"Bruce","Last Name":"Neville","Full Name":"Bruce Neville","Organizati":"Texas A&M University","City":"College Station","State/Terr":"TX","Postal Cod":"77843","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-96.3410495,30.6266213]}},{"type":"Feature","properties":{"First Name":"Natsuko","Last Name":"Nicholls","Full Name":"Natsuko Nicholls","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48109","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"James","Last Name":"Olds","Full Name":"James Olds","Organizati":"George Mason University","City":"Fairfax","State/Terr":"VA","Postal Cod":"22030","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.307587,38.83419]}},{"type":"Feature","properties":{"First Name":"Salwa","Last Name":"Patel","Full Name":"Salwa Patel","Organizati":"Georgetown University","City":"Washington","State/Terr":"DC","Postal Cod":"20057","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0777017,38.9105582]}},{"type":"Feature","properties":{"First Name":"Carla","Last Name":"Pealer","Full Name":"Carla Pealer","Organizati":"Oregon Health & Science University","City":"Portland","State/Terr":"OR","Postal Cod":"97239","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6854607,45.4990977]}},{"type":"Feature","properties":{"First Name":"Jean","Last Name":"Phillips","Full Name":"Jean Phillips","Organizati":"Florida State University","City":"Tallahassee","State/Terr":"FL","Postal Cod":"32306","Country":"United States","addrtype":"campground","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.3369554,30.4011161]}},{"type":"Feature","properties":{"First Name":"Lori","Last Name":"Phillips","Full Name":"Lori Phillips","Organizati":"University of Wyoming","City":"Laramie","State/Terr":"WY","Postal Cod":"82071","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-105.5907569,41.312754]}},{"type":"Feature","properties":{"First Name":"Jeannette","Last Name":"Pierce","Full Name":"Jeannette Pierce","Organizati":"University of Missouri","City":"Columbia","State/Terr":"MO","Postal Cod":"65201","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-92.2785174,38.9033716]}},{"type":"Feature","properties":{"First Name":"Daphne","Last Name":"Plaut","Full Name":"Daphne Plaut","Organizati":"Kaiser Permanente Center for Health Research","City":"Portland","State/Terr":"OR","Postal Cod":"97227","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6764816,45.5230622]}},{"type":"Feature","properties":{"First Name":"David","Last Name":"Podboy","Full Name":"David Podboy","Organizati":"Pacific Northwest National Laboratory","City":"Richland","State/Terr":"WA","Postal Cod":"99354","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-119.2790789,46.3452091]}},{"type":"Feature","properties":{"First Name":"Regina","Last Name":"Raboin","Full Name":"Regina Raboin","Organizati":"Tufts University","City":"Medford","State/Terr":"MA","Postal Cod":"2155","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-71.120482,42.4036847]}},{"type":"Feature","properties":{"First Name":"Melanie","Last Name":"Radik","Full Name":"Melanie Radik","Organizati":"Brandeis University","City":"Waltham","State/Terr":"MA","Postal Cod":"2453","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.258565,42.364384]}},{"type":"Feature","properties":{"First Name":"Jenn","Last Name":"Riley","Full Name":"Jenn Riley","Organizati":"McGill University Libraries","City":"Montreal","State/Terr":"QC","Postal Cod":"H3C 6W1","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-73.567256,45.5016889]}},{"type":"Feature","properties":{"First Name":"Constance","Last Name":"Rinaldo","Full Name":"Constance Rinaldo","Organizati":"Harvard University","City":"Cambridge","State/Terr":"MA","Postal Cod":"2138","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1166286,42.3800977]}},{"type":"Feature","properties":{"First Name":"Kendall","Last Name":"Roark","Full Name":"Kendall Roark","Organizati":null,"City":"Edmonton","State/Terr":"AB","Postal Cod":"T6G 2J8","Country":"Canada","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-113.4909267,53.544389]}},{"type":"Feature","properties":{"First Name":"Ben","Last Name":"Rogers","Full Name":"Ben Rogers","Organizati":"University of Iowa","City":"Iowa City","State/Terr":"IA","Postal Cod":"52242","Country":"United States","addrtype":"hospital","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-91.5475035,41.6598888]}},{"type":"Feature","properties":{"First Name":"Mara","Last Name":"Rojeski","Full Name":"Mara Rojeski","Organizati":"Georgetown University","City":"Washington","State/Terr":"DC","Postal Cod":"20057","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0777017,38.9105582]}},{"type":"Feature","properties":{"First Name":"Joanne","Last Name":"Romano","Full Name":"Joanne Romano","Organizati":"Texas Medical Center Library","City":"Houston","State/Terr":"TX","Postal Cod":"77030","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-95.3865525,29.7255111]}},{"type":"Feature","properties":{"First Name":"Traci","Last Name":"Ruthkoski","Full Name":"Traci Ruthkoski","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48109","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"Annanaomi","Last Name":"Sams","Full Name":"Annanaomi Sams","Organizati":"Pacific Northwest National Laboratory","City":"Richland","State/Terr":"WA","Postal Cod":"99352","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-119.2790789,46.3452091]}},{"type":"Feature","properties":{"First Name":"Leslie","Last Name":"Schick","Full Name":"Leslie Schick","Organizati":"University of Cincinnati","City":"Cincinnati","State/Terr":"OH","Postal Cod":"45221","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.512204,39.133181]}},{"type":"Feature","properties":{"First Name":"Lynne","Last Name":"Schmelz","Full Name":"Lynne Schmelz","Organizati":"Harvard University","City":"Cambridge","State/Terr":"MA","Postal Cod":"2138","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1166286,42.3800977]}},{"type":"Feature","properties":{"First Name":"Larry","Last Name":"Schmidt","Full Name":"Larry Schmidt","Organizati":"University of Wyoming","City":"Laramie","State/Terr":"WY","Postal Cod":"82071","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-105.5907569,41.312754]}},{"type":"Feature","properties":{"First Name":"Kristi","Last Name":"Searle","Full Name":"Kristi Searle","Organizati":"DuraSpace","City":"Winchester","State/Terr":"MA","Postal Cod":"1890","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1369959,42.452303]}},{"type":"Feature","properties":{"First Name":"Chris","Last Name":"Shaffer","Full Name":"Chris Shaffer","Organizati":"Oregon Health & Science University","City":"Portland","State/Terr":"OR","Postal Cod":"97239","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6854607,45.4990977]}},{"type":"Feature","properties":{"First Name":"Evan","Last Name":"Simpson","Full Name":"Evan Simpson","Organizati":"Tufts University","City":"Somerville","State/Terr":"MA","Postal Cod":"2144","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-71.120482,42.4036847]}},{"type":"Feature","properties":{"First Name":"Harvinder","Last Name":"Singh","Full Name":"Harvinder Singh","Organizati":"University of Massachusetts, Amherst","City":"Amherst","State/Terr":"MA","Postal Cod":"1003","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-72.5312372,42.3951291]}},{"type":"Feature","properties":{"First Name":"Kathlin","Last Name":"Smith","Full Name":"Kathlin Smith","Organizati":"Council on Library and Information Resources","City":"Washington","State/Terr":"DC","Postal Cod":"20036","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0368707,38.9071923]}},{"type":"Feature","properties":{"First Name":"MacKenzie","Last Name":"Smith","Full Name":"MacKenzie Smith","Organizati":"University of California, Davis","City":"Davis","State/Terr":"CA","Postal Cod":"95616","Country":"United States","addrtype":"route","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-121.7715459,38.5400714]}},{"type":"Feature","properties":{"First Name":"Paul","Last Name":"Soderdahl","Full Name":"Paul Soderdahl","Organizati":"University of Iowa","City":"Iowa City","State/Terr":"IA","Postal Cod":"52242","Country":"United States","addrtype":"hospital","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-91.5475035,41.6598888]}},{"type":"Feature","properties":{"First Name":"Mark","Last Name":"Spasser","Full Name":"Mark Spasser","Organizati":"Wayne State University","City":"Detroit","State/Terr":"MI","Postal Cod":"48202","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-83.0511744,42.332507]}},{"type":"Feature","properties":{"First Name":"Meg","Last Name":"Spencer","Full Name":"Meg Spencer","Organizati":"Swarthmore College","City":"Swarthmore","State/Terr":"PA","Postal Cod":"19081","Country":"United States","addrtype":"park","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.3523866,39.9061422]}},{"type":"Feature","properties":{"First Name":"Gosia","Last Name":"Stergios","Full Name":"Gosia Stergios","Organizati":"Harvard University","City":"Cambridge","State/Terr":"MA","Postal Cod":"2138","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1166286,42.3800977]}},{"type":"Feature","properties":{"First Name":"Carly","Last Name":"Strasser","Full Name":"Carly Strasser","Organizati":"California Digital Library","City":"Oakland","State/Terr":"CA","Postal Cod":"94612","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.2711137,37.8043637]}},{"type":"Feature","properties":{"First Name":"Shan","Last Name":"Sutton","Full Name":"Shan Sutton","Organizati":"Oregon State University","City":"Corvallis","State/Terr":"OR","Postal Cod":"97331","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-123.2782864,44.5684511]}},{"type":"Feature","properties":{"First Name":"Jean-Claude","Last Name":"Thill","Full Name":"Jean-Claude Thill","Organizati":"University of North Carolina at Charlotte","City":"Charlotte","State/Terr":"NC","Postal Cod":"28223","Country":"United States","addrtype":"real_estate_agency","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-80.721402,35.313803]}},{"type":"Feature","properties":{"First Name":"Ling","Last Name":"Ting","Full Name":"Ling Ting","Organizati":null,"City":"Fayetteville","State/Terr":"AR","Postal Cod":"72701","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-94.1574263,36.0625795]}},{"type":"Feature","properties":{"First Name":"Robert","Last Name":"Tombes","Full Name":"Robert Tombes","Organizati":"Virginia Commonwealth University","City":"Richmond","State/Terr":"VA","Postal Cod":"23284","Country":"United States","addrtype":"street_number","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.4508188,37.5451839]}},{"type":"Feature","properties":{"First Name":"Samuel","Last Name":"Traina","Full Name":"Samuel Traina","Organizati":"University of California, Merced","City":"Merced","State/Terr":"CA","Postal Cod":"95343","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-120.4763602,37.3367459]}},{"type":"Feature","properties":{"First Name":"Shu-Chen","Last Name":"Tsung","Full Name":"Shu-Chen Tsung","Organizati":"Georgetown University","City":"Washington","State/Terr":"DC","Postal Cod":"20057","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0777017,38.9105582]}},{"type":"Feature","properties":{"First Name":"Katie","Last Name":"Vale","Full Name":"Katie Vale","Organizati":"Harvard University","City":"Arlington","State/Terr":"MA","Postal Cod":"2474","Country":"United States","addrtype":"neighborhood","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-71.1166286,42.3800977]}},{"type":"Feature","properties":{"First Name":"Anidza","Last Name":"Valentin","Full Name":"Anidza Valentin","Organizati":"University of Puerto Rico","City":"Rio Piedras","State/Terr":"PR","Postal Cod":"931","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-66.0512313,18.3961955]}},{"type":"Feature","properties":{"First Name":"Rita","Last Name":"Van Duinen","Full Name":"Rita Van Duinen","Organizati":"Council on Library and Information Resources","City":"Washington","State/Terr":"DC","Postal Cod":"20036","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0368707,38.9071923]}},{"type":"Feature","properties":{"First Name":"James","Last Name":"Van Loon","Full Name":"James Van Loon","Organizati":"Wayne State University","City":"Detroit","State/Terr":"MI","Postal Cod":"48202","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-83.0511744,42.332507]}},{"type":"Feature","properties":{"First Name":"Micah","Last Name":"Vandegrift","Full Name":"Micah Vandegrift","Organizati":"Florida State University","City":"Tallahassee","State/Terr":"FL","Postal Cod":"32306","Country":"United States","addrtype":"campground","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.3369554,30.4011161]}},{"type":"Feature","properties":{"First Name":"Nelson","Last Name":"Vincent","Full Name":"Nelson Vincent","Organizati":"University of Cincinnati","City":"Cincinnati","State/Terr":"OH","Postal Cod":"45221","Country":"United States","addrtype":"bus_station","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.512204,39.133181]}},{"type":"Feature","properties":{"First Name":"Barbara","Last Name":"Weir","Full Name":"Barbara Weir","Organizati":"Swarthmore College","City":"Swarthmore","State/Terr":"PA","Postal Cod":"19081","Country":"United States","addrtype":"park","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.3523866,39.9061422]}},{"type":"Feature","properties":{"First Name":"Elaine","Last Name":"Westbrooks","Full Name":"Elaine Westbrooks","Organizati":"University of Michigan","City":"Ann Arbor","State/Terr":"MI","Postal Cod":"48103","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-83.7371794,42.2783714]}},{"type":"Feature","properties":{"First Name":"Amanda","Last Name":"Whitmire","Full Name":"Amanda Whitmire","Organizati":"Oregon State University","City":"Corvallis","State/Terr":"OR","Postal Cod":"97331","Country":"United States","addrtype":"point_of_interest","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-123.2782864,44.5684511]}},{"type":"Feature","properties":{"First Name":"J. Douglas","Last Name":"Willen","Full Name":"J. Douglas Willen","Organizati":"Swarthmore College","City":"Swarthmore","State/Terr":"PA","Postal Cod":"19081","Country":"United States","addrtype":"park","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-75.3523866,39.9061422]}},{"type":"Feature","properties":{"First Name":"Jena","Last Name":"Winberry","Full Name":"Jena Winberry","Organizati":"Council on Library and Information Resources","City":"Washington","State/Terr":"DC","Postal Cod":"20036","Country":"United States","addrtype":"locality","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-77.0368707,38.9071923]}},{"type":"Feature","properties":{"First Name":"Jackie","Last Name":"Wirz","Full Name":"Jackie Wirz","Organizati":"Oregon Health & Science University","City":"Portland","State/Terr":"OR","Postal Cod":"97239","Country":"United States","addrtype":"airport","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-122.6854607,45.4990977]}},{"type":"Feature","properties":{"First Name":"David","Last Name":"Woods","Full Name":"David Woods","Organizati":"Miami University","City":"Oxford","State/Terr":"OH","Postal Cod":"45056","Country":"United States","addrtype":"sublocality_level_1","addrlocat":"APPROXIMATE","address":null},"geometry":{"type":"Point","coordinates":[-84.7316109,39.5105848]}},{"type":"Feature","properties":{"First Name":"Sandra","Last Name":"Yee","Full Name":"Sandra Yee","Organizati":"Wayne State University","City":"Detroit","State/Terr":"MI","Postal Cod":"48202","Country":"United States","addrtype":"route","addrlocat":"GEOMETRIC_CENTER","address":null},"geometry":{"type":"Point","coordinates":[-83.0511744,42.332507]}},{"type":"Feature","properties":{"First Name":"Lionel","Last Name":"Zupan","Full Name":"Lionel Zupan","Organizati":"Tufts University","City":"Somerville","State/Terr":"MA","Postal Cod":"2144","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":null},"geometry":{"type":"Point","coordinates":[-71.120482,42.4036847]}},{"type":"Feature","properties":{"First Name":"Michelle","Last Name":"Edwards","Full Name":"Michelle Edwards","Organizati":"University of Guelph","City":"Guelph","State/Terr":"ON","Postal Cod":"N1G 2W1","Country":"Canada","addrtype":"premise","addrlocat":"ROOFTOP","address":"480 Gordon St"},"geometry":{"type":"Point","coordinates":[-80.2276704,43.5314994]}},{"type":"Feature","properties":{"First Name":"Brian","Last Name":"Gray","Full Name":"Brian Gray","Organizati":"Case Western Reserve University","City":"Cleveland","State/Terr":"OH","Postal Cod":"44106","Country":"United States","addrtype":"street_address","addrlocat":"ROOFTOP","address":"10900 Euclid Ave."},"geometry":{"type":"Point","coordinates":[-81.6091376,41.5049547]}},{"type":"Feature","properties":{"First Name":"Robert","Last Name":"Hanner","Full Name":"Robert Hanner","Organizati":"University of Guelph","City":"Guelph","State/Terr":"ON","Postal Cod":"N1G 2W1","Country":"Canada","addrtype":"premise","addrlocat":"ROOFTOP","address":"480 Gordon St"},"geometry":{"type":"Point","coordinates":[-80.2276704,43.5314994]}},{"type":"Feature","properties":{"First Name":"Michelle","Last Name":"Hudson","Full Name":"Michelle Hudson","Organizati":"Yale University","City":"New Haven","State/Terr":"CT","Postal Cod":"6520","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":"270 Crown St"},"geometry":{"type":"Point","coordinates":[-72.9308971,41.3061923]}},{"type":"Feature","properties":{"First Name":"Wayne","Last Name":"Johnston","Full Name":"Wayne Johnston","Organizati":"University of Guelph","City":"Guelph","State/Terr":"ON","Postal Cod":"N1G 2W1","Country":"Canada","addrtype":"premise","addrlocat":"ROOFTOP","address":"480 Gordon St"},"geometry":{"type":"Point","coordinates":[-80.2276704,43.5314994]}},{"type":"Feature","properties":{"First Name":"Edward","Last Name":"Kairiss","Full Name":"Edward Kairiss","Organizati":"Yale University","City":"New Haven","State/Terr":"CT","Postal Cod":"6520","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":"270 Crown St"},"geometry":{"type":"Point","coordinates":[-72.9308971,41.3061923]}},{"type":"Feature","properties":{"First Name":"Michael","Last Name":"Kenney","Full Name":"Michael Kenney","Organizati":"Case Western Reserve University","City":"Cleveland","State/Terr":"OH","Postal Cod":"44106","Country":"United States","addrtype":"street_address","addrlocat":"ROOFTOP","address":"10900 Euclid Ave."},"geometry":{"type":"Point","coordinates":[-81.6091376,41.5049547]}},{"type":"Feature","properties":{"First Name":"Vera","Last Name":"Keown","Full Name":"Vera Keown","Organizati":"University of Manitoba","City":"Winnipeg","State/Terr":"MB","Postal Cod":"R3T 2N2","Country":"Canada","addrtype":"street_address","addrlocat":"ROOFTOP","address":"66 Chancellors Cir"},"geometry":{"type":"Point","coordinates":[-97.1344368,49.809962]}},{"type":"Feature","properties":{"First Name":"Jeffrey","Last Name":"Marcus","Full Name":"Jeffrey Marcus","Organizati":"University of Manitoba","City":"Winnipeg","State/Terr":"MB","Postal Cod":"R3T 2N2","Country":"Canada","addrtype":"street_address","addrlocat":"ROOFTOP","address":"66 Chancellors Cir"},"geometry":{"type":"Point","coordinates":[-97.1344368,49.809962]}},{"type":"Feature","properties":{"First Name":"Elaine","Last Name":"Martin","Full Name":"Elaine Martin","Organizati":"University of Massachusetts Medical School","City":"Worcester","State/Terr":"MA","Postal Cod":"1655","Country":"United States","addrtype":"street_address","addrlocat":"ROOFTOP","address":"55 N Lake Ave"},"geometry":{"type":"Point","coordinates":[-71.7610607,42.2772122]}},{"type":"Feature","properties":{"First Name":"Jill","Last Name":"Parchuck","Full Name":"Jill Parchuck","Organizati":"Yale University","City":"New Haven","State/Terr":"CT","Postal Cod":"6520","Country":"United States","addrtype":"premise","addrlocat":"ROOFTOP","address":"270 Crown St"},"geometry":{"type":"Point","coordinates":[-72.9308971,41.3061923]}},{"type":"Feature","properties":{"First Name":"Rebecca","Last Name":"Reznik-Zellen","Full Name":"Rebecca Reznik-Zellen","Organizati":"University of Massachusetts Medical School","City":"Worcester","State/Terr":"MA","Postal Cod":"1655","Country":"United States","addrtype":"street_address","addrlocat":"ROOFTOP","address":"55 N Lake Ave"},"geometry":{"type":"Point","coordinates":[-71.7610607,42.2772122]}},{"type":"Feature","properties":{"First Name":"Gary","Last Name":"Strike","Full Name":"Gary Strike","Organizati":"University of Manitoba","City":"Winnipeg","State/Terr":"MB","Postal Cod":"R3T 2N2","Country":"Canada","addrtype":"street_address","addrlocat":"ROOFTOP","address":"66 Chancellors Cir"},"geometry":{"type":"Point","coordinates":[-97.1344368,49.809962]}},{"type":"Feature","properties":{"First Name":"Yuening","Last Name":"Zhang","Full Name":"Yuening Zhang","Organizati":"Case Western Reserve University","City":"Cleveland","State/Terr":"OH","Postal Cod":"44106","Country":"United States","addrtype":"street_address","addrlocat":"ROOFTOP","address":"10900 Euclid Ave."},"geometry":{"type":"Point","coordinates":[-81.6091376,41.5049547]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jaquelina",
+      "Last Name": "Alvarez",
+      "Full Name": "Jaquelina Alvarez",
+      "Organizati": "University of Puerto Rico",
+      "City": "Mayaguez",
+      "State/Terr": "PR",
+      "Postal Cod": "681",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.049851, 18.4126402]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Shawn",
+      "Last Name": "Averkamp",
+      "Full Name": "Shawn Averkamp",
+      "Organizati": "University of Iowa",
+      "City": "Iowa City",
+      "State/Terr": "IA",
+      "Postal Cod": "52242",
+      "Country": "United States",
+      "addrtype": "hospital",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.5475035, 41.6598888]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Ted",
+      "Last Name": "Baldwin",
+      "Full Name": "Ted Baldwin",
+      "Organizati": "University of Cincinnati",
+      "City": "Cincinnati",
+      "State/Terr": "OH",
+      "Postal Cod": "45221",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.512204, 39.133181]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "David",
+      "Last Name": "Barber",
+      "Full Name": "David Barber",
+      "Organizati": "Oregon State University",
+      "City": "Corvallis",
+      "State/Terr": "OR",
+      "Postal Cod": "97331",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.2782864, 44.5684511]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Donald",
+      "Last Name": "Barclay",
+      "Full Name": "Donald Barclay",
+      "Organizati": "University of California, Merced",
+      "City": "Merced",
+      "State/Terr": "CA",
+      "Postal Cod": "95343",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.4763602, 37.3367459]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Fabrice",
+      "Last Name": "Berrue",
+      "Full Name": "Fabrice Berrue",
+      "Organizati": "University of Prince Edward Island",
+      "City": "Charlottetown",
+      "State/Terr": "PE",
+      "Postal Cod": "C1A 4P3",
+      "Country": "Canada",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.1381535, 46.2511075]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Rachel",
+      "Last Name": "Besara",
+      "Full Name": "Rachel Besara",
+      "Organizati": "Florida State University",
+      "City": "Tallahassee",
+      "State/Terr": "FL",
+      "Postal Cod": "32306",
+      "Country": "United States",
+      "addrtype": "campground",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.3369554, 30.4011161]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Debbie",
+      "Last Name": "Bezanson",
+      "Full Name": "Debbie Bezanson",
+      "Organizati": "The George Washington University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20052",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0470916, 38.8991756]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Rebecca",
+      "Last Name": "Bichel",
+      "Full Name": "Rebecca Bichel",
+      "Organizati": "University of Texas at Arlington",
+      "City": "Arlington",
+      "State/Terr": "TX",
+      "Postal Cod": "76019",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.1051161, 32.7332865]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jane",
+      "Last Name": "Blumenthal",
+      "Full Name": "Jane Blumenthal",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48109",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "L. Maximilian",
+      "Last Name": "Buja",
+      "Full Name": "L. Maximilian Buja",
+      "Organizati": "Texas Medical Center Library",
+      "City": "Houston",
+      "State/Terr": "TX",
+      "Postal Cod": "77030",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.3865525, 29.7255111]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Susan",
+      "Last Name": "Cardinal",
+      "Full Name": "Susan Cardinal",
+      "Organizati": "University of Rochester",
+      "City": "Rochester",
+      "State/Terr": "NY",
+      "Postal Cod": "14627",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.625478, 43.1308971]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jake",
+      "Last Name": "Carlson",
+      "Full Name": "Jake Carlson",
+      "Organizati": "Purdue University",
+      "City": "West Lafayette",
+      "State/Terr": "IN",
+      "Postal Cod": "47907",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.9337787, 40.4137374]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kate",
+      "Last Name": "Carter",
+      "Full Name": "Kate Carter",
+      "Organizati": "Swarthmore College",
+      "City": "Swarthmore",
+      "State/Terr": "PA",
+      "Postal Cod": "19081",
+      "Country": "United States",
+      "addrtype": "park",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.3523866, 39.9061422]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Deborah",
+      "Last Name": "Charbonneau",
+      "Full Name": "Deborah Charbonneau",
+      "Organizati": "Wayne State University",
+      "City": "Detroit",
+      "State/Terr": "MI",
+      "Postal Cod": "48202",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.0511744, 42.332507]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Sayeed",
+      "Last Name": "Choudhury",
+      "Full Name": "Sayeed Choudhury",
+      "Organizati": "Johns Hopkins University",
+      "City": "Baltimore",
+      "State/Terr": "MD",
+      "Postal Cod": "21218",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.6003432, 39.32726]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "April",
+      "Last Name": "Colosimo",
+      "Full Name": "April Colosimo",
+      "Organizati": "McGill University Libraries",
+      "City": "Montreal",
+      "State/Terr": "QC",
+      "Postal Cod": "H3A 1Y1",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.567256, 45.5016889]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Fe",
+      "Last Name": "Consolacion",
+      "Full Name": "Fe Consolacion",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48109",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Trisha",
+      "Last Name": "Cruse",
+      "Full Name": "Trisha Cruse",
+      "Organizati": "California Digital Library",
+      "City": "Oakland",
+      "State/Terr": "CA",
+      "Postal Cod": "94612",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2711137, 37.8043637]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Victor",
+      "Last Name": "Diaz",
+      "Full Name": "Victor Diaz",
+      "Organizati": "University of Puerto Rico",
+      "City": "Rio Piedras",
+      "State/Terr": "PR",
+      "Postal Cod": "931",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.0512313, 18.3961955]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Felicity",
+      "Last Name": "Dykas",
+      "Full Name": "Felicity Dykas",
+      "Organizati": "University of Missouri",
+      "City": "Columbia",
+      "State/Terr": "MO",
+      "Postal Cod": "65201",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-92.2785174, 38.9033716]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Chris",
+      "Last Name": "Elsik",
+      "Full Name": "Chris Elsik",
+      "Organizati": "University of Missouri",
+      "City": "Columbia",
+      "State/Terr": "MO",
+      "Postal Cod": "65201",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-92.2785174, 38.9033716]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Vessela",
+      "Last Name": "Ensberg",
+      "Full Name": "Vessela Ensberg",
+      "Organizati": "University of California, Los Angeles",
+      "City": "Los Angeles",
+      "State/Terr": "CA",
+      "Postal Cod": "90095",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.2551016, 34.0400757]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Brian",
+      "Last Name": "Ensor",
+      "Full Name": "Brian Ensor",
+      "Organizati": "The George Washington University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20052",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0470916, 38.8991756]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Laine",
+      "Last Name": "Farley",
+      "Full Name": "Laine Farley",
+      "Organizati": "California Digital Library",
+      "City": "Oakland",
+      "State/Terr": "CA",
+      "Postal Cod": "94612",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2711137, 37.8043637]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Pat",
+      "Last Name": "Flanagan",
+      "Full Name": "Pat Flanagan",
+      "Organizati": "Brandeis University",
+      "City": "Waltham",
+      "State/Terr": "MA",
+      "Postal Cod": "2454",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.258565, 42.364384]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Susan",
+      "Last Name": "Fliss",
+      "Full Name": "Susan Fliss",
+      "Organizati": "Harvard University",
+      "City": "Cambridge",
+      "State/Terr": "MA",
+      "Postal Cod": "2138",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1166286, 42.3800977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Simon",
+      "Last Name": "Foote",
+      "Full Name": "Simon Foote",
+      "Organizati": "National Research Council Canada",
+      "City": "Ottawa",
+      "State/Terr": "ON",
+      "Postal Cod": "K1A 0R6",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.6971931, 45.4215296]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Eric",
+      "Last Name": "Fredericksen",
+      "Full Name": "Eric Fredericksen",
+      "Organizati": "University of Rochester",
+      "City": "Rochester",
+      "State/Terr": "NY",
+      "Postal Cod": "14627",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.625478, 43.1308971]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Rachel",
+      "Last Name": "Frick",
+      "Full Name": "Rachel Frick",
+      "Organizati": "Council on Library and Information Resources",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20036",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0368707, 38.9071923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Mike",
+      "Last Name": "Furlough",
+      "Full Name": "Mike Furlough",
+      "Organizati": "Pennsylvania State University",
+      "City": "University Park",
+      "State/Terr": "PA",
+      "Postal Cod": "16802",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.8653126, 40.8147955]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Judy",
+      "Last Name": "Ganson",
+      "Full Name": "Judy Ganson",
+      "Organizati": "University of Arkansas",
+      "City": "Fayatteville",
+      "State/Terr": "AR",
+      "Postal Cod": "72701",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-94.1836566, 36.0569405]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Clay",
+      "Last Name": "Hagler",
+      "Full Name": "Clay Hagler",
+      "Organizati": "Pacific Northwest National Laboratory",
+      "City": "Richland",
+      "State/Terr": "WA",
+      "Postal Cod": "99352",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2790789, 46.3452091]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Walter",
+      "Last Name": "Hall",
+      "Full Name": "Walter Hall",
+      "Organizati": "Petroleum Institute",
+      "City": "Abu Dhabi",
+      "State/Terr": null,
+      "Postal Cod": null,
+      "Country": "United Arab Emirates",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [54.6972774, 24.2991738]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Deborah",
+      "Last Name": "Halsted",
+      "Full Name": "Deborah Halsted",
+      "Organizati": "Texas Medical Center Library",
+      "City": "Houston",
+      "State/Terr": "TX",
+      "Postal Cod": "77030",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.3865525, 29.7255111]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jeff",
+      "Last Name": "Hamerlinck",
+      "Full Name": "Jeff Hamerlinck",
+      "Organizati": "University of Wyoming",
+      "City": "Laramie",
+      "State/Terr": "WY",
+      "Postal Cod": "82071",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.5907569, 41.312754]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Barrie",
+      "Last Name": "Hayes",
+      "Full Name": "Barrie Hayes",
+      "Organizati": "University of North Carolina at Chapel Hill",
+      "City": "Chapel Hill",
+      "State/Terr": "NC",
+      "Postal Cod": "27599",
+      "Country": "United States",
+      "addrtype": "intersection",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-78.9670225, 35.9504006]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Margaret",
+      "Last Name": "Henderson",
+      "Full Name": "Margaret Henderson",
+      "Organizati": "Virginia Commonwealth University",
+      "City": "Richmond",
+      "State/Terr": "VA",
+      "Postal Cod": "23284",
+      "Country": "United States",
+      "addrtype": "street_number",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.4508188, 37.5451839]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Bruce",
+      "Last Name": "Herbert",
+      "Full Name": "Bruce Herbert",
+      "Organizati": "Texas A&M University",
+      "City": "College Station",
+      "State/Terr": "TX",
+      "Postal Cod": "77843",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.3410495, 30.6266213]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Valorie",
+      "Last Name": "Hollister",
+      "Full Name": "Valorie Hollister",
+      "Organizati": "DuraSpace",
+      "City": "Winchester",
+      "State/Terr": "MA",
+      "Postal Cod": "1890",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1369959, 42.452303]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Patricia",
+      "Last Name": "Hswe",
+      "Full Name": "Patricia Hswe",
+      "Organizati": "Pennsylvania State University",
+      "City": "University Park",
+      "State/Terr": "PA",
+      "Postal Cod": "16802",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.8653126, 40.8147955]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Chuck",
+      "Last Name": "Humphrey",
+      "Full Name": "Chuck Humphrey",
+      "Organizati": "University of Alberta",
+      "City": "Edmonton",
+      "State/Terr": "AB",
+      "Postal Cod": "T6G 2J8",
+      "Country": "Canada",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-113.522399, 53.520715]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Clarke",
+      "Last Name": "Iakovakis",
+      "Full Name": "Clarke Iakovakis",
+      "Organizati": "University of Texas at Arlington",
+      "City": "Arlington",
+      "State/Terr": "TX",
+      "Postal Cod": "76019",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.1051161, 32.7332865]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Michael",
+      "Last Name": "Ireland",
+      "Full Name": "Michael Ireland",
+      "Organizati": "National Research Council Canada",
+      "City": "Ottawa",
+      "State/Terr": "ON",
+      "Postal Cod": "K1A 0R6",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.6971931, 45.4215296]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "David",
+      "Last Name": "Isaak",
+      "Full Name": "David Isaak",
+      "Organizati": "Kaiser Permanente Center for Health Research",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97227",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6764816, 45.5230622]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "DeEtta",
+      "Last Name": "Jones",
+      "Full Name": "DeEtta Jones",
+      "Organizati": null,
+      "City": "Chicago",
+      "State/Terr": "IL",
+      "Postal Cod": "60601",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6297982, 41.8781136]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Zahra",
+      "Last Name": "Kamarei",
+      "Full Name": "Zahra Kamarei",
+      "Organizati": "University of Rochester",
+      "City": "Rochester",
+      "State/Terr": "NY",
+      "Postal Cod": "14627",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.625478, 43.1308971]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Teresa",
+      "Last Name": "Knott",
+      "Full Name": "Teresa Knott",
+      "Organizati": "Virginia Commonwealth University",
+      "City": "Richmond",
+      "State/Terr": "VA",
+      "Postal Cod": "23298",
+      "Country": "United States",
+      "addrtype": "street_number",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.4508188, 37.5451839]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Inna",
+      "Last Name": "Kouper",
+      "Full Name": "Inna Kouper",
+      "Organizati": "Indiana University",
+      "City": "Bloomington",
+      "State/Terr": "IN",
+      "Postal Cod": "47405",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.5269373, 39.1670467]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kate",
+      "Last Name": "Krause",
+      "Full Name": "Kate Krause",
+      "Organizati": "Texas Medical Center Library",
+      "City": "Houston",
+      "State/Terr": "TX",
+      "Postal Cod": "77030",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.3865525, 29.7255111]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Pierre",
+      "Last Name": "La Chance",
+      "Full Name": "Pierre La Chance",
+      "Organizati": "Kaiser Permanente Center for Health Research",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97227",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6764816, 45.5230622]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Smyth",
+      "Last Name": "Lai",
+      "Full Name": "Smyth Lai",
+      "Organizati": "Kaiser Permanente Center for Health Research",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97227",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6764816, 45.5230622]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Hope",
+      "Last Name": "Lappen",
+      "Full Name": "Hope Lappen",
+      "Organizati": "The George Washington University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20052",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0470916, 38.8991756]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Mark",
+      "Last Name": "Leggott",
+      "Full Name": "Mark Leggott",
+      "Organizati": "University of Prince Edward Island",
+      "City": "Charlottetown",
+      "State/Terr": "PE",
+      "Postal Cod": "C1A4P3",
+      "Country": "Canada",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.1381535, 46.2511075]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kathleen",
+      "Last Name": "Lehman",
+      "Full Name": "Kathleen Lehman",
+      "Organizati": "University of Arkansas",
+      "City": "Fayatteville",
+      "State/Terr": "AR",
+      "Postal Cod": "72701",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-94.1836566, 36.0569405]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Lilly",
+      "Last Name": "Li",
+      "Full Name": "Lilly Li",
+      "Organizati": "Texas A&M University",
+      "City": "College Station",
+      "State/Terr": "TX",
+      "Postal Cod": "77843",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.3410495, 30.6266213]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Emily",
+      "Last Name": "Lin",
+      "Full Name": "Emily Lin",
+      "Organizati": "University of California, Merced",
+      "City": "Merced",
+      "State/Terr": "CA",
+      "Postal Cod": "95343",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.4763602, 37.3367459]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Reese",
+      "Last Name": "Manceaux",
+      "Full Name": "Reese Manceaux",
+      "Organizati": "University of North Carolina at Charlotte",
+      "City": "Charlotte",
+      "State/Terr": "NC",
+      "Postal Cod": "28223",
+      "Country": "United States",
+      "addrtype": "real_estate_agency",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.721402, 35.313803]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Wendy",
+      "Last Name": "Mann",
+      "Full Name": "Wendy Mann",
+      "Organizati": "George Mason University",
+      "City": "Fairfax",
+      "State/Terr": "VA",
+      "Postal Cod": "22030",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.307587, 38.83419]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Stephen",
+      "Last Name": "Marine",
+      "Full Name": "Stephen Marine",
+      "Organizati": "University of Cincinnati",
+      "City": "Cincinnati",
+      "State/Terr": "OH",
+      "Postal Cod": "45267",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.512204, 39.133181]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Nancy",
+      "Last Name": "Maron",
+      "Full Name": "Nancy Maron",
+      "Organizati": "ITHAKA",
+      "City": "New York",
+      "State/Terr": "NY",
+      "Postal Cod": "10065",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.8797566, 40.7448027]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Sandra",
+      "Last Name": "Martin",
+      "Full Name": "Sandra Martin",
+      "Organizati": "Wayne State University",
+      "City": "Detroit",
+      "State/Terr": "MI",
+      "Postal Cod": "48201",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.0511744, 42.332507]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Scott",
+      "Last Name": "Martin",
+      "Full Name": "Scott Martin",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48109",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Victoria",
+      "Last Name": "Martin",
+      "Full Name": "Victoria Martin",
+      "Organizati": "George Mason University",
+      "City": "Fairfax",
+      "State/Terr": "VA",
+      "Postal Cod": "22030",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.307587, 38.83419]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Ethan",
+      "Last Name": "Masella",
+      "Full Name": "Ethan Masella",
+      "Organizati": "Brandeis University",
+      "City": "Waltham",
+      "State/Terr": "MA",
+      "Postal Cod": "2454",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.258565, 42.364384]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Michele",
+      "Last Name": "Matz Hayslett",
+      "Full Name": "Michele Matz Hayslett",
+      "Organizati": "University of North Carolina at Chapel Hill",
+      "City": "Chapel Hill",
+      "State/Terr": "NC",
+      "Postal Cod": "27515",
+      "Country": "United States",
+      "addrtype": "intersection",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-78.9670225, 35.9504006]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Owen",
+      "Last Name": "McCarty",
+      "Full Name": "Owen McCarty",
+      "Organizati": "Oregon Health & Science University",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97239",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6854607, 45.4990977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Heather",
+      "Last Name": "McCullough",
+      "Full Name": "Heather McCullough",
+      "Organizati": "University of North Carolina at Charlotte",
+      "City": "Charlotte",
+      "State/Terr": "NC",
+      "Postal Cod": "28223",
+      "Country": "United States",
+      "addrtype": "real_estate_agency",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.721402, 35.313803]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Mark",
+      "Last Name": "McFarland",
+      "Full Name": "Mark McFarland",
+      "Organizati": "Texas Medical Center Library",
+      "City": "Houston",
+      "State/Terr": "TX",
+      "Postal Cod": "77030",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.3865525, 29.7255111]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kevin",
+      "Last Name": "Messner",
+      "Full Name": "Kevin Messner",
+      "Organizati": "Miami University",
+      "City": "Oxford",
+      "State/Terr": "OH",
+      "Postal Cod": "45056",
+      "Country": "United States",
+      "addrtype": "sublocality_level_1",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.7316109, 39.5105848]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Vanessa",
+      "Last Name": "Middleton",
+      "Full Name": "Vanessa Middleton",
+      "Organizati": "Petroleum Institute",
+      "City": "Abu Dhabi",
+      "State/Terr": null,
+      "Postal Cod": null,
+      "Country": "United Arab Emirates",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [54.6972774, 24.2991738]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "John",
+      "Last Name": "Millard",
+      "Full Name": "John Millard",
+      "Organizati": "Miami University",
+      "City": "Oxford",
+      "State/Terr": "OH",
+      "Postal Cod": "45056",
+      "Country": "United States",
+      "addrtype": "sublocality_level_1",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.7316109, 39.5105848]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Karen",
+      "Last Name": "Morgenroth",
+      "Full Name": "Karen Morgenroth",
+      "Organizati": "National Research Council Canada",
+      "City": "Ottawa",
+      "State/Terr": "ON",
+      "Postal Cod": "K1A 0R6",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.6971931, 45.4215296]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Donald",
+      "Last Name": "Moses",
+      "Full Name": "Donald Moses",
+      "Organizati": "University of Prince Edward Island",
+      "City": "Charlottetown",
+      "State/Terr": "PE",
+      "Postal Cod": "C1A 4P3",
+      "Country": "Canada",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.1381535, 46.2511075]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "James",
+      "Last Name": "Mullins",
+      "Full Name": "James Mullins",
+      "Organizati": "Purdue University",
+      "City": "West Lafayette",
+      "State/Terr": "IN",
+      "Postal Cod": "47907",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.9337787, 40.4137374]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Daureen",
+      "Last Name": "Nesdill",
+      "Full Name": "Daureen Nesdill",
+      "Organizati": "University of Utah",
+      "City": "Salt Lake City",
+      "State/Terr": "UT",
+      "Postal Cod": "84112",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.8354722, 40.7705]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Bruce",
+      "Last Name": "Neville",
+      "Full Name": "Bruce Neville",
+      "Organizati": "Texas A&M University",
+      "City": "College Station",
+      "State/Terr": "TX",
+      "Postal Cod": "77843",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.3410495, 30.6266213]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Natsuko",
+      "Last Name": "Nicholls",
+      "Full Name": "Natsuko Nicholls",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48109",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "James",
+      "Last Name": "Olds",
+      "Full Name": "James Olds",
+      "Organizati": "George Mason University",
+      "City": "Fairfax",
+      "State/Terr": "VA",
+      "Postal Cod": "22030",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.307587, 38.83419]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Salwa",
+      "Last Name": "Patel",
+      "Full Name": "Salwa Patel",
+      "Organizati": "Georgetown University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20057",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0777017, 38.9105582]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Carla",
+      "Last Name": "Pealer",
+      "Full Name": "Carla Pealer",
+      "Organizati": "Oregon Health & Science University",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97239",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6854607, 45.4990977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jean",
+      "Last Name": "Phillips",
+      "Full Name": "Jean Phillips",
+      "Organizati": "Florida State University",
+      "City": "Tallahassee",
+      "State/Terr": "FL",
+      "Postal Cod": "32306",
+      "Country": "United States",
+      "addrtype": "campground",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.3369554, 30.4011161]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Lori",
+      "Last Name": "Phillips",
+      "Full Name": "Lori Phillips",
+      "Organizati": "University of Wyoming",
+      "City": "Laramie",
+      "State/Terr": "WY",
+      "Postal Cod": "82071",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.5907569, 41.312754]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jeannette",
+      "Last Name": "Pierce",
+      "Full Name": "Jeannette Pierce",
+      "Organizati": "University of Missouri",
+      "City": "Columbia",
+      "State/Terr": "MO",
+      "Postal Cod": "65201",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-92.2785174, 38.9033716]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Daphne",
+      "Last Name": "Plaut",
+      "Full Name": "Daphne Plaut",
+      "Organizati": "Kaiser Permanente Center for Health Research",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97227",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6764816, 45.5230622]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "David",
+      "Last Name": "Podboy",
+      "Full Name": "David Podboy",
+      "Organizati": "Pacific Northwest National Laboratory",
+      "City": "Richland",
+      "State/Terr": "WA",
+      "Postal Cod": "99354",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2790789, 46.3452091]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Regina",
+      "Last Name": "Raboin",
+      "Full Name": "Regina Raboin",
+      "Organizati": "Tufts University",
+      "City": "Medford",
+      "State/Terr": "MA",
+      "Postal Cod": "2155",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.120482, 42.4036847]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Melanie",
+      "Last Name": "Radik",
+      "Full Name": "Melanie Radik",
+      "Organizati": "Brandeis University",
+      "City": "Waltham",
+      "State/Terr": "MA",
+      "Postal Cod": "2453",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.258565, 42.364384]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jenn",
+      "Last Name": "Riley",
+      "Full Name": "Jenn Riley",
+      "Organizati": "McGill University Libraries",
+      "City": "Montreal",
+      "State/Terr": "QC",
+      "Postal Cod": "H3C 6W1",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.567256, 45.5016889]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Constance",
+      "Last Name": "Rinaldo",
+      "Full Name": "Constance Rinaldo",
+      "Organizati": "Harvard University",
+      "City": "Cambridge",
+      "State/Terr": "MA",
+      "Postal Cod": "2138",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1166286, 42.3800977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kendall",
+      "Last Name": "Roark",
+      "Full Name": "Kendall Roark",
+      "Organizati": null,
+      "City": "Edmonton",
+      "State/Terr": "AB",
+      "Postal Cod": "T6G 2J8",
+      "Country": "Canada",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-113.4909267, 53.544389]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Ben",
+      "Last Name": "Rogers",
+      "Full Name": "Ben Rogers",
+      "Organizati": "University of Iowa",
+      "City": "Iowa City",
+      "State/Terr": "IA",
+      "Postal Cod": "52242",
+      "Country": "United States",
+      "addrtype": "hospital",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.5475035, 41.6598888]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Mara",
+      "Last Name": "Rojeski",
+      "Full Name": "Mara Rojeski",
+      "Organizati": "Georgetown University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20057",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0777017, 38.9105582]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Joanne",
+      "Last Name": "Romano",
+      "Full Name": "Joanne Romano",
+      "Organizati": "Texas Medical Center Library",
+      "City": "Houston",
+      "State/Terr": "TX",
+      "Postal Cod": "77030",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.3865525, 29.7255111]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Traci",
+      "Last Name": "Ruthkoski",
+      "Full Name": "Traci Ruthkoski",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48109",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Annanaomi",
+      "Last Name": "Sams",
+      "Full Name": "Annanaomi Sams",
+      "Organizati": "Pacific Northwest National Laboratory",
+      "City": "Richland",
+      "State/Terr": "WA",
+      "Postal Cod": "99352",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2790789, 46.3452091]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Leslie",
+      "Last Name": "Schick",
+      "Full Name": "Leslie Schick",
+      "Organizati": "University of Cincinnati",
+      "City": "Cincinnati",
+      "State/Terr": "OH",
+      "Postal Cod": "45221",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.512204, 39.133181]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Lynne",
+      "Last Name": "Schmelz",
+      "Full Name": "Lynne Schmelz",
+      "Organizati": "Harvard University",
+      "City": "Cambridge",
+      "State/Terr": "MA",
+      "Postal Cod": "2138",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1166286, 42.3800977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Larry",
+      "Last Name": "Schmidt",
+      "Full Name": "Larry Schmidt",
+      "Organizati": "University of Wyoming",
+      "City": "Laramie",
+      "State/Terr": "WY",
+      "Postal Cod": "82071",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.5907569, 41.312754]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kristi",
+      "Last Name": "Searle",
+      "Full Name": "Kristi Searle",
+      "Organizati": "DuraSpace",
+      "City": "Winchester",
+      "State/Terr": "MA",
+      "Postal Cod": "1890",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1369959, 42.452303]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Chris",
+      "Last Name": "Shaffer",
+      "Full Name": "Chris Shaffer",
+      "Organizati": "Oregon Health & Science University",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97239",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6854607, 45.4990977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Evan",
+      "Last Name": "Simpson",
+      "Full Name": "Evan Simpson",
+      "Organizati": "Tufts University",
+      "City": "Somerville",
+      "State/Terr": "MA",
+      "Postal Cod": "2144",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.120482, 42.4036847]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Harvinder",
+      "Last Name": "Singh",
+      "Full Name": "Harvinder Singh",
+      "Organizati": "University of Massachusetts, Amherst",
+      "City": "Amherst",
+      "State/Terr": "MA",
+      "Postal Cod": "1003",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.5312372, 42.3951291]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Kathlin",
+      "Last Name": "Smith",
+      "Full Name": "Kathlin Smith",
+      "Organizati": "Council on Library and Information Resources",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20036",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0368707, 38.9071923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "MacKenzie",
+      "Last Name": "Smith",
+      "Full Name": "MacKenzie Smith",
+      "Organizati": "University of California, Davis",
+      "City": "Davis",
+      "State/Terr": "CA",
+      "Postal Cod": "95616",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.7715459, 38.5400714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Paul",
+      "Last Name": "Soderdahl",
+      "Full Name": "Paul Soderdahl",
+      "Organizati": "University of Iowa",
+      "City": "Iowa City",
+      "State/Terr": "IA",
+      "Postal Cod": "52242",
+      "Country": "United States",
+      "addrtype": "hospital",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-91.5475035, 41.6598888]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Mark",
+      "Last Name": "Spasser",
+      "Full Name": "Mark Spasser",
+      "Organizati": "Wayne State University",
+      "City": "Detroit",
+      "State/Terr": "MI",
+      "Postal Cod": "48202",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.0511744, 42.332507]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Meg",
+      "Last Name": "Spencer",
+      "Full Name": "Meg Spencer",
+      "Organizati": "Swarthmore College",
+      "City": "Swarthmore",
+      "State/Terr": "PA",
+      "Postal Cod": "19081",
+      "Country": "United States",
+      "addrtype": "park",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.3523866, 39.9061422]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Gosia",
+      "Last Name": "Stergios",
+      "Full Name": "Gosia Stergios",
+      "Organizati": "Harvard University",
+      "City": "Cambridge",
+      "State/Terr": "MA",
+      "Postal Cod": "2138",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1166286, 42.3800977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Carly",
+      "Last Name": "Strasser",
+      "Full Name": "Carly Strasser",
+      "Organizati": "California Digital Library",
+      "City": "Oakland",
+      "State/Terr": "CA",
+      "Postal Cod": "94612",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2711137, 37.8043637]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Shan",
+      "Last Name": "Sutton",
+      "Full Name": "Shan Sutton",
+      "Organizati": "Oregon State University",
+      "City": "Corvallis",
+      "State/Terr": "OR",
+      "Postal Cod": "97331",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.2782864, 44.5684511]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jean-Claude",
+      "Last Name": "Thill",
+      "Full Name": "Jean-Claude Thill",
+      "Organizati": "University of North Carolina at Charlotte",
+      "City": "Charlotte",
+      "State/Terr": "NC",
+      "Postal Cod": "28223",
+      "Country": "United States",
+      "addrtype": "real_estate_agency",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.721402, 35.313803]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Ling",
+      "Last Name": "Ting",
+      "Full Name": "Ling Ting",
+      "Organizati": null,
+      "City": "Fayetteville",
+      "State/Terr": "AR",
+      "Postal Cod": "72701",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-94.1574263, 36.0625795]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Robert",
+      "Last Name": "Tombes",
+      "Full Name": "Robert Tombes",
+      "Organizati": "Virginia Commonwealth University",
+      "City": "Richmond",
+      "State/Terr": "VA",
+      "Postal Cod": "23284",
+      "Country": "United States",
+      "addrtype": "street_number",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.4508188, 37.5451839]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Samuel",
+      "Last Name": "Traina",
+      "Full Name": "Samuel Traina",
+      "Organizati": "University of California, Merced",
+      "City": "Merced",
+      "State/Terr": "CA",
+      "Postal Cod": "95343",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.4763602, 37.3367459]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Shu-Chen",
+      "Last Name": "Tsung",
+      "Full Name": "Shu-Chen Tsung",
+      "Organizati": "Georgetown University",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20057",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0777017, 38.9105582]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Katie",
+      "Last Name": "Vale",
+      "Full Name": "Katie Vale",
+      "Organizati": "Harvard University",
+      "City": "Arlington",
+      "State/Terr": "MA",
+      "Postal Cod": "2474",
+      "Country": "United States",
+      "addrtype": "neighborhood",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1166286, 42.3800977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Anidza",
+      "Last Name": "Valentin",
+      "Full Name": "Anidza Valentin",
+      "Organizati": "University of Puerto Rico",
+      "City": "Rio Piedras",
+      "State/Terr": "PR",
+      "Postal Cod": "931",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.0512313, 18.3961955]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Rita",
+      "Last Name": "Van Duinen",
+      "Full Name": "Rita Van Duinen",
+      "Organizati": "Council on Library and Information Resources",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20036",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0368707, 38.9071923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "James",
+      "Last Name": "Van Loon",
+      "Full Name": "James Van Loon",
+      "Organizati": "Wayne State University",
+      "City": "Detroit",
+      "State/Terr": "MI",
+      "Postal Cod": "48202",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.0511744, 42.332507]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Micah",
+      "Last Name": "Vandegrift",
+      "Full Name": "Micah Vandegrift",
+      "Organizati": "Florida State University",
+      "City": "Tallahassee",
+      "State/Terr": "FL",
+      "Postal Cod": "32306",
+      "Country": "United States",
+      "addrtype": "campground",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.3369554, 30.4011161]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Nelson",
+      "Last Name": "Vincent",
+      "Full Name": "Nelson Vincent",
+      "Organizati": "University of Cincinnati",
+      "City": "Cincinnati",
+      "State/Terr": "OH",
+      "Postal Cod": "45221",
+      "Country": "United States",
+      "addrtype": "bus_station",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.512204, 39.133181]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Barbara",
+      "Last Name": "Weir",
+      "Full Name": "Barbara Weir",
+      "Organizati": "Swarthmore College",
+      "City": "Swarthmore",
+      "State/Terr": "PA",
+      "Postal Cod": "19081",
+      "Country": "United States",
+      "addrtype": "park",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.3523866, 39.9061422]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Elaine",
+      "Last Name": "Westbrooks",
+      "Full Name": "Elaine Westbrooks",
+      "Organizati": "University of Michigan",
+      "City": "Ann Arbor",
+      "State/Terr": "MI",
+      "Postal Cod": "48103",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.7371794, 42.2783714]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Amanda",
+      "Last Name": "Whitmire",
+      "Full Name": "Amanda Whitmire",
+      "Organizati": "Oregon State University",
+      "City": "Corvallis",
+      "State/Terr": "OR",
+      "Postal Cod": "97331",
+      "Country": "United States",
+      "addrtype": "point_of_interest",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.2782864, 44.5684511]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "J. Douglas",
+      "Last Name": "Willen",
+      "Full Name": "J. Douglas Willen",
+      "Organizati": "Swarthmore College",
+      "City": "Swarthmore",
+      "State/Terr": "PA",
+      "Postal Cod": "19081",
+      "Country": "United States",
+      "addrtype": "park",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.3523866, 39.9061422]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jena",
+      "Last Name": "Winberry",
+      "Full Name": "Jena Winberry",
+      "Organizati": "Council on Library and Information Resources",
+      "City": "Washington",
+      "State/Terr": "DC",
+      "Postal Cod": "20036",
+      "Country": "United States",
+      "addrtype": "locality",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.0368707, 38.9071923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jackie",
+      "Last Name": "Wirz",
+      "Full Name": "Jackie Wirz",
+      "Organizati": "Oregon Health & Science University",
+      "City": "Portland",
+      "State/Terr": "OR",
+      "Postal Cod": "97239",
+      "Country": "United States",
+      "addrtype": "airport",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.6854607, 45.4990977]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "David",
+      "Last Name": "Woods",
+      "Full Name": "David Woods",
+      "Organizati": "Miami University",
+      "City": "Oxford",
+      "State/Terr": "OH",
+      "Postal Cod": "45056",
+      "Country": "United States",
+      "addrtype": "sublocality_level_1",
+      "addrlocat": "APPROXIMATE",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.7316109, 39.5105848]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Sandra",
+      "Last Name": "Yee",
+      "Full Name": "Sandra Yee",
+      "Organizati": "Wayne State University",
+      "City": "Detroit",
+      "State/Terr": "MI",
+      "Postal Cod": "48202",
+      "Country": "United States",
+      "addrtype": "route",
+      "addrlocat": "GEOMETRIC_CENTER",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.0511744, 42.332507]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Lionel",
+      "Last Name": "Zupan",
+      "Full Name": "Lionel Zupan",
+      "Organizati": "Tufts University",
+      "City": "Somerville",
+      "State/Terr": "MA",
+      "Postal Cod": "2144",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.120482, 42.4036847]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Michelle",
+      "Last Name": "Edwards",
+      "Full Name": "Michelle Edwards",
+      "Organizati": "University of Guelph",
+      "City": "Guelph",
+      "State/Terr": "ON",
+      "Postal Cod": "N1G 2W1",
+      "Country": "Canada",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "480 Gordon St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.2276704, 43.5314994]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Brian",
+      "Last Name": "Gray",
+      "Full Name": "Brian Gray",
+      "Organizati": "Case Western Reserve University",
+      "City": "Cleveland",
+      "State/Terr": "OH",
+      "Postal Cod": "44106",
+      "Country": "United States",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "10900 Euclid Ave."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.6091376, 41.5049547]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Robert",
+      "Last Name": "Hanner",
+      "Full Name": "Robert Hanner",
+      "Organizati": "University of Guelph",
+      "City": "Guelph",
+      "State/Terr": "ON",
+      "Postal Cod": "N1G 2W1",
+      "Country": "Canada",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "480 Gordon St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.2276704, 43.5314994]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Michelle",
+      "Last Name": "Hudson",
+      "Full Name": "Michelle Hudson",
+      "Organizati": "Yale University",
+      "City": "New Haven",
+      "State/Terr": "CT",
+      "Postal Cod": "6520",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "270 Crown St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9308971, 41.3061923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Wayne",
+      "Last Name": "Johnston",
+      "Full Name": "Wayne Johnston",
+      "Organizati": "University of Guelph",
+      "City": "Guelph",
+      "State/Terr": "ON",
+      "Postal Cod": "N1G 2W1",
+      "Country": "Canada",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "480 Gordon St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.2276704, 43.5314994]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Edward",
+      "Last Name": "Kairiss",
+      "Full Name": "Edward Kairiss",
+      "Organizati": "Yale University",
+      "City": "New Haven",
+      "State/Terr": "CT",
+      "Postal Cod": "6520",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "270 Crown St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9308971, 41.3061923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Michael",
+      "Last Name": "Kenney",
+      "Full Name": "Michael Kenney",
+      "Organizati": "Case Western Reserve University",
+      "City": "Cleveland",
+      "State/Terr": "OH",
+      "Postal Cod": "44106",
+      "Country": "United States",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "10900 Euclid Ave."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.6091376, 41.5049547]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Vera",
+      "Last Name": "Keown",
+      "Full Name": "Vera Keown",
+      "Organizati": "University of Manitoba",
+      "City": "Winnipeg",
+      "State/Terr": "MB",
+      "Postal Cod": "R3T 2N2",
+      "Country": "Canada",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "66 Chancellors Cir"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.1344368, 49.809962]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jeffrey",
+      "Last Name": "Marcus",
+      "Full Name": "Jeffrey Marcus",
+      "Organizati": "University of Manitoba",
+      "City": "Winnipeg",
+      "State/Terr": "MB",
+      "Postal Cod": "R3T 2N2",
+      "Country": "Canada",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "66 Chancellors Cir"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.1344368, 49.809962]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Elaine",
+      "Last Name": "Martin",
+      "Full Name": "Elaine Martin",
+      "Organizati": "University of Massachusetts Medical School",
+      "City": "Worcester",
+      "State/Terr": "MA",
+      "Postal Cod": "1655",
+      "Country": "United States",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "55 N Lake Ave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.7610607, 42.2772122]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Jill",
+      "Last Name": "Parchuck",
+      "Full Name": "Jill Parchuck",
+      "Organizati": "Yale University",
+      "City": "New Haven",
+      "State/Terr": "CT",
+      "Postal Cod": "6520",
+      "Country": "United States",
+      "addrtype": "premise",
+      "addrlocat": "ROOFTOP",
+      "address": "270 Crown St"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9308971, 41.3061923]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Rebecca",
+      "Last Name": "Reznik-Zellen",
+      "Full Name": "Rebecca Reznik-Zellen",
+      "Organizati": "University of Massachusetts Medical School",
+      "City": "Worcester",
+      "State/Terr": "MA",
+      "Postal Cod": "1655",
+      "Country": "United States",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "55 N Lake Ave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.7610607, 42.2772122]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Gary",
+      "Last Name": "Strike",
+      "Full Name": "Gary Strike",
+      "Organizati": "University of Manitoba",
+      "City": "Winnipeg",
+      "State/Terr": "MB",
+      "Postal Cod": "R3T 2N2",
+      "Country": "Canada",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "66 Chancellors Cir"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.1344368, 49.809962]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "First Name": "Yuening",
+      "Last Name": "Zhang",
+      "Full Name": "Yuening Zhang",
+      "Organizati": "Case Western Reserve University",
+      "City": "Cleveland",
+      "State/Terr": "OH",
+      "Postal Cod": "44106",
+      "Country": "United States",
+      "addrtype": "street_address",
+      "addrlocat": "ROOFTOP",
+      "address": "10900 Euclid Ave."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.6091376, 41.5049547]
+    }
+  }]
+}

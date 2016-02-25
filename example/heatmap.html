@@ -29,7 +29,7 @@ var layer = L.mapbox.featureLayer('./all.json').on('ready', function() {
     map.fitBounds(layer.getBounds());
     // Add each marker point to the heatmap.
     layer.eachLayer(function(l) {
-        heat.addLatLng(l.getLatLng());
+        heat.addLatLng(l.getLatLng(), {radius: 5, blur: 15});
     });
 });
 </script>
