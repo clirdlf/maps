@@ -12,14 +12,6 @@ oms.addListener('click', function(marker) {
   map.openPopup(popup);
 });
 
-
-var baseballIcon = L.icon({
-  iconUrl: 'baseball-marker.png',
-  iconSize: [32, 37],
-  iconAnchor: [16, 37],
-  popupAnchor: [0, -28]
-});
-
 L.control.layers({
   'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
   'Mapbox Light': L.mapbox.tileLayer('mapbox.light')
