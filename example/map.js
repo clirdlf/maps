@@ -1,7 +1,7 @@
 var pattern = 'http://a.tiles.mapbox.com/v4/wsg4w.6xbtm1m3/14/4823/6160.vector.pbf?access_token=pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
 var token = 'pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
 L.mapbox.accessToken = token;
-var map = L.mapbox.map('map').setView([30.75,-5.98], 3);
+var map = L.mapbox.map('map').setView([30.75, -5.98], 3);
 // var map = L.mapbox.map('map').setView([38.8922,-77.0348], 14);
 
 var oms = new OverlappingMarkerSpiderfier(map); // spidering
@@ -69,56 +69,70 @@ var mellonMarker = L.ExtraMarkers.icon({
   prefix: 'fa'
 });
 
-function addPopup(feature, layer){
+function addPopup(feature, layer) {
   // console.log(feature.properties.program);
-  layer.bindPopup('<h1>' + feature.properties.organization + '</h1><p>' + feature.properties.City + ', '+ feature.properties.StateTerri+'</p>');
+  layer.bindPopup('<h1>' + feature.properties.organization + '</h1><p>' + feature.properties.City + ', ' + feature.properties.StateTerri + '</p>');
 }
 
 var markers = L.markerClusterGroup();
 
 var clirLayer = L.geoJson(clir, {
   onEachFeature: addPopup,
-  pointToLayer: function(feature, latlng){
-    return L.marker(latlng, { icon: clirMarker });
+  pointToLayer: function(feature, latlng) {
+    return L.marker(latlng, {
+      icon: clirMarker
+    });
   }
 });
 
 var dlfLayer = L.geoJson(dlf, {
   onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: dlfMarker });
+    return L.marker(latlng, {
+      icon: dlfMarker
+    });
   }
 });
 
 var escienceLayer = L.geoJson(escience, {
   onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: escienceMarker });
+    return L.marker(latlng, {
+      icon: escienceMarker
+    });
   }
 });
 
 var fryeLayer = L.geoJson(frye, {
   onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: fryeMarker });
+    return L.marker(latlng, {
+      icon: fryeMarker
+    });
   }
 });
 
 var hcgranteesLayer = L.geoJson(hcgrantees, {
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: hcgranteesMarker });
+    return L.marker(latlng, {
+      icon: hcgranteesMarker
+    });
   }
 });
 
 var hcpartnersLayer = L.geoJson(hcpartners, {
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: hcpartnersMarker });
+    return L.marker(latlng, {
+      icon: hcpartnersMarker
+    });
   }
 });
 
 var mellonLayer = L.geoJson(mellon, {
   pointToLayer: function(feature, latlng) {
-    return L.marker(latlng, { icon: mellonMarker });
+    return L.marker(latlng, {
+      icon: mellonMarker
+    });
   }
 });
 
@@ -132,3 +146,27 @@ markers.addLayer(mellonLayer).addTo(map);
 
 L.control.fullscreen().addTo(map);
 var hash = L.hash(map);
+
+// map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+// var legend = L.control({
+//   position: 'bottomright'
+// });
+//
+// legend.onAdd = function(map) {
+//
+//   var div = L.DomUtil.create('div', 'info legend'),
+//     labels = [];
+//
+//     labels.push('<i style="color: #fff; background-color: #871723;" class="clir fa fa-home"></i> CLIR');
+//     labels.push('<i style="color: #fff; background-color: #0D75B6;" class="fa fa-gear"></i> DLF');
+//     labels.push('<i style="color: #fff; background-color: #008F44;" class="fa fa-star-o"></i> eScience');
+//     labels.push('<i style="color: #fff; background-color: #266372;" class="fa fa-university"></i> LCI');
+//     labels.push('<i style="color: #fff; background-color: #F18E39;" class="fa fa-plus-square"></i> Hidden Collections');
+//     labels.push('<i style="color: #fff; background-color: #91248B;" class="fa fa-plus-square"></i> Mellon Fellows');
+//     labels.push('<i style="color: #fff; background-color: #91248B;" class="fa fa-university"></i> Rovelstad Fellows');
+//
+//
+//   div.innerHTML = labels.join('<br>');
+//   return div;
+// };
+// legend.addTo(map);
