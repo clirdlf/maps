@@ -113,6 +113,7 @@ var fryeLayer = L.geoJson(frye, {
 });
 
 var hcgranteesLayer = L.geoJson(hcgrantees, {
+  onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
     return L.marker(latlng, {
       icon: hcgranteesMarker
@@ -121,6 +122,7 @@ var hcgranteesLayer = L.geoJson(hcgrantees, {
 });
 
 var hcpartnersLayer = L.geoJson(hcpartners, {
+  onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
     return L.marker(latlng, {
       icon: hcpartnersMarker
@@ -129,6 +131,7 @@ var hcpartnersLayer = L.geoJson(hcpartners, {
 });
 
 var mellonLayer = L.geoJson(mellon, {
+  onEachFeature: addPopup,
   pointToLayer: function(feature, latlng) {
     return L.marker(latlng, {
       icon: mellonMarker
