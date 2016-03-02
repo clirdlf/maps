@@ -1,7 +1,8 @@
 var pattern = 'http://a.tiles.mapbox.com/v4/wsg4w.6xbtm1m3/14/4823/6160.vector.pbf?access_token=pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
 var token = 'pk.eyJ1Ijoid3NnNHciLCJhIjoiTVd4cXdScyJ9.ypK9cLCVFReavCn9b_hhWQ';
 L.mapbox.accessToken = token;
-var map = L.mapbox.map('map').setView([38.8922,-77.0348], 14);
+var map = L.mapbox.map('map').setView([30.75,-5.98], 3);
+// var map = L.mapbox.map('map').setView([38.8922,-77.0348], 14);
 
 var oms = new OverlappingMarkerSpiderfier(map); // spidering
 oms.addListener('click', function(marker) {
