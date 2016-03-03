@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <title>CLIR+DLF Mapping Data</title>
+  <script src='//api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+  <link href='//api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <script src="data.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    /*.legend label, .legend span, .legend i {
+      display: block;
+      float: left;
+      height: 15px;
+      width:16.66666666%;
+      text-align: center;
+      font-size: 9px;
+      color: #808080;
+    }*/
+    .map-legends {
+
+    }
+    .legend {
+      text-align: left;
+      line-height: 18px;
+      color: #555;
+    }
+
+    .legend i {
+      width: 18px;
+      height: 18px;
+      float: left;
+      margin-right: 8px;
+      opacity: 0.7;
+    }
+
+    .legend i.clir {
+      background-color: red;
+    }
+
+  </style>
+
+  <!-- marker clusters -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+
+  <!-- spidering -->
+  <script src="js/oms.min.js"></script>
+
+  <!-- hash (for getting a specific view in the URL) -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-hash/v0.2.1/leaflet-hash.js'></script>
+
+  <!-- full screen -->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.4/Leaflet.fullscreen.min.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.4/leaflet.fullscreen.css' rel='stylesheet' />
+
+  <link rel="stylesheet" href="css/leaflet.extra-markers.min.css"
+</head>
+
+<body>
+  <div id="map"></div>
+  <script src="js/leaflet.extra-markers.min.js"></script>
+  <script src="map.js"></script>
+</body>
+
+</html>
