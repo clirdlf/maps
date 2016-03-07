@@ -71,7 +71,16 @@ var mellonMarker = L.ExtraMarkers.icon({
 
 function addPopup(feature, layer) {
   // console.log(feature.properties.program);
-  layer.bindPopup('<h1>' + feature.properties.organization + '</h1><p>' + feature.properties.City + ', ' + feature.properties.StateTerri + '</p>');
+  var data = feature.properties;
+  var html = "<ul class='popups'>";
+  $.each(data, function(k, v) {
+    html += "<li><strong>" + k + "</strong>: ";
+    html += v + "</li>";
+  });
+  html += "</ul>";
+  // console.log('html', html);
+  layer.bindPopup(html);
+  // layer.bindPopup('<h1>' + feature.properties.organization + '</h1><p>' + feature.properties.City + ', ' + feature.properties.StateTerri + '</p>');
 }
 
 var markers = L.markerClusterGroup();
