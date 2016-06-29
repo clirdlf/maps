@@ -48,27 +48,29 @@ var topoJSONTileLayer = VIZI.topoJSONTileLayer('https://vector.mapzen.com/osm/bu
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://whosonfirst.mapzen.com#License">Who\'s On First</a>.'
 }).addTo(world);
 
-// // London Underground lines
-// VIZI.geoJSONLayer('https://rawgit.com/robhawkes/4acb9d6a6a5f00a377e2/raw/30ae704a44e10f2e13fb7e956e80c3b22e8e7e81/tfl_lines.json', {
-//   output: true,
-//   interactive: true,
-//   style: function(feature) {
-//     var colour = feature.properties.lines[0].colour || '#ffffff';
-//
-//     return {
-//       lineColor: colour,
-//       lineHeight: 20,
-//       lineWidth: 3,
-//       lineTransparent: true,
-//       lineOpacity: 0.5,
-//       lineBlending: THREE.AdditiveBlending,
-//       lineRenderOrder: 2
-//     };
-//   },
-//   onEachFeature: function(feature, layer) {
-//     layer.on('click', function(layer, point2d, point3d, intersects) {
-//       console.log(layer, point2d, point3d, intersects);
-//     });
-//   },
-//   attribution: '&copy; Transport for London.'
-// }).addTo(world);
+// // Washington DC Lines
+VIZI.geoJSONLayer('./metro.geojson', {
+  output: true,
+  interactive: true,
+  style: function(feature) {
+    // var colour = feature.properties.lines[0] || '#ffffff';
+    // TODO map line colors to rgb
+    var colour = '#ffffff';
+    // console.log(feature.properties.lines[0]);
+    return {
+      lineColor: colour,
+      lineHeight: 20,
+      lineWidth: 3,
+      lineTransparent: true,
+      lineOpacity: 0.5,
+      lineBlending: THREE.AdditiveBlending,
+      lineRenderOrder: 2
+    };
+  },
+  onEachFeature: function(feature, layer) {
+    layer.on('click', function(layer, point2d, point3d, intersects) {
+      console.log(layer, point2d, point3d, intersects);
+    });
+  },
+  attribution: '&copy; Transport for Washington DC.'
+}).addTo(world);
