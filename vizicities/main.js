@@ -53,10 +53,14 @@ VIZI.geoJSONLayer('./metro.geojson', {
   output: true,
   interactive: true,
   style: function(feature) {
-    // var colour = feature.properties.lines[0] || '#ffffff';
-    // TODO map line colors to rgb
-    var colour = '#ffffff';
-    // console.log(feature.properties.lines[0]);
+    // var colour = '#ffffff';
+    var colour = '';
+    try{
+      colour = feature.properties.lines[0];
+    } catch(e) {
+        colour = feature.properties.stroke;
+    }
+    
     return {
       lineColor: colour,
       lineHeight: 20,
