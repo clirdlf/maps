@@ -21,7 +21,6 @@ VIZI.imageTileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}
 
 // Buildings and roads from Mapzen (polygons and linestrings)
 var topoJSONTileLayer = VIZI.topoJSONTileLayer('https://vector.mapzen.com/osm/buildings,roads/{z}/{x}/{y}.topojson?api_key=vector-tiles-LY7grxf', {
-//var topoJSONTileLayer = VIZI.topoJSONTileLayer('https://vector.mapzen.com/osm/buildings,roads/{z}/{x}/{y}.topojson?api_key=vector-tiles-NT5Emiw', {
   interactive: false,
   style: function(feature) {
     var height;
@@ -49,6 +48,34 @@ var topoJSONTileLayer = VIZI.topoJSONTileLayer('https://vector.mapzen.com/osm/bu
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://whosonfirst.mapzen.com#License">Who\'s On First</a>.'
 }).addTo(world);
 
+VIZI.geoJSONLayer('./office.geojson', {
+  interactive: true,
+  style: function(feature) {
+    var height = 300;
+
+    return {
+      height: height,
+      color: '#800080',
+      //linewidth: 3,
+      //fillColor: '#000000',
+      //lineTransparent: false,
+      //lineOpacity: 0.8,
+      //lineBlending: THREE.AdditiveBlending,
+      //lineRenderOrder: 1
+    };
+
+    console.log('office', feature);
+  },
+
+  onEachFeature: function(feature, layer) {
+    layer.on('click', function(layer, point2d, point3d, intersects) {
+      console.log('CLIR+DLF Offices');
+      console.log(layer, point2d, point3d, intersects);
+    });
+  },
+
+}).addTo(world);
+
 // // Washington DC Lines
 VIZI.geoJSONLayer('./metro.geojson', {
   output: true,
@@ -61,10 +88,11 @@ VIZI.geoJSONLayer('./metro.geojson', {
     } catch(e) {
         colour = feature.properties.stroke;
     }
-    
+
     return {
+      height: 100,
       lineColor: colour,
-      lineHeight: 20,
+      lineHeight: 15,
       lineWidth: 3,
       lineTransparent: true,
       lineOpacity: 0.5,
