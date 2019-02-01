@@ -13,7 +13,7 @@ oms.addListener('click', function(marker) {
 });
 
 L.control.layers({
-  'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+  'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets'),
   'Mapbox Light': L.mapbox.tileLayer('mapbox.light')
 }).addTo(map);
 
